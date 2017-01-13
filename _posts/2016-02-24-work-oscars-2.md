@@ -1,6 +1,6 @@
 ---
 layout: work
-title: "Latest data revelas the size of the Oscar's gender gap"
+title: "Latest data reveals the size of the Oscar's gender gap"
 date: 2016-02-24 18:24:44 +0200
 author: "Alice"
 client: "Silk"
