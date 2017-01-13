@@ -7,7 +7,7 @@
     {% include header.html %}
 <article itemscope itemtype="http://schema.org/BlogPosting" style="width:80%; margin:0px auto;">
   <hr>
-    <h1 itemprop="name headline">{{ page.title }}</h1>
+    <h2 style="color:#F2849E;" itemprop="name headline">{{ page.title }}</h2>
     <p>
       <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         <em>{{ page.date | date: "%b %-d, %Y" }}</em>
