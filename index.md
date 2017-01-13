@@ -1,0 +1,5 @@
+---
+layout: home
+title: Alice Corona
+---
+<h2 style="font-size:1.1em;color:#F2849E; margin:0 0 0 0;">I am a researcher specialized in data-driven methodologies for storytelling.</h2><p style="font-size:1.1em;">I've worked as a data journalist and I've counselled NGOs, non-profits and businesses on researching and producing data-driven stories. I've given talks, trainings and workshops on data-driven storytelling techniques and best practices (see <a href="/events">Events</a>). I privilege the use of open source tools and/or of coding. I have a background in History and a MA specializing in data journalism. I was lead data journalist and trainer at the data publishing platform <a href="www.silk.co">Silk.co</a>. Before, I've crafted data journalism stories and data visualizations for digital and print Italian news outlets. Hire me: here's <a href="/CV">what services I offer</a>.</p>
