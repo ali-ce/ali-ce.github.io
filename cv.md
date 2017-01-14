@@ -2,7 +2,7 @@
 layout: page
 ---
 
-<h3 style="color:#F2849E;font-weight:0;text-align:right;">Download PDF version <a href="/files/cv.pdf">here</a></h3>
+<p style="color:#F2849E;font-weight:0;text-align:right;">Download PDF version <a href="/files/cv.pdf">here</a></p>
 <h2 style="font-size:1.3em">Skills</h2>
 
 Skill | Details
