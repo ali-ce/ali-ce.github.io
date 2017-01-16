@@ -7,6 +7,7 @@ layout: page
 <h2 style="color:#F2849E;">2016</h2>
 
 - Winter University: [Using European data for better storytelling](http://web.cor.europa.eu/epp/Events/SummerUniversity/Pages/2016-eppwu-data-journalism.aspx) by European People's Party · Brussels, Belgium · *(November 22 - 23, 2016)*
+- [Contentious Data: A One-day event on the Politics of Big Data for Activism](http://acgs.uva.nl/news-and-events/upcoming-events/content/workshops/2016/09/contentious-data.html) by [DATACTIVE](https://data-activism.net/) · Amsterdam, The Netherlands · *(September 15, 2016)*
 - \*[Shift, Shape, Mobilize Workshop](https://blog.sourcefabric.org/en/news/blog/3487/Shift-Shape-Mobilize-goes-to-Odessa!.htm) by Sourcefabric and n-ost · Odessa, Ukraine · *(July 31 - August 7, 2016)*
 - [Summer School for Journalists and Media Practicioners](http://cmpf.eui.eu/training/summer-school-2016.aspx) @ European University Institute · Fiesole, Italy · *(July 11-15, 2016)*
 - \*[EU Transparency Camp](https://transparencycamp.eu/) · Amsterdam, The Netherlands · *(June 1, 2016)* · my slides [here](/event/2016/06/01/events-transparency-camp)
