@@ -72,7 +72,7 @@ Major Dutch newspaper.
 **@University of Tilburg (The Netherlands)**  
 
 - Graduated with distinction 
-- Thesis "*Social meets civic: Civic social media and open government data: An inquiry on collaborative fact-checking for citizens’ empowerment*" (Read [here](/social-civic-media))
+- Thesis "*Social meets civic: Civic social media and open government data: An inquiry on collaborative fact-checking for citizens’ empowerment*" (Read [here](/page/2013/07/15/page-MA-thesis))
 - One of the two students chosen for a data journalism internship at NRC Next (major Dutch newspaper)
 
 <h3 style="color:#F2849E">History, Tradition and Innovation (BA)</h3>
@@ -80,5 +80,5 @@ Major Dutch newspaper.
 **@University of Siena (Italy)**
   
 - Graduated cum laude
-- Thesis analyzing media discourse in Italian newspapers during the 2011 was in Libya and NATO's intervention (Read [here](/war-in-libya), in Italian)
+- Thesis analyzing media discourse in Italian newspapers during the 2011 was in Libya and NATO's intervention (Read [here](/page/2012/07/08/page-BA-thesis), in Italian)
 - Specialized in the period from the 1789 French Revolution to current days. Elective courses in Philosophy, Human Rights, Economic History and Globalization
