@@ -8,9 +8,17 @@ tags:
 excerpt_separator: <!--more-->
 ---
 
+Questa pagina contiene alcune risorse per imparare a creare un sito web data-driven tramite [Silk](silk.co), per poter esplorare, visualizzare, pubblicare e presentare i dati. I dati utilizzati nella demo sono quelli risultanti dal workshop "[Vocabolari, metadati: uno sguardo nel dettaglio](http://www.spaghettiopendata.org/content/vocabolari-metadati-uno-sguardo-nel-dettaglio#.WTBkqsmxWb8)" presentato all'Open Data Fest 2017.
+Il risultato finale è visibile [qui](www.odfest2017.silk.co).
+Se hai altre domande su come proseguire, puoi sempre mandarmi una mail o controllare le [help pages](silk.co/help)   
+
+
+
 <h2>Trailer</h2>
 
 <div class="video-container"><iframe width="853" height="480" src="https://www.youtube.com/embed/b-87lQ68ZDo" frameborder="0" allowfullscreen></iframe></div>   
+
+
 
 
 
