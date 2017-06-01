@@ -4,7 +4,7 @@ title: "Most Wanted”: Interpol’s transparency"
 date: 2013-10-01 18:24:44 +0200
 author: "Alice"
 client: "Wired"
-project_url: /page/2013/10/01/page-interpol
+project_url: /pages/interpol
 categories:   works
 tags:         transparency
 excerpt_separator: <!--more-->
@@ -16,4 +16,4 @@ Who’s on Interpol’s “Most Wanted” list? With the aid of  scraping, data 
 
 Are dictators and oppressive regimes taking advantages of the mechanism? and why is Interpol reluctant to release information about its activity?
 
-Article [originally published on Wired Italy](http://blog.wired.it/data/2013/11/13/caso-shalabayeva-abylazov-dal-viminale-allinterpol-ecco-le-cose-che-non-quadrano-inchiesta-e-mappa.html). The English version of the visualization and findings is [here](/page/2013/10/01/page-interpol).
+Article [originally published on Wired Italy](http://blog.wired.it/data/2013/11/13/caso-shalabayeva-abylazov-dal-viminale-allinterpol-ecco-le-cose-che-non-quadrano-inchiesta-e-mappa.html). The English version of the visualization and findings is [here](/pages/interpol).

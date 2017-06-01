@@ -4,7 +4,7 @@ title: "The Donors Behind Italian Political Parties"
 date: 2013-06-01 18:24:44 +0200
 author: "Alice"
 client: "Datajournalism.it"
-project_url: http://www.datajournalism.it/2013/10/04/oliocontante-finanziamenti-privati-partiti/
+project_url: http://www.datajournalism.it/oliocontante-finanziamenti-privati-partiti/
 categories:   works
 tags:         transparency
 excerpt_separator: <!--more-->

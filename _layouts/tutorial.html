@@ -5,8 +5,8 @@
 
 <body>
     {% include header.html %} 
+    	<hr>
 <article style="width:80%; margin:0px auto;">
-	<hr>
 		{% for post in site.categories.tutorial %}
 			<li><a href="{{ post.url | prepend:site.baseurl | prepend:site.url }}">{{ post.title }}</a></li>
 		{% endfor %}

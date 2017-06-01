@@ -4,7 +4,7 @@ title: "Blossoming Books"
 date: 2013-04-03 18:24:44 +0200
 author: "Alice"
 client: ""
-project_url: /page/2013/04/03/page-blossoming-books
+project_url: /pages/blossoming-books
 categories:   works
 tags:         other
 excerpt_separator: <!--more-->

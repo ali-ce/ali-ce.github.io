@@ -6,9 +6,9 @@
 <body>
 
     {% include header.html %} 
+<hr>
 <article itemscope itemtype="http://schema.org/BlogPosting" style="width:80%; margin:0px auto;">
-  <hr>
-    <h2 style="color: #F2849E;" itemprop="name headline">{{ page.title }}</h2>
+    <h2 style="color: #ff6b6b;" itemprop="name headline">{{ page.title }}</h2>
     <table>
       <tr>
         <th>Date</th>
@@ -26,10 +26,10 @@
       </tr>
       </table>  
   <div itemprop="articleBody">{{ content }}</div>
-  <span><a href="{{ page.project_url }}"><img src="{{ site.url }}{{ site.baseurl }}/images/{{ page.image }}" style="max-width:100%;"></a></span>
+  <span><a href="{{ page.project_url }}"><img src="{{ site.url }}{{ site.baseurl }}/images/works/{{ page.image }}" style="max-width:100%;"></a></span>
   <hr>
-<div style="text-align:center; font-weight: 900; font-size: 20px;">
-  <a class="" href="{{ site.url }}{{ site.baseurl }}/portfolio">BACK TO ALL PROJECTS</a>
+<div style="text-align:center; font-weight: 300; font-size: 20px;">
+  <a class="" href="{{ site.url }}{{ site.baseurl }}/portfolio">Back to all projects</a>
 </div>
 <hr>
 </article>

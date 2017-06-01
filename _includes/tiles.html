@@ -3,7 +3,7 @@
 {% for post in site.categories.works %}
 	<article class="style1">
 		<span class="image">
-			<img src="{{ site.url }}{{ site.baseurl }}/images/{{ post.thumbnail }}" alt="" />
+			<img src="{{ site.url }}{{ site.baseurl }}/images/grid/{{ post.thumbnail }}" alt="" />
 		</span>
 		<a href="{{ post.url | prepend:site.baseurl | prepend:site.url }}">
 			<h2>{{ post.title }}</h2>

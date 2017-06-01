@@ -4,7 +4,7 @@ title: "Social meets civic. Civic social media and open government data"
 date: 2013-07-15 18:24:44 +0200
 author: "Alice"
 client: "University of Tilburg (Thesis)"
-project_url: /page/2013/07/15/page-MA-thesis
+project_url: /pages/MA-thesis
 categories:   works
 tags:         civic_media
 excerpt_separator: <!--more-->
@@ -22,4 +22,4 @@ This inquiry is carried out through the qualitative study of an exemplar case: a
 
 The research is conducted through a triangulation of methods, specifically content analysis of a digital entity (the social media platform); semi-structured interviews with members of Fondazione ahref; and a survey of the users of the platform. The outcome is a broad overview on the concept of civic social media and on the characteristics of a social media that promotes civic engagement and citizens’ empowerment.
 
-Read the abstract and download the full [text here](/page/2013/07/15/page-MA-thesis).
+Read the abstract and download the full [text here](/pages/MA-thesis).
