@@ -1,6 +1,6 @@
 ---
 layout: work
-title: "Most Wanted”: Interpol’s transparency"
+title: "Most Wanted: Interpol’s transparency"
 date: 2013-10-01 18:24:44 +0200
 author: "Alice"
 client: "Wired"

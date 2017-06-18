@@ -4,6 +4,11 @@ layout: page
 
 <p style="font-size:1.1em;">Events and trainings I've attended. <em>Asterik: event where I've also been a tranier/speaker</em>.</p>
 
+<h2 style="color:#ff6b6b;">2017</h2>
+
+-\*Guest lecture on Data Journalism at the [Jheronimus Academy of Data Scienceat (JADS)](https://www.jads.nl/) · 's-Hertogenbosch, The Netherlands · *(May 18, 2017)*
+
+
 <h2 style="color:#ff6b6b;">2016</h2>
 
 - Winter University: [Using European data for better storytelling](http://web.cor.europa.eu/epp/Events/SummerUniversity/Pages/2016-eppwu-data-journalism.aspx) by European People's Party · Brussels, Belgium · *(November 22 - 23, 2016)*

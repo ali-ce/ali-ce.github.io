@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Social meets civic:. Civic social media and open government data: An inquiry on collaborative fact-checking for citizens’ empowerment"
+title: "Social meets civic. Civic social media and open government data: An inquiry on collaborative fact-checking for citizens’ empowerment"
 date: 2013-07-15 18:24:44 +0200
 author: "Alice"
 categories:   page

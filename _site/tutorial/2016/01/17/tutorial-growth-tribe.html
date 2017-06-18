@@ -80,19 +80,21 @@ Here’s the <strong>step-by-step tutorial on how to analyse the growth hacker j
 
 <p><em>(Note: If you have an AngelList API Key, APIs are the best way to create the dataset!)</em></p>
 
-<p><img src="../../../../images/growth-tribe-1.png" style="max-width:100%;" /></p>
+<p><img src="/images/tutorials/growth-tribe-1.png" style="max-width:100%;" /></p>
 
 <ol>
   <li>Search AngelList for “Growth Hacker” jobs. Use Chrome as a browser. (See <a href="https://angel.co/jobs#/find/f%21%7B%22keywords%22:%5B%22growth%20hacker%22%5D%7D">this query</a>)</li>
-  <li>Get links to all the job offers listed through <a href="https://chrome.google.com/webstore/detail/scraper/mbigbapnjcgaffohmbkdlecaccepngjd?hl=en">Chrome Scrape Similar extension</a>. To do this, scroll to the end of the page till all the job offers are loaded. Then click anywhere on the page and right-click with the mouse. Select “Scrape Similar”. In the pop-up window, type the following XPath: <code class="highlighter-rouge">//div[@class=’title’]/a/@href</code>
-<img src="../../../../images/growth-tribe-2.png" style="max-width:100%;" /></li>
+  <li>
+    <p>Get links to all the job offers listed through <a href="https://chrome.google.com/webstore/detail/scraper/mbigbapnjcgaffohmbkdlecaccepngjd?hl=en">Chrome Scrape Similar extension</a>. To do this, scroll to the end of the page till all the job offers are loaded. Then click anywhere on the page and right-click with the mouse. Select “Scrape Similar”. In the pop-up window, type the following XPath: <code class="highlighter-rouge">//div[@class=’title’]/a/@href</code>
+<img src="/images/tutorials/growth-tribe-2.png" style="max-width:100%;" /></p>
+  </li>
   <li>Copy the results to the clipboard, then create <a href="https://docs.google.com/spreadsheets/d/1UH6VB1eQQ0CkWRup4JOdWajYWa9ZYzrQ8vLSDbnJBkE/edit#gid=0">a Google Sheet</a> and copy these job offer URLs in the first column.</li>
   <li>Repeat Step 2. and 3, copying the results in the columns next to the first one, with the following XPaths as well:
     <ul>
       <li>Get Job Title for each job offering: <code class="highlighter-rouge">//div[@class=’title’]/a/text()</code></li>
       <li>Get Job Compensation for each job offering: <code class="highlighter-rouge">//div[@class=’compensation’]</code></li>
       <li>Get Job Tags for each offering: <code class="highlighter-rouge">//div[@class=’tags’]</code>
-<img src="../../../../images/growth-tribe-3.png" style="max-width:100%;" /></li>
+<img src="/images/tutorials/growth-tribe-3.png" style="max-width:100%;" /></li>
     </ul>
   </li>
   <li>Create another sheet in your Google Sheet and use it to get a list of all the companies hiring and details about them. To fill in this sheet, repeat the step 2. and 3. with the following XPaths:
@@ -167,9 +169,9 @@ Here’s the <strong>step-by-step tutorial on how to analyse the growth hacker j
 
 <ol>
   <li>Link the two sheets through a key column: In the “Import Jobs spreadsheet, create a column called “Hiring Company”</li>
-  <li>Use the ‘FILTER’’ function to lookup the company name in the Company spreadsheet, using the “Hiring Company Link” column as the common value.<img src="../../../../images/growth-tribe-4.png" style="max-width:100%;" /></li>
+  <li>Use the ‘FILTER’’ function to lookup the company name in the Company spreadsheet, using the “Hiring Company Link” column as the common value.<img src="/images/tutorials/growth-tribe-4.png" style="max-width:100%;" /></li>
   <li>Create a unique ID column by combining the Job Title with the Hiring Company
-<img src="../../../../images/growth-tribe-5.png" style="max-width:100%;" /></li>
+<img src="/images/tutorials/growth-tribe-5.png" style="max-width:100%;" /></li>
 </ol>
 
 <p><strong>d) Currency Conversion in the “Import Jobs” Sheet</strong></p>
@@ -177,7 +179,7 @@ Here’s the <strong>step-by-step tutorial on how to analyse the growth hacker j
 <ol>
   <li>Split the “Job Compensation” column into a “Min. Job Compensation” and a “Max. Job Compensation” column. Use the formula <code class="highlighter-rouge">=IF(F2&lt;&gt;“”, SPLIT(SUBSTITUTE(F2,“k”,“000”),“— ”,false),“”)</code> (This also converts $1K to $1000)</li>
   <li>Get the symbol of the currency the compensation is expressed in. Use the formula <code class="highlighter-rouge">=LEFT(Cell_with_compensation,1)</code></li>
-  <li>Create another sheet called “Exchange Rates”. Fill it in with three columns: “Currency Symbol”, “Currency Name”, “Exchange Rate to Dollars”. Fill this information in with each of the currencies you encountered in the job compensation column.<img src="../../../../images/growth-tribe-6.png" style="max-width:100%;" /></li>
+  <li>Create another sheet called “Exchange Rates”. Fill it in with three columns: “Currency Symbol”, “Currency Name”, “Exchange Rate to Dollars”. Fill this information in with each of the currencies you encountered in the job compensation column.<img src="/images/tutorials/growth-tribe-6.png" style="max-width:100%;" /></li>
   <li>Go back to the “Import Jobs” sheet. Convert all min and max job compensations to dollars, using the VLOOKUP formula to find the exchange rates. Formulas used in this case:
     <ul>
       <li>Column K: <code class="highlighter-rouge">=IF(F2&lt;&gt;“”, SPLIT(SUBSTITUTE(F2,“k”,“000”),“ — ”,false),“”)</code></li>
@@ -190,7 +192,7 @@ Here’s the <strong>step-by-step tutorial on how to analyse the growth hacker j
   <li>Set the format of the cells in these columns to Currency: US $</li>
   <li>Recalculate a “Job Compensation in $” column by joining the min and max compensations with a <code class="highlighter-rouge"> — </code>.</li>
   <li>Calculate a “Median Compensation in $” column with the MEDIAN function
-<img src="../../../../images/growth-tribe-7.png" style="max-width:100%;" /></li>
+<img src="/images/tutorials/growth-tribe-7.png" style="max-width:100%;" /></li>
 </ol>
 
 <h2>3. Analyze and Visualize Your Dataset</h2>
