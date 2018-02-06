@@ -9,7 +9,7 @@ layout: page
 <h3 style="color:#ff6b6b"> Founder and Project Leader</h3>   
 
 *Jan. 2018 - Present*  
-**@[Batjo](https://digitalnewsinitiative.com/dni-projects/batjo-bits-atoms-and-journalism-round-4/)**  · *Project at the intersection of data, journalism and digital fabrication*   
+**@[Batjo](https://digitalnewsinitiative.com/dni-projects/batjo-bits-atoms-and-journalism-round-4/)**  · *Project at the intersection of data, journalism and digital fabrication* 
 
 - Awarded with [Google’s DNI Innovation Fund](https://digitalnewsinitiative.com/dni-projects/batjo-bits-atoms-and-journalism-round-4/), in December 2017
 
@@ -25,7 +25,6 @@ layout: page
 
 - Stayed home to care for my daughter
 - Continued being a guest lecturer and trainer at international events (see [events](/events) section of my website for list)
-
 
 <h3 style="color:#ff6b6b">Lead Data Journalist & Trainer</h3>
 
@@ -51,7 +50,9 @@ layout: page
 *April 2013 - June 2013*  
 **@ [NRC next](https://www.nrc.nl/)** · *Major Dutch newspaper Major Dutch newspaper*  
 
-<h2 style="font-size:1.3em">Education</h2>
+
+<h2 style="font-size:1.3em">Education</h2>   
+
 <h3 style="color:#ff6b6b">Post-Graduate Learning</h3>
 
 - [Winter University: Using European data for better storytelling](http://web.cor.europa.eu/epp/Events/SummerUniversity/Pages/2016-eppwu-data-journalism.aspx) by European People’s Party · Brussels, Belgium  

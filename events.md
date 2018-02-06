@@ -6,7 +6,7 @@ layout: page
 
 <h2 style="color:#ff6b6b;">2017</h2>
 
--\*Guest lecture on Data Journalism at the [Jheronimus Academy of Data Scienceat (JADS)](https://www.jads.nl/) · 's-Hertogenbosch, The Netherlands · *(May 18, 2017)*
+- \*Guest lecture on Data Journalism at the [Jheronimus Academy of Data Scienceat (JADS)](https://www.jads.nl/) · 's-Hertogenbosch, The Netherlands · *(May 18, 2017)*
 
 
 <h2 style="color:#ff6b6b;">2016</h2>
