@@ -3,57 +3,53 @@ layout: page
 ---
 
 <p style="color:#ff6b6b;font-weight:0;text-align:right;">Download CV in PDF format <a href="/files/cv.pdf">here</a></p>
-<h2 style="font-size:1.3em">Skills</h2>
 
-Skill |  Details
---- | ---
-Research | Using multiple methodologies (content analysis of texts and digital entities; research interview; survey; frame analysis; analysis of news sources, analysis of historical documents); finding data for stories & how to access it & how to complement it 
-Data scraping | Getting the data in a machine-readable format. Python, APIs, XPath scraping in Google Sheets
-Data wrangling | Cleaning and restructuring of messy data. OpenRefine + GREL expressions, Python, RegEx
-Data analysis | Exploratory + statistical analysis. Google Sheets/Excel, Python
-Data storytelling | Putting together insights to form a story; presenting the story; finding possible gaps and limitations
-Data visualization | Networks visualizations, maps, timelines, (interactive) charts, infographics  
+<h2 style="font-size:1.3em">Work Experience</h2>   
 
+<h3 style="color:#ff6b6b"> Founder and Project Leader</h3>   
 
-<h2 style="font-size:1.3em">Work Experience</h2>
+*Jan. 2018 - Present*  
+**@[Batjo](https://digitalnewsinitiative.com/dni-projects/batjo-bits-atoms-and-journalism-round-4/)**  · *Project at the intersection of data, journalism and digital fabrication*   
 
-<h3 style="color:#ff6b6b">Data-Driven Storytelling Consulant & Researcher</h3>
-*Aug. 2016 - Present*  
-**@Freelancer**  
+- Awarded with [Google’s DNI Innovation Fund](https://digitalnewsinitiative.com/dni-projects/batjo-bits-atoms-and-journalism-round-4/), in December 2017
 
-- Assisting clients (NGOs, academia and journalists) with data driven stories/research  
-- Trainer at international and local events  (see [events](/events) section of my website for list)
+<h3 style="color:#ff6b6b"> Data Visuals, Storytelling and Activism</h3> 
+
+*Nov. 2017 - Present*  
+**@[InsideAirbnb]()**  · *Activism project publishing data on Airbnb to foster a factual debate on the topic*
+
+<h3 style="color:#ff6b6b">A carreer gap for a happy family</h3>
+
+*Aug. 2016 - November 2017*  
+*Took some time off from having a steady job to start a family and plan for my next life-changing career moves*  
+
+- Stayed home to care for my daughter
+- Continued being a guest lecturer and trainer at international events (see [events](/events) section of my website for list)
 
 
 <h3 style="color:#ff6b6b">Lead Data Journalist & Trainer</h3>
+
 *Jan. 2014 - Aug. 2016*  
-**@ [Silk.co](https://www.silk.co/)**  
-The startup behind the semantic platform for data publishing and interactive storytelling. Successfully acquired by Palantir in Aug. 2016.  
+**@ [Silk.co](https://www.silk.co/)**  · *Startup for data publishing and interactive storytelling. Acquired by Palantir in Aug. 2016*  
 
 - Projects featured in [The Guardian](https://www.theguardian.com/film/2015/sep/22/female-film-makers-a-minority-at-venice-and-toronto-festivals), [Information is Beautiful](http://www.informationisbeautifulawards.com/news/61-silk-s-women-in-film), [Vox](http://www.vox.com/2015/1/26/7907707/measles-symptoms-vaccine), [CNN](http://edition.cnn.com/2015/02/02/health/measles-how-bad-can-it-be/), [The Atlantic](http://www.theatlantic.com/health/archive/2015/01/the-new-measles/384738/) and others  
 - Trainer at international and local events (See [Events](/events))
 
-<h3 style="color:#ff6b6b">Research Assistant</h3>
+<h3 style="color:#ff6b6b">Research Assistant</h3>   
+
 *Sept. 2013 - Jan. 2014*  
-**@ [DataJLab](http://datajlab.nl/)**  
-A virtual lab at Tilburg University on data journalism trends and techniques 
+**@ [DataJLab](http://datajlab.nl/)** · *Virtual lab at Tilburg University on data journalism trends and techniques*
  
 - Member of the "Climate Finance Lab" team, investigating financial data stories behind climate policies.
 - Co-authored paper with Dr. Stefania Milan on journalism and algorithms. Selected for a panel at "[Rethinking Journalism](http://www.rug.nl/research/icog/research/research-centres/centre-for-journalism-and-mediastudies/events-and-activities/agenda/rethinking-journalism-ii-the-societal-role-relevance-of-journalism-in-a-digital-age?lang=en)"
 
 <h3 style="color:#ff6b6b">Journalist</h3>
 *May 2013 - Jan. 2014*  
-**@ Freelancer**  
-
-- Published data-driven pieces for print and digital italian outlets  
-- Clients include Wired and datajournalism.it
+**@ Freelancer** · *Published data-driven pieces for print and digital Italian outlets, like  Wired Italy and datajournalism.it* 
 
 <h3 style="color:#ff6b6b">Journalist Trainee</h3>
 *April 2013 - June 2013*  
-**@ [NRC next](https://www.nrc.nl/)**  
-Major Dutch newspaper.  
-
-- Internship that led to [data-driven investigative journalism piece on Interpol](/pages/interpol)  
+**@ [NRC next](https://www.nrc.nl/)** · *Major Dutch newspaper Major Dutch newspaper*  
 
 <h2 style="font-size:1.3em">Education</h2>
 <h3 style="color:#ff6b6b">Post-Graduate Learning</h3>
