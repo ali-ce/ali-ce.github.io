@@ -1,0 +1,55 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": ""
+  },
+  "text": {
+    "more": "",
+    "intro": "",
+    "title": ""
+  },
+  "legend": {
+    "edgeLabel": "",
+    "colorLabel": "",
+    "nodeLabel": ""
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "room_type",
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": true,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "straight",
+      "defaultHoverLabelBGColor": "#fff",
+      "defaultLabelBGColor": "#343233",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#464646",
+      "labelThreshold": 19,
+      "defaultLabelHoverColor": "#464646",
+      "fontStyle": "",
+      "hoverFont": "Open Sans",
+      "hoverFontStyle": "",
+      "defaultLabelSize": 14,
+      "labelSize": "fixed"
+    },
+    "graphProperties": {
+      "maxEdgeSize": 1,
+      "minEdgeSize": 0.3,
+      "minNodeSize": 0.3,
+      "maxNodeSize": 14
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
