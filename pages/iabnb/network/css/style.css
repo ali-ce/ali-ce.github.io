@@ -24,7 +24,8 @@ html,body {
 	font-size: 12px;
 	font-family: sans-serif;
 	line-height:1.25em;
-	font-family: 'Open Sans',serif;
+	font-family: 'Source Sans Pro',serif;
+	font-weight: 300;
 }
 
 a:link {
@@ -151,7 +152,7 @@ cursor: default;
 padding-bottom: 20px;
 padding-top: 20px;
 font-weight:800;
-font-family: 'Palanquin Dark', sans-serif;
+font-family: 'Prata', sans-serif;
 
 }
 
@@ -185,7 +186,7 @@ padding-top: 10px;
 padding-bottom: : 10px;
 font-weight: bolder;
 font-size:16px;
-font-family: 'Palanquin Dark', sans-serif;
+font-family: 'Prata', sans-serif;
 }
 
 .left-close {
@@ -232,6 +233,7 @@ padding: 0px 0 0 0;
 width: 210px;
 padding: 18px 18px 18px 18px;
 margin: 0;
+background-color: #F9F9F9;
 
 }
 
@@ -372,7 +374,7 @@ padding-top: 1em;
 
 #mainpanel h2 {
 	font-size:14px;
-	font-family: "Palanquin Dark", "sans-serif";
+	font-family: "Prata", "sans-serif";
 }
 
 #mainpanel dt {
