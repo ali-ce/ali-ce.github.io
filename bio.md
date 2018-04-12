@@ -16,8 +16,10 @@ layout: page
 <h3 style="color:#ff6b6b"> Data Visuals, Storytelling and Activism</h3> 
 
 *Nov. 2017 - Present*  
-**@[InsideAirbnb]()**  · *Activism project publishing data on Airbnb to foster a factual debate on the topic*
+**@[InsideAirbnb]()**  · *Activism project publishing data on Airbnb to foster a factual debate on the topic*   
 
+- Data storytelling and activism, with a focus on the impact of Airbnb on housing and residents in Italian cities
+ 
 <h3 style="color:#ff6b6b">A carreer gap for a happy family</h3>
 
 *Aug. 2016 - November 2017*  
