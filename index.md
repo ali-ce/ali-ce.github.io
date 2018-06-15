@@ -3,11 +3,7 @@ layout: home
 title: Alice Corona
 ---
 I tell stories with data, and can follow the whole process: from the data collection (or scrape) to the data visualization.   
-<br />
 I am currently also project leader at [Batjo](https://batjo.eu), a [Google DNI](https://digitalnewsinitiative.com/dni-projects/batjo-bits-atoms-and-journalism-round-4/) funded project investigating the intersection of journalism, data and digital fabrication.   
-<br />
 I also engage in data activism practices at [InsideAirbnb](https://insideairbnb.com), with a focus on my city: Venice. When I get the chance, I love teaching data storytelling, especially to students, journalists and activists.   
-<br />
 Previously, I have worked in Amsterdam (NL) as lead data journalist at the startup [Silk](https://www.silk.co), a semantic web platform for publishing and visualizing data. In this position, other than producing data storytelling content, I have also counselled academia, NGOs and businesses on producing their own data stories.   
-<br />
 I privilege the use of open source tools and/or of coding. I have a BA in History from the University of Siena (IT) and a MA specializing in data journalism from Tilburg University (NL).
