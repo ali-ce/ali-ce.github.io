@@ -12,7 +12,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 # Logo settings
-logo: "/img/logo.png"
+logo: "https://alice-corona.nl/img/logo.png"
 favicon: "/img/logo.png"
 me: "/img/myself.svg"
 

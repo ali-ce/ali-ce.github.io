@@ -24,7 +24,7 @@
     {% if page.excerpt %}<meta property="og:description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
     <meta property="og:url" content="/">
     <meta property="og:site_name" content="{{ site.title }}">
-    <meta property="og:image" content="https://{{site.logo}}">
+    <meta property="og:image" content="{{site.logo}}">
 
 <!-- Stylesheets -->
     <link rel="stylesheet" href="/style/main.css">
