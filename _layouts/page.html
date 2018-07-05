@@ -1,16 +1,19 @@
-<!DOCTYPE html>
-<html>
-
 {% include head.html %}
-
 <body>
-    {% include header.html %}
-    <hr> 
-<article itemscope itemtype="http://schema.org/BlogPosting" style="width:80%; margin:0px auto;">
-    <h2 style="color:#FF6B6B;" itemprop="name headline">{{ page.title }}</h2>
-  <div itemprop="articleBody">{{ content }}</div>
-</article>
-{% include footer.html %} 
-</body>
-</html>
+<div class="grid-container">
+  <div class="grid-item" id="grid1">
+  	<div class="name"><a href="/">Alice Corona</a></div>
+    {% include menu-side.html %}
+  </div>
+  <div class="grid-item" id="grid2">
+  	<div class="page-title"><em>{{page.title}}</em>
+    </div>
+     <div class="column-right">
+      <div class="content">
+        {{content}}
+      </div>
+      </div>
+  </div>
+</div>
 
+</body>

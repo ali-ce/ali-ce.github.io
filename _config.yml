@@ -7,23 +7,21 @@
 
 # Site settings
 title: Alice Corona
-email: 8.a.c.huxl@gmail.com
-description: Data-Driven Storyteller · Consultant · Trainer · Researcher
+description: Data Storyteller · Consultant · Trainer · Researcher
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 # Logo settings
-logo-image-url: ""
-font-awesome-icon-logo: ""
+logo: "/img/logo.png"
+favicon: "/img/logo.png"
+me: "/img/myself.svg"
 
 # Social settings
-github_username: ali-ce
-twitter_username: alice_corona
-medium_username: alice_corona
+github: ali-ce
+twitter: alice_corona
+medium: alice_corona
+email: 8.a.c.huxl@gmail.com
 
 
 # Build settings
 markdown: kramdown
-
-# Layout settings
-home-link-in-menu: yes

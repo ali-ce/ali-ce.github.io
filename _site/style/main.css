@@ -1,0 +1,285 @@
+html,body { 
+  max-width: 100vw;
+  max-height: 100vh;
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto Slab', sans-serif ;
+  font-weight: 300;
+  line-height: 1.5em;
+  font-size: 16px;
+  overflow-x: hidden;
+}
+
+a { 
+color: #3d3536
+ }
+
+
+a:hover {
+  font-weight: 900;
+  font-size: 1.1em;
+}
+
+ul {
+  font-size: 14px;
+  margin-top: 4px;
+  margin-bottom: 10px;
+  padding-left: 50px;
+  list-style-type: square
+}
+
+li {
+  padding-bottom: 5px;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 30% 70%;
+  min-height: 100vh;
+}
+
+.grid-item {
+  color: #f5e9e0;
+  padding: 5px;
+  padding-bottom: 50px;
+  font-family: 'Arapey', serif;
+}
+
+#grid1 {
+  background-color: #3d3536;
+  color: #f5e9e0;
+  text-align: right;
+}
+
+#grid2 {
+  background-color: #f5e9e0;
+  color: #3d3536;
+  text-align: left;
+}
+
+.title-home {
+  padding-top: 200px;
+  font-size: 100px;
+  letter-spacing: 7px;
+  line-height: 100px;
+}
+
+.sub-home {
+  margin:0;
+  padding:0;
+  font-size: 16px;
+  font-style: italic;
+  line-height: 10px;
+  letter-spacing: 2px;
+  line-height: 1px;
+}
+
+.menu ul, .content-left ul {
+  margin-top: 6em;
+  margin-right: 15px;
+  list-style-type: none;
+
+}
+
+.menu li, .menu-bottom {
+    padding: 5px;
+    font-size: 1em;
+    text-transform: uppercase;
+    font-family: 'Roboto Slab', sans-serif;
+    font-weight: 100;
+    
+}
+
+.menu li a, .menu-bottom a {
+  color: #f5e9e0;
+  text-decoration: none;
+  border-bottom: 1px solid currentColor;
+  padding-bottom: 1px;
+}
+
+.menu-bottom {
+  position:absolute;
+  bottom:0;
+  margin-bottom: 20px;
+  text-align: right;
+}
+.page-title, .name {
+  padding: 15px;
+  padding-top: 30px;
+  font-size: 30px;
+  letter-spacing: 3px;
+  line-height: 30px;
+}
+
+.name {
+  padding-bottom: 4em;
+}
+
+.name a {
+  color: #f5e9e0;
+  text-decoration: none;
+  font-family: 'Arapey',serif;
+}
+
+.social {
+  float: right;
+  margin-bottom: 20px;
+  margin-top: 2em;
+  margin-right: 20px;
+}
+
+.social a {
+  padding: 5px;
+  font-size: 25px;
+  color: #b5d6aa; 
+}
+
+.social a:hover {
+  font-size: 2em;
+}
+
+.column-right {
+  padding-top: 50px;
+  padding-right: 200px;
+  padding-left: 15px;
+  text-align: justify;
+  font-family: 'Roboto Slab',sans-serif;
+}
+
+.content {
+  padding-left: 40px;
+  text-align: left;
+}
+
+.download-cv {
+  font-style: italic;
+  float: right;
+  padding: 1em;
+  margin-right: 2em;
+}
+
+h1 {
+	font-family: 'Roboto',sans-serif;
+  	text-transform: uppercase;
+  	font-weight: 400;
+  	clear: both;
+  	margin-top: 1.3em;
+  	line-height: 1.2em;
+  	text-align: left;
+}
+
+h2 {
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1em;
+  margin-bottom: 0px;
+  display: inline;
+}
+
+p.job-details {
+  font-family: 'Arapey',serif;
+  font-size: 14px;
+  margin-top: 0px;
+  margin-bottom: 2px;
+  display: inline;
+}
+
+p.job-chrono {
+  font-size: 12px;
+  margin-top: 0px;
+  margin-bottom: 2px;
+  display: inline;
+}
+
+h3 {
+  font-weight: 400;
+  font-size:14px;
+  margin-top: 2px;
+  margin-bottom: 0px;
+  display: inline;
+}
+
+ul.job-bullets {
+  font-size: 14px;
+  margin-top: 4px;
+  margin-bottom: 10px;
+  padding-left: 50px;
+  list-style-type: square
+}
+
+h2.job-title {
+  font-size: 18px;
+  color: #ff765e;
+  margin-bottom: 0px;
+  display: inline;
+}
+
+h2.teach-title {
+  font-weight: 400;
+  text-transform: uppercase;
+  font-size: 18px;
+  color: #ff765e;
+  margin-bottom: 0px;
+  display: inline;
+}
+
+span.teach-role {
+	color:#ff765e;
+}
+
+div.img-container {
+	width: 30%;
+	float: right; 
+	margin-top:50px;
+	padding: 20px;
+	padding-right: 50px;
+
+}
+
+div.img-container img {
+	max-width: 100%; 
+}
+
+
+@media screen and (max-width: 720px) {
+
+	div.img-container {
+	clear: both;
+	width: 92%;
+	padding: 2.5%;
+	align-items: center;
+  }
+
+  div.img-container img{
+	width: 100%;
+  }
+
+  .content {
+  padding-left: 10px;
+  text-align: left;
+}
+  .column-right {
+  padding-top: 50px;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+}
+
+@media screen and (max-width: 600px) {
+
+.menu ul, .content-left ul li{
+	padding:10px;
+
+}
+
+.grid-container {
+  grid-template-columns: 100%;
+  overflow-y: hidden;
+}
+
+.name {
+	padding-bottom: 20px;
+}
+
+}
