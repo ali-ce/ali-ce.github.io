@@ -6,7 +6,7 @@ teach-title13: 'Data Activism'
 teach-role13: 'Speaker'
 teach-date13: '14 June 2018'
 teach-place13: 'Luoghi comuni. Geografie della città tra estetica, politica e studi urbani'
-teach-place-link13: 'https://www.dinamopress.it/news/event/luoghi-comuni/unibo.it/hp/master-fulltime/data-science/'
+teach-place-link13: 'https://www.dinamopress.it/news/event/luoghi-comuni/'
 teach-place-geo13: 'Rome (Italy)'
 
 teach-title12: 'Data Storytelling'

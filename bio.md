@@ -10,7 +10,7 @@ location8: 'Venice, Italy'
 place8: 'Batjo'
 place8-link: 'https://www.batjo.eu'
 place-description8: 'Project at the intersection of data, journalism and digital fabrication'
-bullet8: "Awarded with <a href='https://digitalnewsinitiative.com/dni-projects/batjo-bits-atoms-and-journalism-round-4/'>Google’s DNI Innovation Fund</a>, in December 2017"
+bullet8: "Awarded with <a target='_blank' href='https://digitalnewsinitiative.com/dni-projects/batjo-bits-atoms-and-journalism-round-4/'>Google’s DNI Innovation Fund</a>, in December 2017"
 
 work-title7: 'Data Stories, Visuals and Activism'
 date7: 'Jan. 2018 - Present'
@@ -39,7 +39,7 @@ location4: 'Amsterdam, The Netherlands'
 place4: 'Silk'
 place4-link: 'https://www.silk.co'
 place-description4: 'Startup for data publishing and interactive storytelling. Acquired by Palantir in Aug. 2016'
-bullet4a: "Projects featured in <a href = 'https://www.theguardian.com/film/2015/sep/22/female-film-makers-a-minority-at-venice-and-toronto-festivals'>The Guardian</a>, <a href='http://www.informationisbeautifulawards.com/news/61-silk-s-women-in-film'>Information is Beautiful</a>, <a href = 'http://www.vox.com/2015/1/26/7907707/measles-symptoms-vaccine'>Vox</a>, <a href = 'http://edition.cnn.com/2015/02/02/health/measles-how-bad-can-it-be/'>CNN</a>, <a href = 'http://www.theatlantic.com/health/archive/2015/01/the-new-measles/384738/'>The Atlantic</a> and others"
+bullet4a: "Projects featured in <a target='_blank' href = 'https://www.theguardian.com/film/2015/sep/22/female-film-makers-a-minority-at-venice-and-toronto-festivals'>The Guardian</a>, <a target='_blank' href='http://www.informationisbeautifulawards.com/news/61-silk-s-women-in-film'>Information is Beautiful</a>, <a target='_blank' href = 'http://www.vox.com/2015/1/26/7907707/measles-symptoms-vaccine'>Vox</a>, <a target='_blank' href = 'http://edition.cnn.com/2015/02/02/health/measles-how-bad-can-it-be/'>CNN</a>, <a target='_blank' href = 'http://www.theatlantic.com/health/archive/2015/01/the-new-measles/384738/'>The Atlantic</a> and others"
 bullet4b: 'Trainer at international and local events'
 
 work-title3: 'Research Assistant'
@@ -49,7 +49,7 @@ place3: 'DataJLab'
 place3-link: 'http://datajlab.nl/'
 place-description3: 'Virtual lab at Tilburg University on data journalism trends and techniques'
 bullet3a: "Member of the 'Climate Finance Lab' team, investigating financial data stories behind climate policies."
-bullet3b: "Co-authored paper with Dr. Stefania Milan on journalism and algorithms. Selected for a panel at '<a href = 'http://www.rug.nl/research/icog/research/research-centres/centre-for-journalism-and-mediastudies/events-and-activities/agenda/rethinking-journalism-ii-the-societal-role-relevance-of-journalism-in-a-digital-age?lang=en'>Rethinking Journalism</a>'"
+bullet3b: "Co-authored paper with Dr. Stefania Milan on journalism and algorithms. Selected for a panel at '<a target='_blank' href = 'http://www.rug.nl/research/icog/research/research-centres/centre-for-journalism-and-mediastudies/events-and-activities/agenda/rethinking-journalism-ii-the-societal-role-relevance-of-journalism-in-a-digital-age?lang=en'>Rethinking Journalism</a>'"
 
 work-title2: 'Journalist'
 date2: 'Sept. 2013 - Jan. 2014'
@@ -71,8 +71,8 @@ ll-by7: 'ISIA Firenze'
 ll-dove7: 'Florence, Italy'
 ll-anno7: '2018'
 ll-title6: 'Winter University: Using European data for better storytelling'
-ll-link6: 'http://web.cor.europa.eu/epp/Events/SummerUniversity/Pages/2016-eppwu-data-journalism.aspx'
-ll-by6: 'European People’s Party'
+ll-link6: 'https://europeanmovement.eu/event/european-peoples-party-using-european-open-data-for-better-storytelling/'
+ll-by6: 'EPP Group'
 ll-dove6: 'Brussels, Belgium'
 ll-anno6: '2016'
 ll-title5: 'Shift, Shape, Mobilize Workshop'
@@ -106,20 +106,20 @@ edu-date2: 'Aug. 2012 - Aug. 2013'
 edu-place2: 'University of Tilburg (The Netherlands)'
 edu-bullet2a: 'Data Journalism Specialization'
 edu-bullet2b: 'Graduated with distinction'
-edu-bullet2c: "Thesis <a href='http://www.academia.edu/4203710/Social_meets_civic._Civic_social_media_and_open_government_data_An_inquiry_on_collaborative_fact-checking_for_citizens_empowerment'>'Social meets civic: Civics ocial media and open government data: An inquiry on collaborative fact-checking for citizens’ empowerment'</a>"
+edu-bullet2c: "Thesis <a target='_blank' href='http://www.academia.edu/4203710/Social_meets_civic._Civic_social_media_and_open_government_data_An_inquiry_on_collaborative_fact-checking_for_citizens_empowerment'>'Social meets civic: Civics ocial media and open government data: An inquiry on collaborative fact-checking for citizens’ empowerment'</a>"
 
 edu-title1: 'History, Tradition and Innovation (BA)'
 edu-date1: 'Sept. 2008 - July 2012'
 edu-place1: 'University of Siena (Italy)'
 edu-bullet1a: 'Graduated cum laude'
-edu-bullet1b: "Thesis analysing <a href='http://www.academia.edu/3711682/La_guerra_in_Libia_del_2011_e_la_stampa_italiana_rappresentazione_mediatica_di_un_teatro_bellico'>media discourse in Italian newspapers during the 2011 war in Libya and NATO’s intervention</a>"
+edu-bullet1b: "Thesis analysing <a target='_blank' href='http://www.academia.edu/3711682/La_guerra_in_Libia_del_2011_e_la_stampa_italiana_rappresentazione_mediatica_di_un_teatro_bellico'>media discourse in Italian newspapers during the 2011 war in Libya and NATO’s intervention</a>"
 edu-bullet1c: 'Specialized in the period from the 1789 French Revolution to current days. Elective courses in Philosophy, Human
 Rights, Economic History and Globalization'
 
 ---
 
 I tell stories with data, and can follow the whole process: from the data collection (or scrape) to the data visualization.   
-I am currently also project leader at [Batjo](https://batjo.eu), a [Google DNI](https://digitalnewsinitiative.com/dni-projects/batjo-bits-atoms-and-journalism-round-4/) funded project investigating the intersection of journalism, data and digital fabrication.   
+I am currently also project leader at [Batjo](https://batjo.eu){:target='_blank'}, a [Google DNI](https://digitalnewsinitiative.com/dni-projects/batjo-bits-atoms-and-journalism-round-4/){:target='_blank'} funded project investigating the intersection of journalism, data and digital fabrication.   
 When I get the chance, I love [teaching data storytelling](/events), especially to students, journalists and activists.   
-Previously, I have worked in Amsterdam (NL) as lead data journalist at the startup [Silk](https://www.silk.co), a semantic web platform for publishing and visualizing data. In this position, other than producing data storytelling content, I have also counselled academia, NGOs and businesses on producing their own data stories.   
+Previously, I have worked in Amsterdam (NL) as lead data journalist at the startup [Silk](https://www.silk.co){:target='_blank'}, a semantic web platform for publishing and visualizing data. In this position, other than producing data storytelling content, I have also counselled academia, NGOs and businesses on producing their own data stories.   
 I privilege the use of open source tools and/or of coding. I have a BA in History from the University of Siena (IT) and a MA specializing in data journalism from Tilburg University (NL).

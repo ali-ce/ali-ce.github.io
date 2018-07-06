@@ -4,7 +4,7 @@ html,body {
   margin: 0;
   padding: 0;
   font-family: 'Roboto Slab', sans-serif ;
-  font-weight: 300;
+  font-weight: 400;
   line-height: 1.5em;
   font-size: 16px;
   overflow-x: hidden;
@@ -169,12 +169,14 @@ h1 {
 }
 
 h2 {
-  font-weight: 500;
-  font-size: 18px;
+  font-weight: 400;
+  font-size: 20px;
   line-height: 1em;
   margin-bottom: 0px;
   display: inline;
+  color: #ff765e;
 }
+
 
 p.job-details {
   font-family: 'Arapey',serif;
@@ -207,20 +209,14 @@ ul.job-bullets {
   list-style-type: square
 }
 
-h2.job-title {
-  font-size: 18px;
-  color: #ff765e;
+h2.job-title, h2.teach-title {
   margin-bottom: 0px;
-  display: inline;
+  font-size: 16px;
+  text-transform: uppercase;
 }
 
 h2.teach-title {
-  font-weight: 400;
-  text-transform: uppercase;
-  font-size: 18px;
-  color: #ff765e;
-  margin-bottom: 0px;
-  display: inline;
+  color: #3d3536 
 }
 
 span.teach-role {
@@ -240,6 +236,11 @@ div.img-container img {
 	max-width: 100%; 
 }
 
+img.work-image {
+    width: 100%;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
 
 @media screen and (max-width: 720px) {
 
@@ -270,7 +271,6 @@ div.img-container img {
 
 .menu ul, .content-left ul li{
 	padding:10px;
-
 }
 
 .grid-container {
@@ -280,6 +280,37 @@ div.img-container img {
 
 .name {
 	padding-bottom: 20px;
+}
+
+}
+
+@media screen and (max-width: 870px) {
+
+#home {
+  display: grid;
+  grid-template-columns: 50% 50%;
+  min-height: 100vh;
+}
+
+
+#home div.title-home{
+  font-size:35px;
+}
+
+#home span.sub-home{
+  font-size:14px;
+}
+
+#home div.menu ul{
+  margin-right: 0px;
+}
+
+#home div.menu ul li{
+  font-size:14px;
+}
+
+#home div.social a{
+  font-size:16px;
 }
 
 }
