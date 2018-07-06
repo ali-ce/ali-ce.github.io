@@ -242,6 +242,23 @@ img.work-image {
     padding-bottom: 1em;
 }
 
+
+.footer {
+  text-align: left; 
+  font-size:10px; 
+  font-family: 'Roboto Slab'; 
+  font-weight: 300;
+  padding-top: 1em; 
+  padding-bottom: 10px;
+  float: left; 
+  padding-left: 1em; 
+  margin-right: 1em; 
+  width: 20%; 
+  bottom: 0px; 
+  position: absolute;
+}
+
+
 @media screen and (max-width: 720px) {
 
 	div.img-container {
@@ -280,6 +297,12 @@ img.work-image {
 
 .name {
 	padding-bottom: 20px;
+}
+
+.footer {
+  width: 70%; 
+  position: static;
+  line-height: 10px;
 }
 
 }
