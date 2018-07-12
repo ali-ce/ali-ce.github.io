@@ -25,13 +25,6 @@ title: Portfolio
 - [A tale of body and soul](/works/leonard-cohen). Leonard Cohen's "Avalanche", one of his most mysterious songs, ends with an odd request: "It is your turn, beloved / it is your flesh that I wear". And then silence. Whose turn is it? And the turn to do what, precisely? My illustration, *A tale of body and soul*, is an attempted response to Cohen's appeal. (2017)
 - [Blossoming Books](/works/blossoming-books). Are you a passionate reader? Ever thought of a network visualization to show off your bookshelf? (2013)
 
-
-# Research
-
-- [Social meets civic. Civic social media and open government data](/works/MA-thesis). MA thesis on collaborative fact-checking for citizens’ empowerment (2013)
-- [The 2011 war in Libya in Italian newspapers](/works/BA-thesis). BA thesis. When Italian media were faced the task to inform the public on the events of the war in Libya, how did they respond? (2012)
-
-
 # Slides / Workshop Material
 
 - [Data Activism: Date per capire, dati per agire sulle trasformazioni della città](/slides/inside-aribnb) for *[Luoghi comuni. Geografie della città tra estetica, politica e studi urbani](https://www.dinamopress.it/news/event/luoghi-comuni/)*{:target="_blank"} (2018)
@@ -41,3 +34,10 @@ title: Portfolio
 - [Hack Your Career: How to Use Data to Monitor Job Markets](https://medium.com/silk-stories/hack-your-carreer-how-to-use-data-to-monitor-job-markets-c1efd9e83f26){:target="_blank"} for *[Growth Tribe Academy](http://growthtribe.io/){:target="_blank"}* (2016)
 - [How to clean and enhance data](https://www.youtube.com/watch?v=kwU-qMasCL0&feature=youtu.be){:target="_blank"} for *[Silk](https://www.silk.co){:target="_blank"}*'s Summer Webinars (2015)
 - [Between news and algorithms](http://www.academia.edu/9022719/Between_news_and_algorithms._How_does_technology_shape_journalistic_practice_and_viceversa_){:target="_blank"} for *[Rethinking Journalism II: The Societal Role & Relevance of Journalism in a Digital Age](https://www.rug.nl/research/icog/research/research-centres/centre-for-journalism-and-mediastudies/events-and-activities/agenda/rethinking-journalism-ii-the-societal-role-relevance-of-journalism-in-a-digital-age?lang=en){:target="_blank"}* (2014) 
+
+# Research
+
+- [Social meets civic. Civic social media and open government data](/works/MA-thesis). MA thesis on collaborative fact-checking for citizens’ empowerment (2013)
+- [The 2011 war in Libya in Italian newspapers](/works/BA-thesis). BA thesis. When Italian media were faced the task to inform the public on the events of the war in Libya, how did they respond? (2012)
+
+

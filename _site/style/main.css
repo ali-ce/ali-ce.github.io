@@ -177,6 +177,14 @@ h2 {
   color: #ff765e;
 }
 
+h2.job-class-time {
+  font-family:'Arapey',serif;
+  font-size: 2em;
+  font-style: italic;
+  display: block;
+  padding-bottom: 0.3em;
+  color: #b5d6aa;
+}
 
 p.job-details {
   font-family: 'Arapey',serif;
@@ -213,6 +221,10 @@ h2.job-title, h2.teach-title {
   margin-bottom: 0px;
   font-size: 16px;
   text-transform: uppercase;
+}
+
+h2.job-title {
+  display: block;
 }
 
 h2.teach-title {

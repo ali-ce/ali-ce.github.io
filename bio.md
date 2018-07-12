@@ -12,21 +12,31 @@ place8-link: 'https://www.batjo.eu'
 place-description8: 'Project at the intersection of data, journalism and digital fabrication'
 bullet8: "Awarded with <a target='_blank' href='https://digitalnewsinitiative.com/dni-projects/batjo-bits-atoms-and-journalism-round-4/'>Google’s DNI Innovation Fund</a>, in December 2017"
 
-work-title7: 'Data Stories, Visuals and Activism'
-date7: 'Jan. 2018 - Present'
-location7: 'remote'
-place7: 'InsideAirbnb'
-place7-link: 'https://www.insideairbnb.com'
-place-description7: 'Activism project publishing data on Airbnb to foster a factual debate on the topic'
-bullet7: 'Data storytelling and activism, with a focus on the impact of Airbnb on housing and residents in Italian cities'
-work-title6: 'Data Storytelling Professor'
 
-date6: 'Apr. 2018 - May 2018'
-location6: 'Bologna, Italy'
-place6: 'Bologna Business School'
-place6-link: 'https://www.bbs.unibo.it/hp/'
-place-description6: 'At University of Bologna'
-bullet6: "Professor for the Module 'Data Storytelling' in the Data Science MA"
+work-title7: 'Data Storytelling Advisor'
+date7: 'Jan. 2018 - Present'
+place7: 'Freelance'
+
+client7b-name: "Distretto Veneziano della Ricerca e dell'Innovazione"
+client7b-link: 'http://distrettovenezianoricerca.it/'
+client7b-role: 'Data Storytelling Advisor'
+client7b-date: 'June 2018 - Present'
+
+client7a-name: 'InsideAirbnb'
+client7a-link: 'http://insideairbnb.com/'
+client7a-role: 'Visuals, Storytelling and Activism'
+client7a-date: 'Jan. 2018 - Present'
+
+
+work-title6: 'Data Storytelling Instructor'
+date6: 'Jan. 2018 - Present'
+place6: 'Freelance'
+
+client6a-name: 'Bologna Business School'
+client6a-link: 'https://www.bbs.unibo.it/hp/'
+client6a-role: "Professor for the Module 'Data Storytelling' in the Data Science MA"
+client6a-date: 'April 2018 - May 2018'
+
 
 work-title5: 'A Career Gap for the Family'
 date5: 'Apr. 2018 - Jan. 2018'
