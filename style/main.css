@@ -254,27 +254,102 @@ img.work-image {
     padding-bottom: 1em;
 }
 
+form.contact {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+}
+
+div.form {
+  padding-top: 2em;
+}
+
+#name , #email, #message {
+  background: #3d353605;
+  min-width: 80%;
+  border: none;
+  border-bottom: solid #3d3536;
+  border-radius: 10px;
+  border-bottom-right-radius: 0px;
+  border-bottom-left-radius:0px;
+  border-bottom-width: 2px;
+  font-size: 16px;
+  font-weight: 400;
+  color: #3d3536;
+  padding: 10px;
+
+}
+
+#name , #email {
+  height: 2em;
+  font-family: 'Roboto', sans-serif;
+  text-transform: uppercase;
+}
+
+#message {
+  font-family: 'Arapey', serif;
+  font-style: italic;
+  height: 200px;
+}
+
+button.special {
+  cursor: pointer;
+  margin-top: 20px;
+  background: #3d353630;
+  border:none;
+  font-size: 16px;
+  font-weight: 900;
+  height: 40px;
+  width: 100px;
+  border-radius: 5px;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  color: #3d3536
+
+}
+
+button.special:hover {
+  background: #3d3536;
+  color: #f5e9e0;
+
+}
+
+ul.contact-page {
+  list-style: none;
+  padding-left: 0px;
+}
+
+ul.contact-page li{
+  padding-top: 20px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+}
+
+
+ul.contact-page i{
+  font-size: 20px;
+  padding-right: 20px;
+}
+
+ul.contact-page i:hover {
+  font-size: 2em;
+}
 
 .footer {
-  text-align: center; 
-  align-items: center;
+  text-align: left; 
   font-size:10px; 
   font-family: 'Roboto Slab'; 
   font-weight: 300;
-  padding-top: 1em; 
-  padding-bottom: 10px;
-  float: left; 
-  padding-left: 1em; 
-  margin-right: 1em; 
-  width: 68%; 
-  bottom: 0px; 
-  position: fixed;
-  line-height: 10px;
+  padding-top: 10em; 
+  padding-bottom: 1px;
+  float: right; 
+  margin-right: 1%; 
+  margin-left: 1%;
+  width: 98%; 
 }
 
 .footer hr { 
 color: #3d3536;
-font-size: 8px;
+border-width: 0.1px;
 }
 
 

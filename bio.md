@@ -39,12 +39,12 @@ client6a-date: 'April 2018 - May 2018'
 
 
 work-title5: 'A Career Gap for the Family'
-date5: 'Apr. 2018 - Jan. 2018'
+date5: 'Aug. 2016 - Jan. 2018'
 location5: 'Amsterdam, The Netherlands'
 place-description5: 'Took time off to start a family, care for my newborn daughter, move to another country, and practice Python & Yoga'
 
 work-title4: 'Lead Data Journalist & Trainer'
-date4: 'Apr. 2016 - Jan 2018'
+date4: 'Jan. 2014 - Aug. 2016'
 location4: 'Amsterdam, The Netherlands'
 place4: 'Silk'
 place4-link: 'https://www.silk.co'
@@ -53,7 +53,7 @@ bullet4a: "Projects featured in <a target='_blank' href = 'https://www.theguardi
 bullet4b: 'Trainer at international and local events'
 
 work-title3: 'Research Assistant'
-date3: 'Jan. 2014 - Aug. 2016'
+date3: 'Sept. 2013 - Jan. 2014'
 location3: 'Tilburg, The Netherlands'
 place3: 'DataJLab'
 place3-link: 'http://datajlab.nl/'
@@ -62,12 +62,12 @@ bullet3a: "Member of the 'Climate Finance Lab' team, investigating financial dat
 bullet3b: "Co-authored paper with Dr. Stefania Milan on journalism and algorithms. Selected for a panel at '<a target='_blank' href = 'http://www.rug.nl/research/icog/research/research-centres/centre-for-journalism-and-mediastudies/events-and-activities/agenda/rethinking-journalism-ii-the-societal-role-relevance-of-journalism-in-a-digital-age?lang=en'>Rethinking Journalism</a>'"
 
 work-title2: 'Journalist'
-date2: 'Sept. 2013 - Jan. 2014'
+date2: 'May. 2013 - Jan. 2014'
 location2: 'remote'
 place2: 'Freelance'
 
 work-title1: 'Journalist Trainee'
-date1: 'May. 2013 - Jan. 2014'
+date1: 'May. 2013 - June 2013'
 location1: 'Amsterdam, The Netherlands'
 place1: 'NRC Next'
 place1-link: 'https://www.nrc.nl/'
