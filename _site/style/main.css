@@ -85,8 +85,8 @@ li {
     padding: 5px;
     font-size: 1em;
     text-transform: uppercase;
-    font-family: 'Roboto Slab', sans-serif;
-    font-weight: 100;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
     
 }
 
@@ -169,7 +169,8 @@ h1 {
 }
 
 h2 {
-  font-weight: 400;
+  font-family: 'Roboto',sans-serif;
+  font-weight: 300;
   font-size: 20px;
   line-height: 1em;
   margin-bottom: 0px;
@@ -218,6 +219,8 @@ ul.job-bullets {
 }
 
 h2.job-title, h2.teach-title {
+  font-family: 'Roboto',sans-serif;
+  font-weight: 300;
   margin-bottom: 0px;
   font-size: 16px;
   text-transform: uppercase;
@@ -282,7 +285,6 @@ div.form {
 #name , #email {
   height: 2em;
   font-family: 'Roboto', sans-serif;
-  text-transform: uppercase;
 }
 
 #message {
