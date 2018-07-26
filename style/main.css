@@ -282,7 +282,6 @@ div.form {
 #name , #email {
   height: 2em;
   font-family: 'Roboto', sans-serif;
-  text-transform: uppercase;
 }
 
 #message {
