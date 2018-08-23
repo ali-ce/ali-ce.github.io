@@ -1,3 +1,10 @@
+/* 
+dark-blue: #20214f;
+pinkish: #f5e9e0;
+teal: #00baa1; 
+magenta: #FF146A
+*/
+
 html,body { 
   max-width: 100vw;
   max-height: 100vh;
@@ -11,7 +18,7 @@ html,body {
 }
 
 a { 
-color: #3d3536
+color: #20214f
  }
 
 
@@ -46,14 +53,14 @@ li {
 }
 
 #grid1 {
-  background-color: #3d3536;
+  background-color: #20214f;
   color: #f5e9e0;
   text-align: right;
 }
 
 #grid2 {
   background-color: #f5e9e0;
-  color: #3d3536;
+  color: #20214f;
   text-align: left;
 }
 
@@ -131,7 +138,7 @@ li {
 .social a {
   padding: 5px;
   font-size: 25px;
-  color: #b5d6aa; 
+  color: #00baa1; 
 }
 
 .social a:hover {
@@ -175,7 +182,7 @@ h2 {
   line-height: 1em;
   margin-bottom: 0px;
   display: inline;
-  color: #ff765e;
+  color: #FF146A;
 }
 
 h2.job-class-time {
@@ -184,7 +191,7 @@ h2.job-class-time {
   font-style: italic;
   display: block;
   padding-bottom: 0.3em;
-  color: #b5d6aa;
+  color: #00baa1;
 }
 
 p.job-details {
@@ -231,11 +238,11 @@ h2.job-title {
 }
 
 h2.teach-title {
-  color: #3d3536 
+  color: #20214f 
 }
 
 span.teach-role {
-	color:#ff765e;
+	color:#FF146A;
 }
 
 div.img-container {
@@ -267,17 +274,17 @@ div.form {
 }
 
 #name , #email, #message {
-  background: #3d353605;
+  background: #20214f05;
   min-width: 80%;
   border: none;
-  border-bottom: solid #3d3536;
+  border-bottom: solid #20214f;
   border-radius: 10px;
   border-bottom-right-radius: 0px;
   border-bottom-left-radius:0px;
   border-bottom-width: 2px;
   font-size: 16px;
   font-weight: 400;
-  color: #3d3536;
+  color: #20214f;
   padding: 10px;
 
 }
@@ -296,7 +303,7 @@ div.form {
 button.special {
   cursor: pointer;
   margin-top: 20px;
-  background: #3d353630;
+  background: #20214f30;
   border:none;
   font-size: 16px;
   font-weight: 900;
@@ -305,12 +312,12 @@ button.special {
   border-radius: 5px;
   text-transform: uppercase;
   letter-spacing: 1.5px;
-  color: #3d3536
+  color: #20214f
 
 }
 
 button.special:hover {
-  background: #3d3536;
+  background: #20214f;
   color: #f5e9e0;
 
 }
@@ -350,7 +357,7 @@ ul.contact-page i:hover {
 }
 
 .footer hr { 
-color: #3d3536;
+color: #20214f;
 border-width: 0.1px;
 }
 
