@@ -1,6 +1,6 @@
 /* 
 dark-blue: #20214f;
-pinkish: #f5e9e0;
+pinkish: #f5f5f5; ora f5f5f5
 teal: #00baa1; 
 magenta: #FF146A
 */
@@ -46,7 +46,7 @@ li {
 }
 
 .grid-item {
-  color: #f5e9e0;
+  color: #f5f5f5;
   padding: 5px;
   padding-bottom: 50px;
   font-family: 'Arapey', serif;
@@ -54,12 +54,12 @@ li {
 
 #grid1 {
   background-color: #20214f;
-  color: #f5e9e0;
+  color: #f5f5f5;
   text-align: right;
 }
 
 #grid2 {
-  background-color: #f5e9e0;
+  background-color: #f5f5f5;
   color: #20214f;
   text-align: left;
 }
@@ -98,7 +98,7 @@ li {
 }
 
 .menu li a, .menu-bottom a {
-  color: #f5e9e0;
+  color: #f5f5f5;
   text-decoration: none;
   border-bottom: 1px solid currentColor;
   padding-bottom: 1px;
@@ -123,7 +123,7 @@ li {
 }
 
 .name a {
-  color: #f5e9e0;
+  color: #f5f5f5;
   text-decoration: none;
   font-family: 'Arapey',serif;
 }
@@ -318,7 +318,7 @@ button.special {
 
 button.special:hover {
   background: #20214f;
-  color: #f5e9e0;
+  color: #f5f5f5;
 
 }
 

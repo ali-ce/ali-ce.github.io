@@ -20,7 +20,7 @@ place7: 'Freelance'
 client7b-name: "Distretto Veneziano della Ricerca e dell'Innovazione"
 client7b-link: 'http://distrettovenezianoricerca.it/'
 client7b-role: 'Data Storytelling Advisor'
-client7b-date: 'June 2018 - Present'
+client7b-date: 'June 2018'
 
 client7a-name: 'InsideAirbnb'
 client7a-link: 'http://insideairbnb.com/'
