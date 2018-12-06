@@ -2,6 +2,14 @@
 layout: events
 title: Events and Classes
 
+teach-title13: 'Data Visualization'
+teach-role13: 'Instructor'
+teach-date13: 'Sept. - Oct. 2018'
+teach-place13: 'University of Milan + Dataninja· '
+teach-place-link13: 'https://slidewiki.org/playlist/67?sort=order'
+teach-place-geo13: 'Online'
+
+
 teach-title13: 'Data Activism'
 teach-role13: 'Speaker'
 teach-date13: '14 June 2018'

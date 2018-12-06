@@ -13,7 +13,7 @@ place-description8: 'Project at the intersection of data, journalism and digital
 bullet8: "Awarded with <a target='_blank' href='https://digitalnewsinitiative.com/dni-projects/batjo-bits-atoms-and-journalism-round-4/'>Google’s DNI Innovation Fund</a>, in December 2017"
 
 
-work-title7: 'Data Storytelling Advisor'
+work-title7: 'Data Storytelling Practice'
 date7: 'Jan. 2018 - Present'
 place7: 'Freelance'
 
@@ -31,6 +31,11 @@ client7a-date: 'Jan. 2018 - Present'
 work-title6: 'Data Storytelling Instructor'
 date6: 'Jan. 2018 - Present'
 place6: 'Freelance'
+
+client6b-name: 'Dataninja & University of MilanBologna Business School'
+client6b-link: 'https://www.unimi2018.dataninja.is/'
+client6b-role: "Instructor for the Module 'Data Visualization Skills'"
+client6b-date: 'September 2018 - October 2018'
 
 client6a-name: 'Bologna Business School'
 client6a-link: 'https://www.bbs.unibo.it/hp/'

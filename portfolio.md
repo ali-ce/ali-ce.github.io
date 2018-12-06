@@ -27,6 +27,7 @@ title: Portfolio
 
 # Slides / Workshop Material
 
+- [Data Visualization Skills](https://unimi2018.dataninja.it) Course for *[Dataninja](https://www.dataninja.it)*{:target="_blank"} & *University of Milan*(2018)
 - [Data Activism: Dati per capire, dati per agire sulle trasformazioni della città](/slides/inside-aribnb) for *[Luoghi comuni. Geografie della città tra estetica, politica e studi urbani](https://www.dinamopress.it/news/event/luoghi-comuni/)*{:target="_blank"} (2018)
 - [A Data Scraper's Toolbox](/slides/transparency-camp) for *[EU Transparency Camp](https://transparencycamp.eu/sessions/session-5-room-2/){:target="_blank"}* (2016)
 - [Data Journalism Primer](/slides/ddj-primer) for guest lecture at *[JADS](https://www.jads.nl/){:target="_blank"}* (2016)
