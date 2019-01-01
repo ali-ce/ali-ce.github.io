@@ -1,0 +1,4355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.2draft" version="1.2" xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2013-11-25">
+    <creator>Gephi 0.8.1</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="Nodes" title="Nodes" type="string"></attribute>
+      <attribute id="Status" title="Status" type="string"></attribute>
+      <attribute id="Connessioni" title="Connessioni" type="float"></attribute>
+    </attributes>
+    <nodes>
+      <node id="[x+1]_Azienda" label="[x+1]">
+        <attvalues>
+          <attvalue for="Nome" value="[x+1]"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="158.85417"></viz:size>
+        <viz:position x="-1577.0079" y="10698.91" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="4wMarketplace_Azienda" label="4wMarketplace">
+        <attvalues>
+          <attvalue for="Nome" value="4wMarketplace"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="158.85417"></viz:size>
+        <viz:position x="452.71686" y="10836.808" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="Accuen_Azienda" label="Accuen">
+        <attvalues>
+          <attvalue for="Nome" value="Accuen"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="973.0501" y="10811.602" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="Ad.agio_Azienda" label="Ad.agio">
+        <attvalues>
+          <attvalue for="Nome" value="Ad.agio"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="1468.4427" y="10764.556" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="AddThis_Azienda" label="AddThis">
+        <attvalues>
+          <attvalue for="Nome" value="AddThis"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="3680.1501" y="10268.9" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="AdForm_Azienda" label="AdForm">
+        <attvalues>
+          <attvalue for="Nome" value="AdForm"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="203.125"></viz:size>
+        <viz:position x="2099.1777" y="10671.635" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="AdMotion_Azienda" label="AdMotion">
+        <attvalues>
+          <attvalue for="Nome" value="AdMotion"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="2723.4731" y="10542.345" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="Adobe_Azienda" label="Adobe">
+        <attvalues>
+          <attvalue for="Nome" value="Adobe"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="185.41667"></viz:size>
+        <viz:position x="4235.133" y="10066.015" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="AdPilot_Azienda" label="AdPilot">
+        <attvalues>
+          <attvalue for="Nome" value="AdPilot"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="3204.9036" y="10416.44" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="Akamai_Azienda" label="Akamai">
+        <attvalues>
+          <attvalue for="Nome" value="Akamai"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="158.85417"></viz:size>
+        <viz:position x="4799.61" y="9823.861" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="AlVolante_Azienda" label="AlVolante">
+        <attvalues>
+          <attvalue for="Nome" value="AlVolante"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="5267.1343" y="9594.074" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="AolAdvertising_Azienda" label="AolAdvertising">
+        <attvalues>
+          <attvalue for="Nome" value="AolAdvertising"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="158.85417"></viz:size>
+        <viz:position x="5723.2603" y="9342.417" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="AppNexus_Azienda" label="AppNexus">
+        <attvalues>
+          <attvalue for="Nome" value="AppNexus"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="229.6875"></viz:size>
+        <viz:position x="6342.0347" y="8953.571" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="ArcusPubblicita'_Azienda" label="ArcusPubblicita'">
+        <attvalues>
+          <attvalue for="Nome" value="ArcusPubblicita'"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="6915.2017" y="8538.811" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="AudienceScience_Azienda" label="AudienceScience">
+        <attvalues>
+          <attvalue for="Nome" value="AudienceScience"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="7301.772" y="8225.454" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="BannerConnect_Azienda" label="BannerConnect">
+        <attvalues>
+          <attvalue for="Nome" value="BannerConnect"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="167.70833"></viz:size>
+        <viz:position x="7707.8823" y="7863.104" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="BanzaiMedia_Azienda" label="BanzaiMedia">
+        <attvalues>
+          <attvalue for="Nome" value="BanzaiMedia"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="8095.58" y="7481.117" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="BlueKai_Azienda" label="BlueKai">
+        <attvalues>
+          <attvalue for="Nome" value="BlueKai"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="158.85417"></viz:size>
+        <viz:position x="8448.541" y="7097.971" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="BrandNetworks_Azienda" label="BrandNetworks">
+        <attvalues>
+          <attvalue for="Nome" value="BrandNetworks"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="8782.973" y="6698.5503" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="Brightcove_Azienda" label="Brightcove">
+        <attvalues>
+          <attvalue for="Nome" value="Brightcove"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="158.85417"></viz:size>
+        <viz:position x="9098.129" y="6283.751" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="CacheFly_Azienda" label="CacheFly">
+        <attvalues>
+          <attvalue for="Nome" value="CacheFly"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="9393.299" y="5854.5005" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="Casa.it_Azienda" label="Casa.it">
+        <attvalues>
+          <attvalue for="Nome" value="Casa.it"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="9655.985" y="5431.861" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="CercaCasa.it_Azienda" label="CercaCasa.it">
+        <attvalues>
+          <attvalue for="Nome" value="CercaCasa.it"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="9899.295" y="4997.7783" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="Chango_Azienda" label="Chango">
+        <attvalues>
+          <attvalue for="Nome" value="Chango"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="158.85417"></viz:size>
+        <viz:position x="10132.71" y="4532.0537" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="ChartBeat_Azienda" label="ChartBeat">
+        <attvalues>
+          <attvalue for="Nome" value="ChartBeat"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="158.85417"></viz:size>
+        <viz:position x="10352.746" y="4034.251" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="ClickTale_Azienda" label="ClickTale">
+        <attvalues>
+          <attvalue for="Nome" value="ClickTale"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="10540.055" y="3548.146" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="ComingSoon_Azienda" label="ComingSoon">
+        <attvalues>
+          <attvalue for="Nome" value="ComingSoon"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="10867.31" y="2461.565" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="ComScore_Azienda" label="ComScore">
+        <attvalues>
+          <attvalue for="Nome" value="ComScore"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="176.5625"></viz:size>
+        <viz:position x="10717.696" y="3009.0767" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="Connexity_Azienda" label="Connexity">
+        <attvalues>
+          <attvalue for="Nome" value="Connexity"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="158.85417"></viz:size>
+        <viz:position x="10979.612" y="1952.8705" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="CrazyEgg_Azienda" label="CrazyEgg">
+        <attvalues>
+          <attvalue for="Nome" value="CrazyEgg"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="194.27083"></viz:size>
+        <viz:position x="11084.103" y="1323.9489" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="Criteo_Azienda" label="Criteo">
+        <attvalues>
+          <attvalue for="Nome" value="Criteo"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="194.27083"></viz:size>
+        <viz:position x="11158.85" y="596.9719" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="Datalogix_Azienda" label="Datalogix">
+        <attvalues>
+          <attvalue for="Nome" value="Datalogix"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="158.85417"></viz:size>
+        <viz:position x="11184.521" y="-40.053795" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="Deezer_Azienda" label="Deezer">
+        <attvalues>
+          <attvalue for="Nome" value="Deezer"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="11178.079" y="-560.9573" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="Disqus_Azienda" label="Disqus">
+        <attvalues>
+          <attvalue for="Nome" value="Disqus"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="158.85417"></viz:size>
+        <viz:position x="11146.994" y="-1080.9723" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="Dstillery_Azienda" label="Dstillery">
+        <attvalues>
+          <attvalue for="Nome" value="Dstillery"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="158.85417"></viz:size>
+        <viz:position x="11088.267" y="-1622.0593" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="eDintorni_Azienda" label="eDintorni">
+        <attvalues>
+          <attvalue for="Nome" value="eDintorni"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="-1060.9266" y="10769.917" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="EditorialeDomus_Azienda" label="EditorialeDomus">
+        <attvalues>
+          <attvalue for="Nome" value="EditorialeDomus"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="11007.063" y="-2136.635" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="eXelateMedia_Azienda" label="eXelateMedia">
+        <attvalues>
+          <attvalue for="Nome" value="eXelateMedia"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="-565.33905" y="10814.862" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="Facebook_Azienda" label="Facebook">
+        <attvalues>
+          <attvalue for="Nome" value="Facebook"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="31"></attvalue>
+        </attvalues>
+        <viz:size value="415.625"></viz:size>
+        <viz:position x="10728.843" y="-3300.7632" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="Forebase_Azienda" label="Forebase">
+        <attvalues>
+          <attvalue for="Nome" value="Forebase"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="158.85417"></viz:size>
+        <viz:position x="10316.779" y="-4449.2856" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="Gazzettino_Azienda" label="Gazzettino">
+        <attvalues>
+          <attvalue for="Nome" value="Gazzettino"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="10102.641" y="-4924.183" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="Gigya_Azienda" label="Gigya">
+        <attvalues>
+          <attvalue for="Nome" value="Gigya"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="167.70833"></viz:size>
+        <viz:position x="9855.173" y="-5408.9346" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="Google_Azienda" label="Google">
+        <attvalues>
+          <attvalue for="Nome" value="Google"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="97"></attvalue>
+        </attvalues>
+        <viz:size value="1000.0"></viz:size>
+        <viz:position x="8234.7" y="-7663.3555" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="GruppoEditorialeL'Espresso_Azienda" label="GruppoEditorialeL'Espresso">
+        <attvalues>
+          <attvalue for="Nome" value="GruppoEditorialeL'Espresso"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="6140.8423" y="-9415.274" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="IBMCoreMetrics_Azienda" label="IBMCoreMetrics">
+        <attvalues>
+          <attvalue for="Nome" value="IBMCoreMetrics"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="158.85417"></viz:size>
+        <viz:position x="5696.3677" y="-9686.9795" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="iCrossing_Azienda" label="iCrossing">
+        <attvalues>
+          <attvalue for="Nome" value="iCrossing"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="-68.22619" y="10837.36" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="IlMattino_Azienda" label="IlMattino">
+        <attvalues>
+          <attvalue for="Nome" value="IlMattino"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="5239.5317" y="-9937.346" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="IlMessaggero_Azienda" label="IlMessaggero">
+        <attvalues>
+          <attvalue for="Nome" value="IlMessaggero"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="167.70833"></viz:size>
+        <viz:position x="4750.148" y="-10175.52" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="IlMeteo.it_Azienda" label="IlMeteo.it">
+        <attvalues>
+          <attvalue for="Nome" value="IlMeteo.it"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="158.85417"></viz:size>
+        <viz:position x="4227.903" y="-10397.811" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="IlSole24Ore_Azienda" label="IlSole24Ore">
+        <attvalues>
+          <attvalue for="Nome" value="IlSole24Ore"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="176.5625"></viz:size>
+        <viz:position x="3672.7769" y="-10600.305" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="Immobiliare.it_Azienda" label="Immobiliare.it">
+        <attvalues>
+          <attvalue for="Nome" value="Immobiliare.it"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="3130.063" y="-10766.481" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="InSella.it_Azienda" label="InSella.it">
+        <attvalues>
+          <attvalue for="Nome" value="InSella.it"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="2647.7546" y="-10888.9795" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="LaPresse_Azienda" label="LaPresse">
+        <attvalues>
+          <attvalue for="Nome" value="LaPresse"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="2160.4019" y="-10989.55" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="Leggo_Azienda" label="Leggo">
+        <attvalues>
+          <attvalue for="Nome" value="Leggo"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="1669.0006" y="-11067.985" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="LegolasMedia_Azienda" label="LegolasMedia">
+        <attvalues>
+          <attvalue for="Nome" value="LegolasMedia"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="158.85417"></viz:size>
+        <viz:position x="1151.3213" y="-11126.208" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="LinkedIn_Azienda" label="LinkedIn">
+        <attvalues>
+          <attvalue for="Nome" value="LinkedIn"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="158.85417"></viz:size>
+        <viz:position x="608.1569" y="-11160.797" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="Lotame_Azienda" label="Lotame">
+        <attvalues>
+          <attvalue for="Nome" value="Lotame"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="87.27371" y="-11168.711" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="MADS_Azienda" label="MADS">
+        <attvalues>
+          <attvalue for="Nome" value="MADS"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="-410.10736" y="-11153.242" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="MarcoPoloShop_Azienda" label="MarcoPoloShop">
+        <attvalues>
+          <attvalue for="Nome" value="MarcoPoloShop"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="-906.2806" y="-11115.304" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="Mark&amp;Mini_Azienda" label="Mark&amp;Mini">
+        <attvalues>
+          <attvalue for="Nome" value="Mark&amp;Mini"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="-1400.2313" y="-11054.974" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="MbrTargeting_Azienda" label="MbrTargeting">
+        <attvalues>
+          <attvalue for="Nome" value="MbrTargeting"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="-1890.9498" y="-10972.374" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="MediaMath_Azienda" label="MediaMath">
+        <attvalues>
+          <attvalue for="Nome" value="MediaMath"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="-2377.4326" y="-10867.675" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="MediaMind_Azienda" label="MediaMind">
+        <attvalues>
+          <attvalue for="Nome" value="MediaMind"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="203.125"></viz:size>
+        <viz:position x="-2992.959" y="-10701.579" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="Mediamond_Azienda" label="Mediamond">
+        <attvalues>
+          <attvalue for="Nome" value="Mediamond"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="167.70833"></viz:size>
+        <viz:position x="-3641.62" y="-10484.004" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="MeteoSolutions_Azienda" label="MeteoSolutions">
+        <attvalues>
+          <attvalue for="Nome" value="MeteoSolutions"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="-4147.17" y="-10282.404" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="Microsoft_Azienda" label="Microsoft">
+        <attvalues>
+          <attvalue for="Nome" value="Microsoft"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="-4600.154" y="-10076.412" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="MillennialMedia_Azienda" label="MillennialMedia">
+        <attvalues>
+          <attvalue for="Nome" value="MillennialMedia"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="158.85417"></viz:size>
+        <viz:position x="-5063.8823" y="-9839.056" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="MirSrl_Azienda" label="MirSrl">
+        <attvalues>
+          <attvalue for="Nome" value="MirSrl"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="-5515.859" y="-9580.02" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="Mixpanel_Azienda" label="Mixpanel">
+        <attvalues>
+          <attvalue for="Nome" value="Mixpanel"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="-5935.6895" y="-9312.87" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="Mondadori_Azienda" label="Mondadori">
+        <attvalues>
+          <attvalue for="Nome" value="Mondadori"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="158.85417"></viz:size>
+        <viz:position x="-6361.7866" y="-9013.165" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="NeodataGroup_Azienda" label="NeodataGroup">
+        <attvalues>
+          <attvalue for="Nome" value="NeodataGroup"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="185.41667"></viz:size>
+        <viz:position x="-6845.2944" y="-8634.362" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="Nielsen_Azienda" label="Nielsen">
+        <attvalues>
+          <attvalue for="Nome" value="Nielsen"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="25"></attvalue>
+        </attvalues>
+        <viz:size value="362.5"></viz:size>
+        <viz:position x="-7691.0645" y="-7854.671" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="OpenX_Azienda" label="OpenX">
+        <attvalues>
+          <attvalue for="Nome" value="OpenX"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="185.41667"></viz:size>
+        <viz:position x="-8450.823" y="-6990.9517" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="Outbrain_Azienda" label="Outbrain">
+        <attvalues>
+          <attvalue for="Nome" value="Outbrain"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="-8804.804" y="-6517.8057" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="Parse.ly_Azienda" label="Parse.ly">
+        <attvalues>
+          <attvalue for="Nome" value="Parse.ly"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="-9082.836" y="-6105.102" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="PiemmeOnline_Azienda" label="PiemmeOnline">
+        <attvalues>
+          <attvalue for="Nome" value="PiemmeOnline"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="-9341.927" y="-5680.25" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="Pinterest_Azienda" label="Pinterest">
+        <attvalues>
+          <attvalue for="Nome" value="Pinterest"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="-9581.547" y="-5244.1196" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="Plexop_Azienda" label="Plexop">
+        <attvalues>
+          <attvalue for="Nome" value="Plexop"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="-9801.206" y="-4797.603" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="Populis_Azienda" label="Populis">
+        <attvalues>
+          <attvalue for="Nome" value="Populis"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="158.85417"></viz:size>
+        <viz:position x="-10009.286" y="-4320.021" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="PubMatic_Azienda" label="PubMatic">
+        <attvalues>
+          <attvalue for="Nome" value="PubMatic"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="-10194.531" y="-3833.1265" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="PulsePoint_Azienda" label="PulsePoint">
+        <attvalues>
+          <attvalue for="Nome" value="PulsePoint"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="-10349.775" y="-3360.3403" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="QuantCast_Azienda" label="QuantCast">
+        <attvalues>
+          <attvalue for="Nome" value="QuantCast"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="-10483.488" y="-2881.02" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="Radio101_Azienda" label="Radio101">
+        <attvalues>
+          <attvalue for="Nome" value="Radio101"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="-10595.395" y="-2396.1445" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="Radio105_Azienda" label="Radio105">
+        <attvalues>
+          <attvalue for="Nome" value="Radio105"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="-10685.265" y="-1906.7057" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="RcsMediaGroup_Azienda" label="RcsMediaGroup">
+        <attvalues>
+          <attvalue for="Nome" value="RcsMediaGroup"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="167.70833"></viz:size>
+        <viz:position x="-10758.117" y="-1367.339" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="RocketFuel_Azienda" label="RocketFuel">
+        <attvalues>
+          <attvalue for="Nome" value="RocketFuel"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="-10804.213" y="-825.0298" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="RubiconProject_Azienda" label="RubiconProject">
+        <attvalues>
+          <attvalue for="Nome" value="RubiconProject"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="185.41667"></viz:size>
+        <viz:position x="-10823.832" y="-234.45067" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="SeCoGes_Azienda" label="SeCoGes">
+        <attvalues>
+          <attvalue for="Nome" value="SeCoGes"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="-10811.726" y="356.3303" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="SharedCount_Azienda" label="SharedCount">
+        <attvalues>
+          <attvalue for="Nome" value="SharedCount"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="-10776.941" y="852.7348" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="ShinySrl_Azienda" label="ShinySrl">
+        <attvalues>
+          <attvalue for="Nome" value="ShinySrl"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="211.97916"></viz:size>
+        <viz:position x="-10696.126" y="1508.6354" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="Stipple_Azienda" label="Stipple">
+        <attvalues>
+          <attvalue for="Nome" value="Stipple"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="-10576.084" y="2158.5022" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="Style.it_Azienda" label="Style.it">
+        <attvalues>
+          <attvalue for="Nome" value="Style.it"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="-10460.07" y="2642.4111" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="TagMan_Azienda" label="TagMan">
+        <attvalues>
+          <attvalue for="Nome" value="TagMan"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="-10322.299" y="3120.5808" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="Tapad_Azienda" label="Tapad">
+        <attvalues>
+          <attvalue for="Nome" value="Tapad"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="167.70833"></viz:size>
+        <viz:position x="-10147.032" y="3635.8533" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="Targus_Azienda" label="Targus">
+        <attvalues>
+          <attvalue for="Nome" value="Targus"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="-9946.503" y="4141.8296" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="Teleborsa.it_Azienda" label="Teleborsa.it">
+        <attvalues>
+          <attvalue for="Nome" value="Teleborsa.it"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="158.85417"></viz:size>
+        <viz:position x="-9731.359" y="4616.271" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="TradeDoubler_Azienda" label="TradeDoubler">
+        <attvalues>
+          <attvalue for="Nome" value="TradeDoubler"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="158.85417"></viz:size>
+        <viz:position x="-9482.865" y="5100.4966" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="Turn_Azienda" label="Turn">
+        <attvalues>
+          <attvalue for="Nome" value="Turn"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="185.41667"></viz:size>
+        <viz:position x="-9174.0625" y="5631.4517" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="Twitter_Azienda" label="Twitter">
+        <attvalues>
+          <attvalue for="Nome" value="Twitter"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="16"></attvalue>
+        </attvalues>
+        <viz:size value="282.8125"></viz:size>
+        <viz:position x="-8644.945" y="6409.1265" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="ValueClick_Azienda" label="ValueClick">
+        <attvalues>
+          <attvalue for="Nome" value="ValueClick"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="158.85417"></viz:size>
+        <viz:position x="-8097.626" y="7086.2793" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="Vantaggiando.it_Azienda" label="Vantaggiando.it">
+        <attvalues>
+          <attvalue for="Nome" value="Vantaggiando.it"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="-7745.208" y="7469.9243" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="Videology_Azienda" label="Videology">
+        <attvalues>
+          <attvalue for="Nome" value="Videology"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="158.85417"></viz:size>
+        <viz:position x="-7375.0273" y="7836.46" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="VisualRevenue_Azienda" label="VisualRevenue">
+        <attvalues>
+          <attvalue for="Nome" value="VisualRevenue"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="185.41667"></viz:size>
+        <viz:position x="-6916.86" y="8245.55" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="WeBoost_Azienda" label="WeBoost">
+        <attvalues>
+          <attvalue for="Nome" value="WeBoost"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="-5462.5425" y="9283.136" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="Weborama_Azienda" label="Weborama">
+        <attvalues>
+          <attvalue for="Nome" value="Weborama"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="-5029.669" y="9528.591" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="Webtrekk_Azienda" label="Webtrekk">
+        <attvalues>
+          <attvalue for="Nome" value="Webtrekk"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="11"></attvalue>
+        </attvalues>
+        <viz:size value="238.54166"></viz:size>
+        <viz:position x="-4374.8267" y="9853.033" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="Wimbledon.com_Azienda" label="Wimbledon.com">
+        <attvalues>
+          <attvalue for="Nome" value="Wimbledon.com"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="-3699.8936" y="10133.298" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="WPP_Azienda" label="WPP">
+        <attvalues>
+          <attvalue for="Nome" value="WPP"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="16"></attvalue>
+        </attvalues>
+        <viz:size value="282.8125"></viz:size>
+        <viz:position x="-6172.754" y="8820.92" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="Yahoo_Azienda" label="Yahoo">
+        <attvalues>
+          <attvalue for="Nome" value="Yahoo"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="-2753.9077" y="10441.702" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="YD_Azienda" label="YD">
+        <attvalues>
+          <attvalue for="Nome" value="YD"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="-3230.3882" y="10298.198" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="ZodiakMedia_Azienda" label="ZodiakMedia">
+        <attvalues>
+          <attvalue for="Nome" value="ZodiakMedia"></attvalue>
+          <attvalue for="Tipologia" value="Azienda"></attvalue>
+          <attvalue for="Connessioni" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="185.41667"></viz:size>
+        <viz:position x="-2180.3735" y="10583.927" z="0.0"></viz:position>
+        <viz:color r="255" g="176" b="158"></viz:color>
+      </node>
+      <node id="Avvenire_Quotidiano" label="Avvenire">
+        <attvalues>
+          <attvalue for="Nome" value="Avvenire"></attvalue>
+          <attvalue for="Tipologia" value="Quotidiano"></attvalue>
+          <attvalue for="Connessioni" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="176.5625"></viz:size>
+        <viz:position x="-655.3812" y="-1896.2394" z="0.0"></viz:position>
+        <viz:color r="61" g="185" b="255"></viz:color>
+      </node>
+      <node id="Corriere della Sera_Quotidiano" label="Corriere della Sera">
+        <attvalues>
+          <attvalue for="Nome" value="Corriere della Sera"></attvalue>
+          <attvalue for="Tipologia" value="Quotidiano"></attvalue>
+          <attvalue for="Connessioni" value="26"></attvalue>
+        </attvalues>
+        <viz:size value="371.35416"></viz:size>
+        <viz:position x="-1804.1127" y="311.40512" z="0.0"></viz:position>
+        <viz:color r="61" g="185" b="255"></viz:color>
+      </node>
+      <node id="Corriere dello Sport_Quotidiano" label="Corriere dello Sport">
+        <attvalues>
+          <attvalue for="Nome" value="Corriere dello Sport"></attvalue>
+          <attvalue for="Tipologia" value="Quotidiano"></attvalue>
+          <attvalue for="Connessioni" value="13"></attvalue>
+        </attvalues>
+        <viz:size value="256.25"></viz:size>
+        <viz:position x="3115.0208" y="-2726.4336" z="0.0"></viz:position>
+        <viz:color r="61" g="185" b="255"></viz:color>
+      </node>
+      <node id="Cosmopolitan_Quotidiano" label="Cosmopolitan">
+        <attvalues>
+          <attvalue for="Nome" value="Cosmopolitan"></attvalue>
+          <attvalue for="Tipologia" value="Quotidiano"></attvalue>
+          <attvalue for="Connessioni" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="203.125"></viz:size>
+        <viz:position x="2680.4941" y="806.2582" z="0.0"></viz:position>
+        <viz:color r="61" g="185" b="255"></viz:color>
+      </node>
+      <node id="Donna Moderna_Quotidiano" label="Donna Moderna">
+        <attvalues>
+          <attvalue for="Nome" value="Donna Moderna"></attvalue>
+          <attvalue for="Tipologia" value="Quotidiano"></attvalue>
+          <attvalue for="Connessioni" value="18"></attvalue>
+        </attvalues>
+        <viz:size value="300.5208"></viz:size>
+        <viz:position x="-2150.4946" y="-1732.8567" z="0.0"></viz:position>
+        <viz:color r="61" g="185" b="255"></viz:color>
+      </node>
+      <node id="GQ_Quotidiano" label="GQ">
+        <attvalues>
+          <attvalue for="Nome" value="GQ"></attvalue>
+          <attvalue for="Tipologia" value="Quotidiano"></attvalue>
+          <attvalue for="Connessioni" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="229.6875"></viz:size>
+        <viz:position x="1363.4224" y="-1886.5228" z="0.0"></viz:position>
+        <viz:color r="61" g="185" b="255"></viz:color>
+      </node>
+      <node id="Grazia_Quotidiano" label="Grazia">
+        <attvalues>
+          <attvalue for="Nome" value="Grazia"></attvalue>
+          <attvalue for="Tipologia" value="Quotidiano"></attvalue>
+          <attvalue for="Connessioni" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="229.6875"></viz:size>
+        <viz:position x="-1039.3011" y="-4305.873" z="0.0"></viz:position>
+        <viz:color r="61" g="185" b="255"></viz:color>
+      </node>
+      <node id="Il Fatto Quotidiano_Quotidiano" label="Il Fatto Quotidiano">
+        <attvalues>
+          <attvalue for="Nome" value="Il Fatto Quotidiano"></attvalue>
+          <attvalue for="Tipologia" value="Quotidiano"></attvalue>
+          <attvalue for="Connessioni" value="33"></attvalue>
+        </attvalues>
+        <viz:size value="433.33334"></viz:size>
+        <viz:position x="1111.9757" y="505.09604" z="0.0"></viz:position>
+        <viz:color r="61" g="185" b="255"></viz:color>
+      </node>
+      <node id="Il Foglio_Quotidiano" label="Il Foglio">
+        <attvalues>
+          <attvalue for="Nome" value="Il Foglio"></attvalue>
+          <attvalue for="Tipologia" value="Quotidiano"></attvalue>
+          <attvalue for="Connessioni" value="17"></attvalue>
+        </attvalues>
+        <viz:size value="291.6667"></viz:size>
+        <viz:position x="387.5829" y="-1121.0701" z="0.0"></viz:position>
+        <viz:color r="61" g="185" b="255"></viz:color>
+      </node>
+      <node id="Il Gazzettino_Quotidiano" label="Il Gazzettino">
+        <attvalues>
+          <attvalue for="Nome" value="Il Gazzettino"></attvalue>
+          <attvalue for="Tipologia" value="Quotidiano"></attvalue>
+          <attvalue for="Connessioni" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="229.6875"></viz:size>
+        <viz:position x="-1165.4987" y="-990.278" z="0.0"></viz:position>
+        <viz:color r="61" g="185" b="255"></viz:color>
+      </node>
+      <node id="Il Giornale_Quotidiano" label="Il Giornale">
+        <attvalues>
+          <attvalue for="Nome" value="Il Giornale"></attvalue>
+          <attvalue for="Tipologia" value="Quotidiano"></attvalue>
+          <attvalue for="Connessioni" value="12"></attvalue>
+        </attvalues>
+        <viz:size value="247.39584"></viz:size>
+        <viz:position x="328.58517" y="-2492.798" z="0.0"></viz:position>
+        <viz:color r="61" g="185" b="255"></viz:color>
+      </node>
+      <node id="Il Manifesto_Quotidiano" label="Il Manifesto">
+        <attvalues>
+          <attvalue for="Nome" value="Il Manifesto"></attvalue>
+          <attvalue for="Tipologia" value="Quotidiano"></attvalue>
+          <attvalue for="Connessioni" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="220.83334"></viz:size>
+        <viz:position x="-2575.0825" y="1508.1399" z="0.0"></viz:position>
+        <viz:color r="61" g="185" b="255"></viz:color>
+      </node>
+      <node id="Il Mattino_Quotidiano" label="Il Mattino">
+        <attvalues>
+          <attvalue for="Nome" value="Il Mattino"></attvalue>
+          <attvalue for="Tipologia" value="Quotidiano"></attvalue>
+          <attvalue for="Connessioni" value="11"></attvalue>
+        </attvalues>
+        <viz:size value="238.54166"></viz:size>
+        <viz:position x="700.4578" y="-4096.8896" z="0.0"></viz:position>
+        <viz:color r="61" g="185" b="255"></viz:color>
+      </node>
+      <node id="Il Messaggero_Quotidiano" label="Il Messaggero">
+        <attvalues>
+          <attvalue for="Nome" value="Il Messaggero"></attvalue>
+          <attvalue for="Tipologia" value="Quotidiano"></attvalue>
+          <attvalue for="Connessioni" value="13"></attvalue>
+        </attvalues>
+        <viz:size value="256.25"></viz:size>
+        <viz:position x="-1232.0336" y="-2777.274" z="0.0"></viz:position>
+        <viz:color r="61" g="185" b="255"></viz:color>
+      </node>
+      <node id="Il Secolo XIX_Quotidiano" label="Il Secolo XIX">
+        <attvalues>
+          <attvalue for="Nome" value="Il Secolo XIX"></attvalue>
+          <attvalue for="Tipologia" value="Quotidiano"></attvalue>
+          <attvalue for="Connessioni" value="12"></attvalue>
+        </attvalues>
+        <viz:size value="247.39584"></viz:size>
+        <viz:position x="2311.4907" y="-3655.753" z="0.0"></viz:position>
+        <viz:color r="61" g="185" b="255"></viz:color>
+      </node>
+      <node id="Il Sole 24 Ore_Quotidiano" label="Il Sole 24 Ore">
+        <attvalues>
+          <attvalue for="Nome" value="Il Sole 24 Ore"></attvalue>
+          <attvalue for="Tipologia" value="Quotidiano"></attvalue>
+          <attvalue for="Connessioni" value="23"></attvalue>
+        </attvalues>
+        <viz:size value="344.7917"></viz:size>
+        <viz:position x="-1249.7156" y="1960.1816" z="0.0"></viz:position>
+        <viz:color r="61" g="185" b="255"></viz:color>
+      </node>
+      <node id="Internazionale_Quotidiano" label="Internazionale">
+        <attvalues>
+          <attvalue for="Nome" value="Internazionale"></attvalue>
+          <attvalue for="Tipologia" value="Quotidiano"></attvalue>
+          <attvalue for="Connessioni" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="220.83334"></viz:size>
+        <viz:position x="4266.634" y="-2362.7893" z="0.0"></viz:position>
+        <viz:color r="61" g="185" b="255"></viz:color>
+      </node>
+      <node id="L'Unita'_Quotidiano" label="L'Unita'">
+        <attvalues>
+          <attvalue for="Nome" value="L'Unita'"></attvalue>
+          <attvalue for="Tipologia" value="Quotidiano"></attvalue>
+          <attvalue for="Connessioni" value="11"></attvalue>
+        </attvalues>
+        <viz:size value="238.54166"></viz:size>
+        <viz:position x="-292.90662" y="1035.6217" z="0.0"></viz:position>
+        <viz:color r="61" g="185" b="255"></viz:color>
+      </node>
+      <node id="La Gazzetta dello Sport_Quotidiano" label="La Gazzetta dello Sport">
+        <attvalues>
+          <attvalue for="Nome" value="La Gazzetta dello Sport"></attvalue>
+          <attvalue for="Tipologia" value="Quotidiano"></attvalue>
+          <attvalue for="Connessioni" value="23"></attvalue>
+        </attvalues>
+        <viz:size value="344.7917"></viz:size>
+        <viz:position x="534.2911" y="2141.2537" z="0.0"></viz:position>
+        <viz:color r="61" g="185" b="255"></viz:color>
+      </node>
+      <node id="La Padania_Quotidiano" label="La Padania">
+        <attvalues>
+          <attvalue for="Nome" value="La Padania"></attvalue>
+          <attvalue for="Tipologia" value="Quotidiano"></attvalue>
+          <attvalue for="Connessioni" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="211.97916"></viz:size>
+        <viz:position x="-362.56152" y="-3481.4658" z="0.0"></viz:position>
+        <viz:color r="61" g="185" b="255"></viz:color>
+      </node>
+      <node id="La Repubblica_Quotidiano" label="La Repubblica">
+        <attvalues>
+          <attvalue for="Nome" value="La Repubblica"></attvalue>
+          <attvalue for="Tipologia" value="Quotidiano"></attvalue>
+          <attvalue for="Connessioni" value="25"></attvalue>
+        </attvalues>
+        <viz:size value="362.5"></viz:size>
+        <viz:position x="734.83685" y="3679.2317" z="0.0"></viz:position>
+        <viz:color r="61" g="185" b="255"></viz:color>
+      </node>
+      <node id="La Stampa_Quotidiano" label="La Stampa">
+        <attvalues>
+          <attvalue for="Nome" value="La Stampa"></attvalue>
+          <attvalue for="Tipologia" value="Quotidiano"></attvalue>
+          <attvalue for="Connessioni" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="194.27083"></viz:size>
+        <viz:position x="1490.8282" y="-835.3325" z="0.0"></viz:position>
+        <viz:color r="61" g="185" b="255"></viz:color>
+      </node>
+      <node id="Leggo_Quotidiano" label="Leggo">
+        <attvalues>
+          <attvalue for="Nome" value="Leggo"></attvalue>
+          <attvalue for="Tipologia" value="Quotidiano"></attvalue>
+          <attvalue for="Connessioni" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="220.83334"></viz:size>
+        <viz:position x="1333.6432" y="-3095.2004" z="0.0"></viz:position>
+        <viz:color r="61" g="185" b="255"></viz:color>
+      </node>
+      <node id="Libero_Quotidiano" label="Libero">
+        <attvalues>
+          <attvalue for="Nome" value="Libero"></attvalue>
+          <attvalue for="Tipologia" value="Quotidiano"></attvalue>
+          <attvalue for="Connessioni" value="25"></attvalue>
+        </attvalues>
+        <viz:size value="362.5"></viz:size>
+        <viz:position x="2177.7402" y="2005.6805" z="0.0"></viz:position>
+        <viz:color r="61" g="185" b="255"></viz:color>
+      </node>
+      <node id="Linkiesta_Quotidiano" label="Linkiesta">
+        <attvalues>
+          <attvalue for="Nome" value="Linkiesta"></attvalue>
+          <attvalue for="Tipologia" value="Quotidiano"></attvalue>
+          <attvalue for="Connessioni" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="211.97916"></viz:size>
+        <viz:position x="-2948.4512" y="-644.353" z="0.0"></viz:position>
+        <viz:color r="61" g="185" b="255"></viz:color>
+      </node>
+      <node id="Quattro Ruote_Quotidiano" label="Quattro Ruote">
+        <attvalues>
+          <attvalue for="Nome" value="Quattro Ruote"></attvalue>
+          <attvalue for="Tipologia" value="Quotidiano"></attvalue>
+          <attvalue for="Connessioni" value="14"></attvalue>
+        </attvalues>
+        <viz:size value="265.1042"></viz:size>
+        <viz:position x="3757.5571" y="-1305.0923" z="0.0"></viz:position>
+        <viz:color r="61" g="185" b="255"></viz:color>
+      </node>
+      <node id="Unione Sarda_Quotidiano" label="Unione Sarda">
+        <attvalues>
+          <attvalue for="Nome" value="Unione Sarda"></attvalue>
+          <attvalue for="Tipologia" value="Quotidiano"></attvalue>
+          <attvalue for="Connessioni" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="220.83334"></viz:size>
+        <viz:position x="-311.62906" y="-151.61656" z="0.0"></viz:position>
+        <viz:color r="61" g="185" b="255"></viz:color>
+      </node>
+      <node id="Vanity Fair_Quotidiano" label="Vanity Fair">
+        <attvalues>
+          <attvalue for="Nome" value="Vanity Fair"></attvalue>
+          <attvalue for="Tipologia" value="Quotidiano"></attvalue>
+          <attvalue for="Connessioni" value="14"></attvalue>
+        </attvalues>
+        <viz:size value="265.1042"></viz:size>
+        <viz:position x="2532.3767" y="-1678.0928" z="0.0"></viz:position>
+        <viz:color r="61" g="185" b="255"></viz:color>
+      </node>
+      <node id="Vogue_Quotidiano" label="Vogue">
+        <attvalues>
+          <attvalue for="Nome" value="Vogue"></attvalue>
+          <attvalue for="Tipologia" value="Quotidiano"></attvalue>
+          <attvalue for="Connessioni" value="11"></attvalue>
+        </attvalues>
+        <viz:size value="238.54166"></viz:size>
+        <viz:position x="3703.6729" y="5.228133" z="0.0"></viz:position>
+        <viz:color r="61" g="185" b="255"></viz:color>
+      </node>
+      <node id="Wired_Quotidiano" label="Wired">
+        <attvalues>
+          <attvalue for="Nome" value="Wired"></attvalue>
+          <attvalue for="Tipologia" value="Quotidiano"></attvalue>
+          <attvalue for="Connessioni" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="220.83334"></viz:size>
+        <viz:position x="2554.5625" y="-376.9667" z="0.0"></viz:position>
+        <viz:color r="61" g="185" b="255"></viz:color>
+      </node>
+      <node id="24/7Media_Tracker" label="24/7Media">
+        <attvalues>
+          <attvalue for="Nome" value="24/7Media"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - comfort"></attvalue>
+          <attvalue for="Connessioni" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="220.83334"></viz:size>
+        <viz:position x="-3719.0908" y="5419.472" z="0.0"></viz:position>
+        <viz:color r="25" g="224" b="0"></viz:color>
+      </node>
+      <node id="4wMarketplace_Tracker" label="4wMarketplace">
+        <attvalues>
+          <attvalue for="Nome" value="4wMarketplace"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - allarmante"></attvalue>
+          <attvalue for="Connessioni" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="158.85417"></viz:size>
+        <viz:position x="575.3357" y="6553.9473" z="0.0"></viz:position>
+        <viz:color r="240" g="0" b="36"></viz:color>
+      </node>
+      <node id="AccuenMedia_Tracker" label="AccuenMedia">
+        <attvalues>
+          <attvalue for="Nome" value="AccuenMedia"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - cautela"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="855.9551" y="7517.4766" z="0.0"></viz:position>
+        <viz:color r="255" g="253" b="5"></viz:color>
+      </node>
+      <node id="Ad.agio_Tracker" label="Ad.agio">
+        <attvalues>
+          <attvalue for="Nome" value="Ad.agio"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - NA"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="1361.6995" y="6842.796" z="0.0"></viz:position>
+        <viz:color r="120" g="120" b="120"></viz:color>
+      </node>
+      <node id="AdAdvisor_Tracker" label="AdAdvisor">
+        <attvalues>
+          <attvalue for="Nome" value="AdAdvisor"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - allarmante"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="-6375.516" y="3144.7888" z="0.0"></viz:position>
+        <viz:color r="240" g="0" b="36"></viz:color>
+      </node>
+      <node id="AddThis_Tracker" label="AddThis">
+        <attvalues>
+          <attvalue for="Nome" value="AddThis"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - cautela"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="3030.312" y="7433.3125" z="0.0"></viz:position>
+        <viz:color r="255" g="253" b="5"></viz:color>
+      </node>
+      <node id="Adform_Tracker" label="Adform">
+        <attvalues>
+          <attvalue for="Nome" value="Adform"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - allarmante"></attvalue>
+          <attvalue for="Connessioni" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="203.125"></viz:size>
+        <viz:position x="1441.5403" y="5851.8257" z="0.0"></viz:position>
+        <viz:color r="240" g="0" b="36"></viz:color>
+      </node>
+      <node id="AdMeld_Tracker" label="AdMeld">
+        <attvalues>
+          <attvalue for="Nome" value="AdMeld"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - comfort"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="5160.147" y="-5751.681" z="0.0"></viz:position>
+        <viz:color r="25" g="224" b="0"></viz:color>
+      </node>
+      <node id="AdMotion_Tracker" label="AdMotion">
+        <attvalues>
+          <attvalue for="Nome" value="AdMotion"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - allarmante"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="2040.8827" y="6992.8755" z="0.0"></viz:position>
+        <viz:color r="240" g="0" b="36"></viz:color>
+      </node>
+      <node id="Adnxs_Tracker" label="Adnxs">
+        <attvalues>
+          <attvalue for="Nome" value="Adnxs"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - comfort"></attvalue>
+          <attvalue for="Connessioni" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="229.6875"></viz:size>
+        <viz:position x="3684.6738" y="5070.2085" z="0.0"></viz:position>
+        <viz:color r="25" g="224" b="0"></viz:color>
+      </node>
+      <node id="AdPilot_Tracker" label="AdPilot">
+        <attvalues>
+          <attvalue for="Nome" value="AdPilot"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - NA"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="2710.67" y="6816.626" z="0.0"></viz:position>
+        <viz:color r="120" g="120" b="120"></viz:color>
+      </node>
+      <node id="Akamai_Tracker" label="Akamai">
+        <attvalues>
+          <attvalue for="Nome" value="Akamai"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - allarmante"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="2829.7048" y="5998.997" z="0.0"></viz:position>
+        <viz:color r="240" g="0" b="36"></viz:color>
+      </node>
+      <node id="AlVolante_Tracker" label="AlVolante">
+        <attvalues>
+          <attvalue for="Nome" value="AlVolante"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - comfort"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="3590.5376" y="5887.995" z="0.0"></viz:position>
+        <viz:color r="25" g="224" b="0"></viz:color>
+      </node>
+      <node id="AolAdvertising_Tracker" label="AolAdvertising">
+        <attvalues>
+          <attvalue for="Nome" value="AolAdvertising"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - NA"></attvalue>
+          <attvalue for="Connessioni" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="158.85417"></viz:size>
+        <viz:position x="4281.377" y="5899.869" z="0.0"></viz:position>
+        <viz:color r="120" g="120" b="120"></viz:color>
+      </node>
+      <node id="ArcusPubblicita'_Tracker" label="ArcusPubblicita'">
+        <attvalues>
+          <attvalue for="Nome" value="ArcusPubblicita'"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - comfort"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="5089.334" y="5530.472" z="0.0"></viz:position>
+        <viz:color r="25" g="224" b="0"></viz:color>
+      </node>
+      <node id="Atlas_Tracker" label="Atlas">
+        <attvalues>
+          <attvalue for="Nome" value="Atlas"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - NA"></attvalue>
+          <attvalue for="Connessioni" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="185.41667"></viz:size>
+        <viz:position x="8166.0244" y="-1871.67" z="0.0"></viz:position>
+        <viz:color r="120" g="120" b="120"></viz:color>
+      </node>
+      <node id="AudienceScience_Tracker" label="AudienceScience">
+        <attvalues>
+          <attvalue for="Nome" value="AudienceScience"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - cautela"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="4396.132" y="4722.6045" z="0.0"></viz:position>
+        <viz:color r="255" g="253" b="5"></viz:color>
+      </node>
+      <node id="BannerConnect_Tracker" label="BannerConnect">
+        <attvalues>
+          <attvalue for="Nome" value="BannerConnect"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - comfort"></attvalue>
+          <attvalue for="Connessioni" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="167.70833"></viz:size>
+        <viz:position x="5132.6797" y="4695.789" z="0.0"></viz:position>
+        <viz:color r="25" g="224" b="0"></viz:color>
+      </node>
+      <node id="BanzaiMedia_Tracker" label="BanzaiMedia">
+        <attvalues>
+          <attvalue for="Nome" value="BanzaiMedia"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - cautela"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="7108.657" y="4587.9224" z="0.0"></viz:position>
+        <viz:color r="255" g="253" b="5"></viz:color>
+      </node>
+      <node id="BlueKai_Tracker" label="BlueKai">
+        <attvalues>
+          <attvalue for="Nome" value="BlueKai"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - NA"></attvalue>
+          <attvalue for="Connessioni" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="158.85417"></viz:size>
+        <viz:position x="4638.5864" y="4073.368" z="0.0"></viz:position>
+        <viz:color r="120" g="120" b="120"></viz:color>
+      </node>
+      <node id="Brightcove_Tracker" label="Brightcove">
+        <attvalues>
+          <attvalue for="Nome" value="Brightcove"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - comfort"></attvalue>
+          <attvalue for="Connessioni" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="158.85417"></viz:size>
+        <viz:position x="6158.739" y="3715.5063" z="0.0"></viz:position>
+        <viz:color r="25" g="224" b="0"></viz:color>
+      </node>
+      <node id="CacheFly_Tracker" label="CacheFly">
+        <attvalues>
+          <attvalue for="Nome" value="CacheFly"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - cautela"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="6428.283" y="4465.823" z="0.0"></viz:position>
+        <viz:color r="255" g="253" b="5"></viz:color>
+      </node>
+      <node id="Casa.it_Tracker" label="Casa.it">
+        <attvalues>
+          <attvalue for="Nome" value="Casa.it"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - NA"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="5570.2344" y="3065.052" z="0.0"></viz:position>
+        <viz:color r="120" g="120" b="120"></viz:color>
+      </node>
+      <node id="CercaCasa.it_Tracker" label="CercaCasa.it">
+        <attvalues>
+          <attvalue for="Nome" value="CercaCasa.it"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - NA"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="7852.162" y="3825.5955" z="0.0"></viz:position>
+        <viz:color r="120" g="120" b="120"></viz:color>
+      </node>
+      <node id="Chango_Tracker" label="Chango">
+        <attvalues>
+          <attvalue for="Nome" value="Chango"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - NA"></attvalue>
+          <attvalue for="Connessioni" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="158.85417"></viz:size>
+        <viz:position x="6217.709" y="2806.5833" z="0.0"></viz:position>
+        <viz:color r="120" g="120" b="120"></viz:color>
+      </node>
+      <node id="ChartBeat_Tracker" label="ChartBeat">
+        <attvalues>
+          <attvalue for="Nome" value="ChartBeat"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - comfort"></attvalue>
+          <attvalue for="Connessioni" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="158.85417"></viz:size>
+        <viz:position x="7059.3735" y="2382.3875" z="0.0"></viz:position>
+        <viz:color r="25" g="224" b="0"></viz:color>
+      </node>
+      <node id="ClickTale_Tracker" label="ClickTale">
+        <attvalues>
+          <attvalue for="Nome" value="ClickTale"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - NA"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="8511.506" y="1661.0881" z="0.0"></viz:position>
+        <viz:color r="120" g="120" b="120"></viz:color>
+      </node>
+      <node id="ComingSoon_Tracker" label="ComingSoon">
+        <attvalues>
+          <attvalue for="Nome" value="ComingSoon"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - NA"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="7509.4604" y="1700.2006" z="0.0"></viz:position>
+        <viz:color r="120" g="120" b="120"></viz:color>
+      </node>
+      <node id="ComscoreBeacon_Tracker" label="ComscoreBeacon">
+        <attvalues>
+          <attvalue for="Nome" value="ComscoreBeacon"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - NA"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="7865.771" y="2430.8315" z="0.0"></viz:position>
+        <viz:color r="120" g="120" b="120"></viz:color>
+      </node>
+      <node id="Connexity_Tracker" label="Connexity">
+        <attvalues>
+          <attvalue for="Nome" value="Connexity"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - comfort"></attvalue>
+          <attvalue for="Connessioni" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="158.85417"></viz:size>
+        <viz:position x="6783.5747" y="1461.2981" z="0.0"></viz:position>
+        <viz:color r="25" g="224" b="0"></viz:color>
+      </node>
+      <node id="CrazyEgg_Tracker" label="CrazyEgg">
+        <attvalues>
+          <attvalue for="Nome" value="CrazyEgg"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - allarmante"></attvalue>
+          <attvalue for="Connessioni" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="194.27083"></viz:size>
+        <viz:position x="6337.577" y="450.21225" z="0.0"></viz:position>
+        <viz:color r="240" g="0" b="36"></viz:color>
+      </node>
+      <node id="Criteo_Tracker" label="Criteo">
+        <attvalues>
+          <attvalue for="Nome" value="Criteo"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - NA"></attvalue>
+          <attvalue for="Connessioni" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="194.27083"></viz:size>
+        <viz:position x="6574.972" y="-423.6283" z="0.0"></viz:position>
+        <viz:color r="120" g="120" b="120"></viz:color>
+      </node>
+      <node id="Datalogix_Tracker" label="Datalogix">
+        <attvalues>
+          <attvalue for="Nome" value="Datalogix"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - NA"></attvalue>
+          <attvalue for="Connessioni" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="158.85417"></viz:size>
+        <viz:position x="8029.927" y="255.6283" z="0.0"></viz:position>
+        <viz:color r="120" g="120" b="120"></viz:color>
+      </node>
+      <node id="Deezer_Tracker" label="Deezer">
+        <attvalues>
+          <attvalue for="Nome" value="Deezer"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - allarmante"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="7011.071" y="-1093.5823" z="0.0"></viz:position>
+        <viz:color r="240" g="0" b="36"></viz:color>
+      </node>
+      <node id="Demdex_Tracker" label="Demdex">
+        <attvalues>
+          <attvalue for="Nome" value="Demdex"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - NA"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="3769.6191" y="7230.718" z="0.0"></viz:position>
+        <viz:color r="120" g="120" b="120"></viz:color>
+      </node>
+      <node id="Disqus_Tracker" label="Disqus">
+        <attvalues>
+          <attvalue for="Nome" value="Disqus"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - allarmante"></attvalue>
+          <attvalue for="Connessioni" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="158.85417"></viz:size>
+        <viz:position x="7826.9897" y="-1036.5582" z="0.0"></viz:position>
+        <viz:color r="240" g="0" b="36"></viz:color>
+      </node>
+      <node id="Dotomi_Tracker" label="Dotomi">
+        <attvalues>
+          <attvalue for="Nome" value="Dotomi"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - allarmante"></attvalue>
+          <attvalue for="Connessioni" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="158.85417"></viz:size>
+        <viz:position x="-5003.4775" y="5064.3784" z="0.0"></viz:position>
+        <viz:color r="240" g="0" b="36"></viz:color>
+      </node>
+      <node id="DoubleClick_Tracker" label="DoubleClick">
+        <attvalues>
+          <attvalue for="Nome" value="DoubleClick"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - comfort"></attvalue>
+          <attvalue for="Connessioni" value="28"></attvalue>
+        </attvalues>
+        <viz:size value="389.0625"></viz:size>
+        <viz:position x="4280.475" y="-3278.8289" z="0.0"></viz:position>
+        <viz:color r="25" g="224" b="0"></viz:color>
+      </node>
+      <node id="Dstillery_Tracker" label="Dstillery">
+        <attvalues>
+          <attvalue for="Nome" value="Dstillery"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - comfort"></attvalue>
+          <attvalue for="Connessioni" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="158.85417"></viz:size>
+        <viz:position x="7331.4795" y="-398.75235" z="0.0"></viz:position>
+        <viz:color r="25" g="224" b="0"></viz:color>
+      </node>
+      <node id="EdgeSuite_Tracker" label="EdgeSuite">
+        <attvalues>
+          <attvalue for="Nome" value="EdgeSuite"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - comfort"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="3434.6716" y="6582.904" z="0.0"></viz:position>
+        <viz:color r="25" g="224" b="0"></viz:color>
+      </node>
+      <node id="eDintorni_Tracker" label="eDintorni">
+        <attvalues>
+          <attvalue for="Nome" value="eDintorni"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - comfort"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="-128.77856" y="6652.184" z="0.0"></viz:position>
+        <viz:color r="25" g="224" b="0"></viz:color>
+      </node>
+      <node id="EditorialeDomus_Tracker" label="EditorialeDomus">
+        <attvalues>
+          <attvalue for="Nome" value="EditorialeDomus"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - NA"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="6364.928" y="-1424.9553" z="0.0"></viz:position>
+        <viz:color r="120" g="120" b="120"></viz:color>
+      </node>
+      <node id="eXelateMedia_Tracker" label="eXelateMedia">
+        <attvalues>
+          <attvalue for="Nome" value="eXelateMedia"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - NA"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="-516.31146" y="7370.5293" z="0.0"></viz:position>
+        <viz:color r="120" g="120" b="120"></viz:color>
+      </node>
+      <node id="Facebook_Tracker" label="Facebook">
+        <attvalues>
+          <attvalue for="Nome" value="Facebook"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - comfort"></attvalue>
+          <attvalue for="Connessioni" value="24"></attvalue>
+        </attvalues>
+        <viz:size value="353.6458"></viz:size>
+        <viz:position x="7038.234" y="-2121.1743" z="0.0"></viz:position>
+        <viz:color r="25" g="224" b="0"></viz:color>
+      </node>
+      <node id="Forebase_Tracker" label="Forebase">
+        <attvalues>
+          <attvalue for="Nome" value="Forebase"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - NA"></attvalue>
+          <attvalue for="Connessioni" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="158.85417"></viz:size>
+        <viz:position x="7697.456" y="-3066.1267" z="0.0"></viz:position>
+        <viz:color r="120" g="120" b="120"></viz:color>
+      </node>
+      <node id="FriendFeed_Tracker" label="FriendFeed">
+        <attvalues>
+          <attvalue for="Nome" value="FriendFeed"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - NA"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="6774.226" y="-3081.1897" z="0.0"></viz:position>
+        <viz:color r="120" g="120" b="120"></viz:color>
+      </node>
+      <node id="Gazzettino_Tracker" label="Gazzettino">
+        <attvalues>
+          <attvalue for="Nome" value="Gazzettino"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - NA"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="6511.3877" y="-3845.302" z="0.0"></viz:position>
+        <viz:color r="120" g="120" b="120"></viz:color>
+      </node>
+      <node id="Gigya_Tracker" label="Gigya">
+        <attvalues>
+          <attvalue for="Nome" value="Gigya"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - NA"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="8294.837" y="-3649.4307" z="0.0"></viz:position>
+        <viz:color r="120" g="120" b="120"></viz:color>
+      </node>
+      <node id="Gigya Socialize_Tracker" label="Gigya Socialize">
+        <attvalues>
+          <attvalue for="Nome" value="Gigya Socialize"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - allarmante"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="7175.2993" y="-4092.334" z="0.0"></viz:position>
+        <viz:color r="240" g="0" b="36"></viz:color>
+      </node>
+      <node id="GigyaBeacon_Tracker" label="GigyaBeacon">
+        <attvalues>
+          <attvalue for="Nome" value="GigyaBeacon"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - allarmante"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="6593.5513" y="-4515.9736" z="0.0"></viz:position>
+        <viz:color r="240" g="0" b="36"></viz:color>
+      </node>
+      <node id="Google +1_Tracker" label="Google +1">
+        <attvalues>
+          <attvalue for="Nome" value="Google +1"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - comfort"></attvalue>
+          <attvalue for="Connessioni" value="14"></attvalue>
+        </attvalues>
+        <viz:size value="265.1042"></viz:size>
+        <viz:position x="3835.376" y="-5776.336" z="0.0"></viz:position>
+        <viz:color r="25" g="224" b="0"></viz:color>
+      </node>
+      <node id="GoogleAdsense_Tracker" label="GoogleAdsense">
+        <attvalues>
+          <attvalue for="Nome" value="GoogleAdsense"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - NA"></attvalue>
+          <attvalue for="Connessioni" value="14"></attvalue>
+        </attvalues>
+        <viz:size value="265.1042"></viz:size>
+        <viz:position x="4981.5776" y="-4339.3857" z="0.0"></viz:position>
+        <viz:color r="120" g="120" b="120"></viz:color>
+      </node>
+      <node id="GoogleAdWordsConversion_Tracker" label="GoogleAdWordsConversion">
+        <attvalues>
+          <attvalue for="Nome" value="GoogleAdWordsConversion"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - comfort"></attvalue>
+          <attvalue for="Connessioni" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="158.85417"></viz:size>
+        <viz:position x="5849.0786" y="-4459.574" z="0.0"></viz:position>
+        <viz:color r="25" g="224" b="0"></viz:color>
+      </node>
+      <node id="GoogleAnalytics_Tracker" label="GoogleAnalytics">
+        <attvalues>
+          <attvalue for="Nome" value="GoogleAnalytics"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - comfort"></attvalue>
+          <attvalue for="Connessioni" value="27"></attvalue>
+        </attvalues>
+        <viz:size value="380.20834"></viz:size>
+        <viz:position x="3519.416" y="-4450.686" z="0.0"></viz:position>
+        <viz:color r="25" g="224" b="0"></viz:color>
+      </node>
+      <node id="GoogleFonts_Tracker" label="GoogleFonts">
+        <attvalues>
+          <attvalue for="Nome" value="GoogleFonts"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - NA"></attvalue>
+          <attvalue for="Connessioni" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="194.27083"></viz:size>
+        <viz:position x="4543.792" y="-5197.895" z="0.0"></viz:position>
+        <viz:color r="120" g="120" b="120"></viz:color>
+      </node>
+      <node id="GoogleMaps_Tracker" label="GoogleMaps">
+        <attvalues>
+          <attvalue for="Nome" value="GoogleMaps"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - NA"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="5647.932" y="-5160.017" z="0.0"></viz:position>
+        <viz:color r="120" g="120" b="120"></viz:color>
+      </node>
+      <node id="GoogleTagServices_Tracker" label="GoogleTagServices">
+        <attvalues>
+          <attvalue for="Nome" value="GoogleTagServices"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - NA"></attvalue>
+          <attvalue for="Connessioni" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="158.85417"></viz:size>
+        <viz:position x="5324.5176" y="-3525.8145" z="0.0"></viz:position>
+        <viz:color r="120" g="120" b="120"></viz:color>
+      </node>
+      <node id="iCrossing_Tracker" label="iCrossing">
+        <attvalues>
+          <attvalue for="Nome" value="iCrossing"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - NA"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="223.22942" y="7235.1963" z="0.0"></viz:position>
+        <viz:color r="120" g="120" b="120"></viz:color>
+      </node>
+      <node id="Ilissos/Eyeblaster _Tracker" label="Ilissos/Eyeblaster ">
+        <attvalues>
+          <attvalue for="Nome" value="Ilissos/Eyeblaster "></attvalue>
+          <attvalue for="Tipologia" value="Cookie - allarmante"></attvalue>
+          <attvalue for="Connessioni" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="203.125"></viz:size>
+        <viz:position x="-1466.6095" y="-6842.167" z="0.0"></viz:position>
+        <viz:color r="240" g="0" b="36"></viz:color>
+      </node>
+      <node id="IlMattino_Tracker" label="IlMattino">
+        <attvalues>
+          <attvalue for="Nome" value="IlMattino"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - comfort"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="2851.0017" y="-5932.5107" z="0.0"></viz:position>
+        <viz:color r="25" g="224" b="0"></viz:color>
+      </node>
+      <node id="IlMessaggero_Tracker" label="IlMessaggero">
+        <attvalues>
+          <attvalue for="Nome" value="IlMessaggero"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - NA"></attvalue>
+          <attvalue for="Connessioni" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="167.70833"></viz:size>
+        <viz:position x="3339.284" y="-6534.8086" z="0.0"></viz:position>
+        <viz:color r="120" g="120" b="120"></viz:color>
+      </node>
+      <node id="IlMeteo.it_Tracker" label="IlMeteo.it">
+        <attvalues>
+          <attvalue for="Nome" value="IlMeteo.it"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - NA"></attvalue>
+          <attvalue for="Connessioni" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="158.85417"></viz:size>
+        <viz:position x="2175.5269" y="-6077.4785" z="0.0"></viz:position>
+        <viz:color r="120" g="120" b="120"></viz:color>
+      </node>
+      <node id="IlSole24Ore_Tracker" label="IlSole24Ore">
+        <attvalues>
+          <attvalue for="Nome" value="IlSole24Ore"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - NA"></attvalue>
+          <attvalue for="Connessioni" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="176.5625"></viz:size>
+        <viz:position x="2506.4265" y="-6743.1807" z="0.0"></viz:position>
+        <viz:color r="120" g="120" b="120"></viz:color>
+      </node>
+      <node id="Immobiliare.it_Tracker" label="Immobiliare.it">
+        <attvalues>
+          <attvalue for="Nome" value="Immobiliare.it"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - NA"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="1443.6705" y="-6119.146" z="0.0"></viz:position>
+        <viz:color r="120" g="120" b="120"></viz:color>
+      </node>
+      <node id="InSella.it_Tracker" label="InSella.it">
+        <attvalues>
+          <attvalue for="Nome" value="InSella.it"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - NA"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="2322.0684" y="-7514.9307" z="0.0"></viz:position>
+        <viz:color r="120" g="120" b="120"></viz:color>
+      </node>
+      <node id="Instangram_Tracker" label="Instangram">
+        <attvalues>
+          <attvalue for="Nome" value="Instangram"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - NA"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="5974.2075" y="-2486.0898" z="0.0"></viz:position>
+        <viz:color r="120" g="120" b="120"></viz:color>
+      </node>
+      <node id="InviteMedia_Tracker" label="InviteMedia">
+        <attvalues>
+          <attvalue for="Nome" value="InviteMedia"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - NA"></attvalue>
+          <attvalue for="Connessioni" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="158.85417"></viz:size>
+        <viz:position x="6070.604" y="-3237.4968" z="0.0"></viz:position>
+        <viz:color r="120" g="120" b="120"></viz:color>
+      </node>
+      <node id="Jumptap_Tracker" label="Jumptap">
+        <attvalues>
+          <attvalue for="Nome" value="Jumptap"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - NA"></attvalue>
+          <attvalue for="Connessioni" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="158.85417"></viz:size>
+        <viz:position x="-2843.3179" y="-6280.0244" z="0.0"></viz:position>
+        <viz:color r="120" g="120" b="120"></viz:color>
+      </node>
+      <node id="Kataweb_Tracker" label="Kataweb">
+        <attvalues>
+          <attvalue for="Nome" value="Kataweb"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - comfort"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="4509.562" y="-6395.694" z="0.0"></viz:position>
+        <viz:color r="25" g="224" b="0"></viz:color>
+      </node>
+      <node id="LaPresse_Tracker" label="LaPresse">
+        <attvalues>
+          <attvalue for="Nome" value="LaPresse"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - NA"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="1640.4248" y="-7609.032" z="0.0"></viz:position>
+        <viz:color r="120" g="120" b="120"></viz:color>
+      </node>
+      <node id="Leggo_Tracker" label="Leggo">
+        <attvalues>
+          <attvalue for="Nome" value="Leggo"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - NA"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="576.3312" y="-6401.0596" z="0.0"></viz:position>
+        <viz:color r="120" g="120" b="120"></viz:color>
+      </node>
+      <node id="LegolasMedia_Tracker" label="LegolasMedia">
+        <attvalues>
+          <attvalue for="Nome" value="LegolasMedia"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - NA"></attvalue>
+          <attvalue for="Connessioni" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="158.85417"></viz:size>
+        <viz:position x="1218.5198" y="-6886.6133" z="0.0"></viz:position>
+        <viz:color r="120" g="120" b="120"></viz:color>
+      </node>
+      <node id="LinkedIn_Tracker" label="LinkedIn">
+        <attvalues>
+          <attvalue for="Nome" value="LinkedIn"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - comfort"></attvalue>
+          <attvalue for="Connessioni" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="158.85417"></viz:size>
+        <viz:position x="900.98413" y="-7544.9707" z="0.0"></viz:position>
+        <viz:color r="25" g="224" b="0"></viz:color>
+      </node>
+      <node id="Lotame_Tracker" label="Lotame">
+        <attvalues>
+          <attvalue for="Nome" value="Lotame"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - NA"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="-14.911981" y="-7649.938" z="0.0"></viz:position>
+        <viz:color r="120" g="120" b="120"></viz:color>
+      </node>
+      <node id="LucidMedia_Tracker" label="LucidMedia">
+        <attvalues>
+          <attvalue for="Nome" value="LucidMedia"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - comfort"></attvalue>
+          <attvalue for="Connessioni" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="158.85417"></viz:size>
+        <viz:position x="-4315.959" y="4892.1987" z="0.0"></viz:position>
+        <viz:color r="25" g="224" b="0"></viz:color>
+      </node>
+      <node id="MadsOne_Tracker" label="MadsOne">
+        <attvalues>
+          <attvalue for="Nome" value="MadsOne"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - comfort"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="-110.73423" y="-6466.326" z="0.0"></viz:position>
+        <viz:color r="25" g="224" b="0"></viz:color>
+      </node>
+      <node id="MarcoPoloShop_Tracker" label="MarcoPoloShop">
+        <attvalues>
+          <attvalue for="Nome" value="MarcoPoloShop"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - allarmante"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="-638.0556" y="-5964.039" z="0.0"></viz:position>
+        <viz:color r="240" g="0" b="36"></viz:color>
+      </node>
+      <node id="Mark&amp;Mini_Tracker" label="Mark&amp;Mini">
+        <attvalues>
+          <attvalue for="Nome" value="Mark&amp;Mini"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - NA"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="-674.27313" y="-6911.0312" z="0.0"></viz:position>
+        <viz:color r="120" g="120" b="120"></viz:color>
+      </node>
+      <node id="MbrTargeting_Tracker" label="MbrTargeting">
+        <attvalues>
+          <attvalue for="Nome" value="MbrTargeting"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - allarmante"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="-1417.5692" y="-7634.8257" z="0.0"></viz:position>
+        <viz:color r="240" g="0" b="36"></viz:color>
+      </node>
+      <node id="MediaInnovationGroup_Tracker" label="MediaInnovationGroup">
+        <attvalues>
+          <attvalue for="Nome" value="MediaInnovationGroup"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - NA"></attvalue>
+          <attvalue for="Connessioni" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="203.125"></viz:size>
+        <viz:position x="-3359.7314" y="4647.486" z="0.0"></viz:position>
+        <viz:color r="120" g="120" b="120"></viz:color>
+      </node>
+      <node id="MediaMath_Tracker" label="MediaMath">
+        <attvalues>
+          <attvalue for="Nome" value="MediaMath"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - comfort"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="-1341.8446" y="-6032.509" z="0.0"></viz:position>
+        <viz:color r="25" g="224" b="0"></viz:color>
+      </node>
+      <node id="Mediamond_Tracker" label="Mediamond">
+        <attvalues>
+          <attvalue for="Nome" value="Mediamond"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - cautela"></attvalue>
+          <attvalue for="Connessioni" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="167.70833"></viz:size>
+        <viz:position x="-2229.0193" y="-6985.4834" z="0.0"></viz:position>
+        <viz:color r="255" g="253" b="5"></viz:color>
+      </node>
+      <node id="MeteoSolutions_Tracker" label="MeteoSolutions">
+        <attvalues>
+          <attvalue for="Nome" value="MeteoSolutions"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - NA"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="-2096.9915" y="-6220.2695" z="0.0"></viz:position>
+        <viz:color r="120" g="120" b="120"></viz:color>
+      </node>
+      <node id="MirSrl_Tracker" label="MirSrl">
+        <attvalues>
+          <attvalue for="Nome" value="MirSrl"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - NA"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="-3825.086" y="-6577.6826" z="0.0"></viz:position>
+        <viz:color r="120" g="120" b="120"></viz:color>
+      </node>
+      <node id="Mixpanel_Tracker" label="Mixpanel">
+        <attvalues>
+          <attvalue for="Nome" value="Mixpanel"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - NA"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="-4540.6367" y="-6554.2456" z="0.0"></viz:position>
+        <viz:color r="120" g="120" b="120"></viz:color>
+      </node>
+      <node id="Mondadori_Tracker" label="Mondadori">
+        <attvalues>
+          <attvalue for="Nome" value="Mondadori"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - NA"></attvalue>
+          <attvalue for="Connessioni" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="158.85417"></viz:size>
+        <viz:position x="-3519.5286" y="-5852.5635" z="0.0"></viz:position>
+        <viz:color r="120" g="120" b="120"></viz:color>
+      </node>
+      <node id="MSN_Tracker" label="MSN">
+        <attvalues>
+          <attvalue for="Nome" value="MSN"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - NA"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="-2959.9104" y="-6981.694" z="0.0"></viz:position>
+        <viz:color r="120" g="120" b="120"></viz:color>
+      </node>
+      <node id="Neodata_Tracker" label="Neodata">
+        <attvalues>
+          <attvalue for="Nome" value="Neodata"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - allarmante"></attvalue>
+          <attvalue for="Connessioni" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="185.41667"></viz:size>
+        <viz:position x="-3062.938" y="-5236.4834" z="0.0"></viz:position>
+        <viz:color r="240" g="0" b="36"></viz:color>
+      </node>
+      <node id="NetratingsSiteCensus_Tracker" label="NetratingsSiteCensus">
+        <attvalues>
+          <attvalue for="Nome" value="NetratingsSiteCensus"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - allarmante"></attvalue>
+          <attvalue for="Connessioni" value="25"></attvalue>
+        </attvalues>
+        <viz:size value="362.5"></viz:size>
+        <viz:position x="-4497.048" y="-5571.455" z="0.0"></viz:position>
+        <viz:color r="240" g="0" b="36"></viz:color>
+      </node>
+      <node id="Omniture_Tracker" label="Omniture">
+        <attvalues>
+          <attvalue for="Nome" value="Omniture"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - allarmante"></attvalue>
+          <attvalue for="Connessioni" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="176.5625"></viz:size>
+        <viz:position x="2154.6238" y="6227.415" z="0.0"></viz:position>
+        <viz:color r="240" g="0" b="36"></viz:color>
+      </node>
+      <node id="OpenX_Tracker" label="OpenX">
+        <attvalues>
+          <attvalue for="Nome" value="OpenX"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - allarmante"></attvalue>
+          <attvalue for="Connessioni" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="185.41667"></viz:size>
+        <viz:position x="-4753.1167" y="-4443.303" z="0.0"></viz:position>
+        <viz:color r="240" g="0" b="36"></viz:color>
+      </node>
+      <node id="Optimal_Tracker" label="Optimal">
+        <attvalues>
+          <attvalue for="Nome" value="Optimal"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - allarmante"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="6868.6973" y="3873.782" z="0.0"></viz:position>
+        <viz:color r="240" g="0" b="36"></viz:color>
+      </node>
+      <node id="Outbrain_Tracker" label="Outbrain">
+        <attvalues>
+          <attvalue for="Nome" value="Outbrain"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - allarmante"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="-5491.1416" y="-4230.853" z="0.0"></viz:position>
+        <viz:color r="240" g="0" b="36"></viz:color>
+      </node>
+      <node id="Parse.ly_Tracker" label="Parse.ly">
+        <attvalues>
+          <attvalue for="Nome" value="Parse.ly"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - allarmante"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="-5865.827" y="-4816.448" z="0.0"></viz:position>
+        <viz:color r="240" g="0" b="36"></viz:color>
+      </node>
+      <node id="PiemmeOnline_Tracker" label="PiemmeOnline">
+        <attvalues>
+          <attvalue for="Nome" value="PiemmeOnline"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - NA"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="-4868.7847" y="-3693.1365" z="0.0"></viz:position>
+        <viz:color r="120" g="120" b="120"></viz:color>
+      </node>
+      <node id="Pinterest_Tracker" label="Pinterest">
+        <attvalues>
+          <attvalue for="Nome" value="Pinterest"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - NA"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="-6136.1714" y="-4012.6187" z="0.0"></viz:position>
+        <viz:color r="120" g="120" b="120"></viz:color>
+      </node>
+      <node id="PiwikAnalytics_Tracker" label="PiwikAnalytics">
+        <attvalues>
+          <attvalue for="Nome" value="PiwikAnalytics"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - NA"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="-6179.904" y="-3245.3044" z="0.0"></viz:position>
+        <viz:color r="120" g="120" b="120"></viz:color>
+      </node>
+      <node id="Plexop_Tracker" label="Plexop">
+        <attvalues>
+          <attvalue for="Nome" value="Plexop"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - NA"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="-5474.755" y="-3256.4321" z="0.0"></viz:position>
+        <viz:color r="120" g="120" b="120"></viz:color>
+      </node>
+      <node id="Populis_Tracker" label="Populis">
+        <attvalues>
+          <attvalue for="Nome" value="Populis"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - NA"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="-6181.3403" y="-2525.7195" z="0.0"></viz:position>
+        <viz:color r="120" g="120" b="120"></viz:color>
+      </node>
+      <node id="PubMatic_Tracker" label="PubMatic">
+        <attvalues>
+          <attvalue for="Nome" value="PubMatic"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - comfort"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="-6896.225" y="-2594.5583" z="0.0"></viz:position>
+        <viz:color r="25" g="224" b="0"></viz:color>
+      </node>
+      <node id="PulsePoint_Tracker" label="PulsePoint">
+        <attvalues>
+          <attvalue for="Nome" value="PulsePoint"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - comfort"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="-7291.3643" y="-1962.1934" z="0.0"></viz:position>
+        <viz:color r="25" g="224" b="0"></viz:color>
+      </node>
+      <node id="QuantCast_Tracker" label="QuantCast">
+        <attvalues>
+          <attvalue for="Nome" value="QuantCast"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - comfort"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="-5421.7827" y="-1990.6638" z="0.0"></viz:position>
+        <viz:color r="25" g="224" b="0"></viz:color>
+      </node>
+      <node id="Radio101_Tracker" label="Radio101">
+        <attvalues>
+          <attvalue for="Nome" value="Radio101"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - NA"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="-6626.636" y="-1784.0271" z="0.0"></viz:position>
+        <viz:color r="120" g="120" b="120"></viz:color>
+      </node>
+      <node id="Radio105_Tracker" label="Radio105">
+        <attvalues>
+          <attvalue for="Nome" value="Radio105"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - NA"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="-6162.401" y="-1237.9746" z="0.0"></viz:position>
+        <viz:color r="120" g="120" b="120"></viz:color>
+      </node>
+      <node id="RcsMediaGroup_Tracker" label="RcsMediaGroup">
+        <attvalues>
+          <attvalue for="Nome" value="RcsMediaGroup"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - NA"></attvalue>
+          <attvalue for="Connessioni" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="167.70833"></viz:size>
+        <viz:position x="-6859.3843" y="-1020.2557" z="0.0"></viz:position>
+        <viz:color r="120" g="120" b="120"></viz:color>
+      </node>
+      <node id="RocketFuel_Tracker" label="RocketFuel">
+        <attvalues>
+          <attvalue for="Nome" value="RocketFuel"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - comfort"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="-6518.1377" y="-409.3176" z="0.0"></viz:position>
+        <viz:color r="25" g="224" b="0"></viz:color>
+      </node>
+      <node id="Ru4_Tracker" label="Ru4">
+        <attvalues>
+          <attvalue for="Nome" value="Ru4"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - cautela"></attvalue>
+          <attvalue for="Connessioni" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="158.85417"></viz:size>
+        <viz:position x="-911.36884" y="6709.7285" z="0.0"></viz:position>
+        <viz:color r="255" g="253" b="5"></viz:color>
+      </node>
+      <node id="RubiconProject_Tracker" label="RubiconProject">
+        <attvalues>
+          <attvalue for="Nome" value="RubiconProject"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - cautela"></attvalue>
+          <attvalue for="Connessioni" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="185.41667"></viz:size>
+        <viz:position x="-5815.0557" y="-28.413425" z="0.0"></viz:position>
+        <viz:color r="255" g="253" b="5"></viz:color>
+      </node>
+      <node id="ScorecCardResearch_Tracker" label="ScorecCardResearch">
+        <attvalues>
+          <attvalue for="Nome" value="ScorecCardResearch"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - comfort"></attvalue>
+          <attvalue for="Connessioni" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="167.70833"></viz:size>
+        <viz:position x="6358.9766" y="2079.4417" z="0.0"></viz:position>
+        <viz:color r="25" g="224" b="0"></viz:color>
+      </node>
+      <node id="SeCoGes_Tracker" label="SeCoGes">
+        <attvalues>
+          <attvalue for="Nome" value="SeCoGes"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - NA"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="-7234.2285" y="-377.48483" z="0.0"></viz:position>
+        <viz:color r="120" g="120" b="120"></viz:color>
+      </node>
+      <node id="SharedCount_Tracker" label="SharedCount">
+        <attvalues>
+          <attvalue for="Nome" value="SharedCount"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - NA"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="-6149.4233" y="667.7903" z="0.0"></viz:position>
+        <viz:color r="120" g="120" b="120"></viz:color>
+      </node>
+      <node id="ShinyStat_Tracker" label="ShinyStat">
+        <attvalues>
+          <attvalue for="Nome" value="ShinyStat"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - NA"></attvalue>
+          <attvalue for="Connessioni" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="211.97916"></viz:size>
+        <viz:position x="-6873.5635" y="388.57974" z="0.0"></viz:position>
+        <viz:color r="120" g="120" b="120"></viz:color>
+      </node>
+      <node id="Stipple_Tracker" label="Stipple">
+        <attvalues>
+          <attvalue for="Nome" value="Stipple"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - allarmante"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="-6556.445" y="1276.0333" z="0.0"></viz:position>
+        <viz:color r="240" g="0" b="36"></viz:color>
+      </node>
+      <node id="Style.it_Tracker" label="Style.it">
+        <attvalues>
+          <attvalue for="Nome" value="Style.it"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - NA"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="-7171.1504" y="1698.8044" z="0.0"></viz:position>
+        <viz:color r="120" g="120" b="120"></viz:color>
+      </node>
+      <node id="TagMan_Tracker" label="TagMan">
+        <attvalues>
+          <attvalue for="Nome" value="TagMan"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - allarmante"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="-6028.3403" y="1962.7052" z="0.0"></viz:position>
+        <viz:color r="240" g="0" b="36"></viz:color>
+      </node>
+      <node id="Tapad_Tracker" label="Tapad">
+        <attvalues>
+          <attvalue for="Nome" value="Tapad"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - cautela"></attvalue>
+          <attvalue for="Connessioni" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="167.70833"></viz:size>
+        <viz:position x="-7307.996" y="3633.8071" z="0.0"></viz:position>
+        <viz:color r="255" g="253" b="5"></viz:color>
+      </node>
+      <node id="Teleborsa.it_Tracker" label="Teleborsa.it">
+        <attvalues>
+          <attvalue for="Nome" value="Teleborsa.it"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - NA"></attvalue>
+          <attvalue for="Connessioni" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="158.85417"></viz:size>
+        <viz:position x="-6606.207" y="2472.2124" z="0.0"></viz:position>
+        <viz:color r="120" g="120" b="120"></viz:color>
+      </node>
+      <node id="TradeDoubler_Tracker" label="TradeDoubler">
+        <attvalues>
+          <attvalue for="Nome" value="TradeDoubler"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - allarmante"></attvalue>
+          <attvalue for="Connessioni" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="158.85417"></viz:size>
+        <viz:position x="-5775.182" y="2696.1123" z="0.0"></viz:position>
+        <viz:color r="240" g="0" b="36"></viz:color>
+      </node>
+      <node id="Turn_Tracker" label="Turn">
+        <attvalues>
+          <attvalue for="Nome" value="Turn"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - comfort"></attvalue>
+          <attvalue for="Connessioni" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="185.41667"></viz:size>
+        <viz:position x="-5259.6313" y="3513.0664" z="0.0"></viz:position>
+        <viz:color r="25" g="224" b="0"></viz:color>
+      </node>
+      <node id="Twitter_Tracker" label="Twitter">
+        <attvalues>
+          <attvalue for="Nome" value="Twitter"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - NA"></attvalue>
+          <attvalue for="Connessioni" value="15"></attvalue>
+        </attvalues>
+        <viz:size value="273.9583"></viz:size>
+        <viz:position x="-6133.278" y="4007.003" z="0.0"></viz:position>
+        <viz:color r="120" g="120" b="120"></viz:color>
+      </node>
+      <node id="TwitterBadge_Tracker" label="TwitterBadge">
+        <attvalues>
+          <attvalue for="Nome" value="TwitterBadge"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - NA"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="-5297.6733" y="4433.4487" z="0.0"></viz:position>
+        <viz:color r="120" g="120" b="120"></viz:color>
+      </node>
+      <node id="Unica_Tracker" label="Unica">
+        <attvalues>
+          <attvalue for="Nome" value="Unica"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - allarmante"></attvalue>
+          <attvalue for="Connessioni" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="158.85417"></viz:size>
+        <viz:position x="3565.6553" y="-7236.7695" z="0.0"></viz:position>
+        <viz:color r="240" g="0" b="36"></viz:color>
+      </node>
+      <node id="Vantaggiando.it_Tracker" label="Vantaggiando.it">
+        <attvalues>
+          <attvalue for="Nome" value="Vantaggiando.it"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - NA"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="-5573.964" y="5604.537" z="0.0"></viz:position>
+        <viz:color r="120" g="120" b="120"></viz:color>
+      </node>
+      <node id="VisualRevenue_Tracker" label="VisualRevenue">
+        <attvalues>
+          <attvalue for="Nome" value="VisualRevenue"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - NA "></attvalue>
+          <attvalue for="Connessioni" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="185.41667"></viz:size>
+        <viz:position x="-4563.053" y="5701.9033" z="0.0"></viz:position>
+        <viz:color r="126" g="126" b="126"></viz:color>
+      </node>
+      <node id="WeBoost_Tracker" label="WeBoost">
+        <attvalues>
+          <attvalue for="Nome" value="WeBoost"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - allarmante"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="-4616.04" y="6965.907" z="0.0"></viz:position>
+        <viz:color r="240" g="0" b="36"></viz:color>
+      </node>
+      <node id="Weborama_Tracker" label="Weborama">
+        <attvalues>
+          <attvalue for="Nome" value="Weborama"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - allarmante"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="-3656.8284" y="6207.838" z="0.0"></viz:position>
+        <viz:color r="240" g="0" b="36"></viz:color>
+      </node>
+      <node id="Webtrekk_Tracker" label="Webtrekk">
+        <attvalues>
+          <attvalue for="Nome" value="Webtrekk"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - allarmante"></attvalue>
+          <attvalue for="Connessioni" value="11"></attvalue>
+        </attvalues>
+        <viz:size value="238.54166"></viz:size>
+        <viz:position x="-2614.4211" y="6674.1465" z="0.0"></viz:position>
+        <viz:color r="240" g="0" b="36"></viz:color>
+      </node>
+      <node id="Wimbledon.com_Tracker" label="Wimbledon.com">
+        <attvalues>
+          <attvalue for="Nome" value="Wimbledon.com"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - NA"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="-2008.7416" y="5979.608" z="0.0"></viz:position>
+        <viz:color r="120" g="120" b="120"></viz:color>
+      </node>
+      <node id="Yahoo_Tracker" label="Yahoo">
+        <attvalues>
+          <attvalue for="Nome" value="Yahoo"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - allarmante"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="-1592.2596" y="7278.6143" z="0.0"></viz:position>
+        <viz:color r="240" g="0" b="36"></viz:color>
+      </node>
+      <node id="YieldDivision_Tracker" label="YieldDivision">
+        <attvalues>
+          <attvalue for="Nome" value="YieldDivision"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - allarmante"></attvalue>
+          <attvalue for="Connessioni" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="-1678.6893" y="6598.9395" z="0.0"></viz:position>
+        <viz:color r="240" g="0" b="36"></viz:color>
+      </node>
+      <node id="ZodiakActive_Tracker" label="ZodiakActive">
+        <attvalues>
+          <attvalue for="Nome" value="ZodiakActive"></attvalue>
+          <attvalue for="Tipologia" value="Cookie - allarmante"></attvalue>
+          <attvalue for="Connessioni" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="185.41667"></viz:size>
+        <viz:position x="-869.16943" y="5923.335" z="0.0"></viz:position>
+        <viz:color r="240" g="0" b="36"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="[x+1]_Azienda" target="Ru4_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="4wMarketplace_Azienda" target="4wMarketplace_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Accuen_Azienda" target="AccuenMedia_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Ad.agio_Azienda" target="Ad.agio_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="AddThis_Azienda" target="AddThis_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="AdForm_Azienda" target="Adform_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="AdMotion_Azienda" target="AdMotion_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Adobe_Azienda" target="Demdex_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Adobe_Azienda" target="Omniture_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="AdPilot_Azienda" target="AdPilot_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Akamai_Azienda" target="Akamai_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Akamai_Azienda" target="EdgeSuite_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="AlVolante_Azienda" target="AlVolante_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="AolAdvertising_Azienda" target="AolAdvertising_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="AppNexus_Azienda" target="Adnxs_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ArcusPubblicita'_Azienda" target="ArcusPubblicita'_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="AudienceScience_Azienda" target="AudienceScience_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="BannerConnect_Azienda" target="BannerConnect_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="BanzaiMedia_Azienda" target="BanzaiMedia_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="BlueKai_Azienda" target="BlueKai_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="BrandNetworks_Azienda" target="Optimal_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Brightcove_Azienda" target="Brightcove_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="CacheFly_Azienda" target="CacheFly_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Casa.it_Azienda" target="Casa.it_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="CercaCasa.it_Azienda" target="CercaCasa.it_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Chango_Azienda" target="Chango_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ChartBeat_Azienda" target="ChartBeat_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ClickTale_Azienda" target="ClickTale_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ComingSoon_Azienda" target="ComingSoon_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ComScore_Azienda" target="ComscoreBeacon_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ComScore_Azienda" target="ScorecCardResearch_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Connexity_Azienda" target="Connexity_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="CrazyEgg_Azienda" target="CrazyEgg_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Criteo_Azienda" target="Criteo_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Datalogix_Azienda" target="Datalogix_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Deezer_Azienda" target="Deezer_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Disqus_Azienda" target="Disqus_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Dstillery_Azienda" target="Dstillery_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="eDintorni_Azienda" target="eDintorni_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="EditorialeDomus_Azienda" target="EditorialeDomus_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="eXelateMedia_Azienda" target="eXelateMedia_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Facebook_Azienda" target="Atlas_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Facebook_Azienda" target="Facebook_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Facebook_Azienda" target="FriendFeed_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Facebook_Azienda" target="Instangram_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Forebase_Azienda" target="Forebase_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gazzettino_Azienda" target="Gazzettino_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gigya_Azienda" target="Gigya_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gigya_Azienda" target="Gigya Socialize_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Gigya_Azienda" target="GigyaBeacon_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Google_Azienda" target="AdMeld_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Google_Azienda" target="DoubleClick_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Google_Azienda" target="Google +1_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Google_Azienda" target="GoogleAdsense_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Google_Azienda" target="GoogleAdWordsConversion_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Google_Azienda" target="GoogleAnalytics_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Google_Azienda" target="GoogleFonts_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Google_Azienda" target="GoogleMaps_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Google_Azienda" target="GoogleTagServices_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Google_Azienda" target="InviteMedia_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="GruppoEditorialeL'Espresso_Azienda" target="Kataweb_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="IBMCoreMetrics_Azienda" target="Unica_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="iCrossing_Azienda" target="iCrossing_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="IlMattino_Azienda" target="IlMattino_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="IlMessaggero_Azienda" target="IlMessaggero_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="IlMeteo.it_Azienda" target="IlMeteo.it_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="IlSole24Ore_Azienda" target="IlSole24Ore_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Immobiliare.it_Azienda" target="Immobiliare.it_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="InSella.it_Azienda" target="InSella.it_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="LaPresse_Azienda" target="LaPresse_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Leggo_Azienda" target="Leggo_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="LegolasMedia_Azienda" target="LegolasMedia_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="LinkedIn_Azienda" target="LinkedIn_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Lotame_Azienda" target="Lotame_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="MADS_Azienda" target="MadsOne_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="MarcoPoloShop_Azienda" target="MarcoPoloShop_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Mark&amp;Mini_Azienda" target="Mark&amp;Mini_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="MbrTargeting_Azienda" target="MbrTargeting_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="MediaMath_Azienda" target="MediaMath_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="MediaMind_Azienda" target="Ilissos/Eyeblaster _Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Mediamond_Azienda" target="Mediamond_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="MeteoSolutions_Azienda" target="MeteoSolutions_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Microsoft_Azienda" target="MSN_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="MillennialMedia_Azienda" target="Jumptap_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="MirSrl_Azienda" target="MirSrl_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Mixpanel_Azienda" target="Mixpanel_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Mondadori_Azienda" target="Mondadori_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="NeodataGroup_Azienda" target="Neodata_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Nielsen_Azienda" target="NetratingsSiteCensus_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="OpenX_Azienda" target="OpenX_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Outbrain_Azienda" target="Outbrain_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Parse.ly_Azienda" target="Parse.ly_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="PiemmeOnline_Azienda" target="PiemmeOnline_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Pinterest_Azienda" target="Pinterest_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Plexop_Azienda" target="Plexop_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Populis_Azienda" target="PiwikAnalytics_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Populis_Azienda" target="Populis_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="PubMatic_Azienda" target="PubMatic_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="PulsePoint_Azienda" target="PulsePoint_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="QuantCast_Azienda" target="QuantCast_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Radio101_Azienda" target="Radio101_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Radio105_Azienda" target="Radio105_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="RcsMediaGroup_Azienda" target="RcsMediaGroup_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="RocketFuel_Azienda" target="RocketFuel_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="RubiconProject_Azienda" target="RubiconProject_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="SeCoGes_Azienda" target="SeCoGes_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="SharedCount_Azienda" target="SharedCount_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ShinySrl_Azienda" target="ShinyStat_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Stipple_Azienda" target="Stipple_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Style.it_Azienda" target="Style.it_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="TagMan_Azienda" target="TagMan_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Tapad_Azienda" target="Tapad_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Targus_Azienda" target="AdAdvisor_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Teleborsa.it_Azienda" target="Teleborsa.it_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="TradeDoubler_Azienda" target="TradeDoubler_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Turn_Azienda" target="Turn_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Twitter_Azienda" target="Twitter_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Twitter_Azienda" target="TwitterBadge_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ValueClick_Azienda" target="Dotomi_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Vantaggiando.it_Azienda" target="Vantaggiando.it_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Videology_Azienda" target="LucidMedia_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="VisualRevenue_Azienda" target="VisualRevenue_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="WeBoost_Azienda" target="WeBoost_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Weborama_Azienda" target="Weborama_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Webtrekk_Azienda" target="Webtrekk_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Wimbledon.com_Azienda" target="Wimbledon.com_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="WPP_Azienda" target="24/7Media_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="WPP_Azienda" target="MediaInnovationGroup_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Yahoo_Azienda" target="Yahoo_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="YD_Azienda" target="YieldDivision_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="ZodiakMedia_Azienda" target="ZodiakActive_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Avvenire_Quotidiano" target="24/7Media_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Avvenire_Quotidiano" target="DoubleClick_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Avvenire_Quotidiano" target="GoogleAnalytics_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Avvenire_Quotidiano" target="Ilissos/Eyeblaster _Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Corriere della Sera_Quotidiano" target="24/7Media_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Corriere della Sera_Quotidiano" target="Adnxs_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Corriere della Sera_Quotidiano" target="Atlas_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Corriere della Sera_Quotidiano" target="BannerConnect_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Corriere della Sera_Quotidiano" target="CacheFly_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Corriere della Sera_Quotidiano" target="DoubleClick_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Corriere della Sera_Quotidiano" target="Facebook_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Corriere della Sera_Quotidiano" target="Google +1_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Corriere della Sera_Quotidiano" target="GoogleAnalytics_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Corriere della Sera_Quotidiano" target="Ilissos/Eyeblaster _Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Corriere della Sera_Quotidiano" target="MbrTargeting_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Corriere della Sera_Quotidiano" target="MediaInnovationGroup_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Corriere della Sera_Quotidiano" target="Mixpanel_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Corriere della Sera_Quotidiano" target="Neodata_Tracker" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Corriere della Sera_Quotidiano" target="NetratingsSiteCensus_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Corriere della Sera_Quotidiano" target="Omniture_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Corriere della Sera_Quotidiano" target="Radio105_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Corriere della Sera_Quotidiano" target="RcsMediaGroup_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Corriere della Sera_Quotidiano" target="RubiconProject_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Corriere della Sera_Quotidiano" target="ScorecCardResearch_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Corriere della Sera_Quotidiano" target="Stipple_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Corriere della Sera_Quotidiano" target="Teleborsa.it_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Corriere della Sera_Quotidiano" target="Turn_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Corriere della Sera_Quotidiano" target="VisualRevenue_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Corriere della Sera_Quotidiano" target="Webtrekk_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Corriere dello Sport_Quotidiano" target="Adform_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Corriere dello Sport_Quotidiano" target="Adnxs_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Corriere dello Sport_Quotidiano" target="BannerConnect_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Corriere dello Sport_Quotidiano" target="CrazyEgg_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Corriere dello Sport_Quotidiano" target="DoubleClick_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Corriere dello Sport_Quotidiano" target="Facebook_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Corriere dello Sport_Quotidiano" target="Google +1_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Corriere dello Sport_Quotidiano" target="GoogleAdsense_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Corriere dello Sport_Quotidiano" target="GoogleAnalytics_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Corriere dello Sport_Quotidiano" target="GoogleTagServices_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Corriere dello Sport_Quotidiano" target="Ilissos/Eyeblaster _Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Corriere dello Sport_Quotidiano" target="NetratingsSiteCensus_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Corriere dello Sport_Quotidiano" target="Plexop_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Cosmopolitan_Quotidiano" target="DoubleClick_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Cosmopolitan_Quotidiano" target="Facebook_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Cosmopolitan_Quotidiano" target="GoogleAdsense_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Cosmopolitan_Quotidiano" target="GoogleAnalytics_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Cosmopolitan_Quotidiano" target="iCrossing_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Cosmopolitan_Quotidiano" target="NetratingsSiteCensus_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Cosmopolitan_Quotidiano" target="Webtrekk_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Donna Moderna_Quotidiano" target="Adform_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Donna Moderna_Quotidiano" target="DoubleClick_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Donna Moderna_Quotidiano" target="Facebook_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Donna Moderna_Quotidiano" target="Google +1_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Donna Moderna_Quotidiano" target="GoogleAnalytics_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Donna Moderna_Quotidiano" target="GoogleFonts_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Donna Moderna_Quotidiano" target="Instangram_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Donna Moderna_Quotidiano" target="Mediamond_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Donna Moderna_Quotidiano" target="Mondadori_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Donna Moderna_Quotidiano" target="NetratingsSiteCensus_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Donna Moderna_Quotidiano" target="Outbrain_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Donna Moderna_Quotidiano" target="Pinterest_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Donna Moderna_Quotidiano" target="Radio101_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Donna Moderna_Quotidiano" target="ShinyStat_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Donna Moderna_Quotidiano" target="TradeDoubler_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Donna Moderna_Quotidiano" target="Twitter_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Donna Moderna_Quotidiano" target="Unica_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Donna Moderna_Quotidiano" target="VisualRevenue_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="GQ_Quotidiano" target="AddThis_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="GQ_Quotidiano" target="DoubleClick_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="GQ_Quotidiano" target="Facebook_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="GQ_Quotidiano" target="Google +1_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="GQ_Quotidiano" target="GoogleAdsense_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="GQ_Quotidiano" target="GoogleAnalytics_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="GQ_Quotidiano" target="GoogleTagServices_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="GQ_Quotidiano" target="NetratingsSiteCensus_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="GQ_Quotidiano" target="Style.it_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="GQ_Quotidiano" target="Webtrekk_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Grazia_Quotidiano" target="DoubleClick_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Grazia_Quotidiano" target="Facebook_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Grazia_Quotidiano" target="Google +1_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Grazia_Quotidiano" target="GoogleAnalytics_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Grazia_Quotidiano" target="Mediamond_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Grazia_Quotidiano" target="Mondadori_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Grazia_Quotidiano" target="NetratingsSiteCensus_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Grazia_Quotidiano" target="ShinyStat_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Grazia_Quotidiano" target="Twitter_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Grazia_Quotidiano" target="Unica_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Fatto Quotidiano_Quotidiano" target="24/7Media_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Fatto Quotidiano_Quotidiano" target="Adnxs_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Fatto Quotidiano_Quotidiano" target="AdPilot_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Fatto Quotidiano_Quotidiano" target="Akamai_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Fatto Quotidiano_Quotidiano" target="Atlas_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Fatto Quotidiano_Quotidiano" target="Brightcove_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Fatto Quotidiano_Quotidiano" target="Casa.it_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Fatto Quotidiano_Quotidiano" target="ComscoreBeacon_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Fatto Quotidiano_Quotidiano" target="CrazyEgg_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Fatto Quotidiano_Quotidiano" target="Criteo_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Fatto Quotidiano_Quotidiano" target="Datalogix_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Fatto Quotidiano_Quotidiano" target="Disqus_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Fatto Quotidiano_Quotidiano" target="DoubleClick_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Fatto Quotidiano_Quotidiano" target="EdgeSuite_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Fatto Quotidiano_Quotidiano" target="eDintorni_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Fatto Quotidiano_Quotidiano" target="Facebook_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Fatto Quotidiano_Quotidiano" target="Google +1_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Fatto Quotidiano_Quotidiano" target="GoogleAnalytics_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Fatto Quotidiano_Quotidiano" target="Jumptap_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Fatto Quotidiano_Quotidiano" target="LinkedIn_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Fatto Quotidiano_Quotidiano" target="MediaInnovationGroup_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Fatto Quotidiano_Quotidiano" target="MediaMath_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Fatto Quotidiano_Quotidiano" target="NetratingsSiteCensus_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Fatto Quotidiano_Quotidiano" target="OpenX_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Fatto Quotidiano_Quotidiano" target="Populis_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Fatto Quotidiano_Quotidiano" target="PubMatic_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Fatto Quotidiano_Quotidiano" target="QuantCast_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Fatto Quotidiano_Quotidiano" target="RocketFuel_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Fatto Quotidiano_Quotidiano" target="RubiconProject_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Fatto Quotidiano_Quotidiano" target="ScorecCardResearch_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Fatto Quotidiano_Quotidiano" target="Turn_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Fatto Quotidiano_Quotidiano" target="Twitter_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Fatto Quotidiano_Quotidiano" target="ZodiakActive_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Foglio_Quotidiano" target="AdMeld_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Foglio_Quotidiano" target="Adnxs_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Foglio_Quotidiano" target="Atlas_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Foglio_Quotidiano" target="CercaCasa.it_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Foglio_Quotidiano" target="DoubleClick_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Foglio_Quotidiano" target="Facebook_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Foglio_Quotidiano" target="Forebase_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Foglio_Quotidiano" target="GoogleAnalytics_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Foglio_Quotidiano" target="IlSole24Ore_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Foglio_Quotidiano" target="MediaInnovationGroup_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Foglio_Quotidiano" target="MSN_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Foglio_Quotidiano" target="NetratingsSiteCensus_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Foglio_Quotidiano" target="OpenX_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Foglio_Quotidiano" target="RubiconProject_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Foglio_Quotidiano" target="Twitter_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Foglio_Quotidiano" target="Yahoo_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Foglio_Quotidiano" target="ZodiakActive_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Gazzettino_Quotidiano" target="24/7Media_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Gazzettino_Quotidiano" target="Criteo_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Gazzettino_Quotidiano" target="DoubleClick_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Gazzettino_Quotidiano" target="Facebook_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Gazzettino_Quotidiano" target="GoogleAnalytics_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Gazzettino_Quotidiano" target="IlMessaggero_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Gazzettino_Quotidiano" target="NetratingsSiteCensus_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Gazzettino_Quotidiano" target="PiemmeOnline_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Gazzettino_Quotidiano" target="ShinyStat_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Gazzettino_Quotidiano" target="Twitter_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Giornale_Quotidiano" target="ArcusPubblicita'_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Giornale_Quotidiano" target="DoubleClick_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Giornale_Quotidiano" target="Facebook_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Giornale_Quotidiano" target="Google +1_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Giornale_Quotidiano" target="GoogleAdsense_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Giornale_Quotidiano" target="GoogleAnalytics_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Giornale_Quotidiano" target="Immobiliare.it_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Giornale_Quotidiano" target="Mediamond_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Giornale_Quotidiano" target="NetratingsSiteCensus_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Giornale_Quotidiano" target="OpenX_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Giornale_Quotidiano" target="ShinyStat_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Giornale_Quotidiano" target="Twitter_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Manifesto_Quotidiano" target="Adform_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Manifesto_Quotidiano" target="Facebook_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Manifesto_Quotidiano" target="MarcoPoloShop_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Manifesto_Quotidiano" target="MirSrl_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Manifesto_Quotidiano" target="Omniture_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Manifesto_Quotidiano" target="OpenX_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Manifesto_Quotidiano" target="TradeDoubler_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Manifesto_Quotidiano" target="Twitter_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Manifesto_Quotidiano" target="Weborama_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Mattino_Quotidiano" target="Criteo_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Mattino_Quotidiano" target="DoubleClick_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Mattino_Quotidiano" target="Facebook_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Mattino_Quotidiano" target="Google +1_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Mattino_Quotidiano" target="GoogleAdsense_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Mattino_Quotidiano" target="GoogleAnalytics_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Mattino_Quotidiano" target="IlMessaggero_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Mattino_Quotidiano" target="IlMeteo.it_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Mattino_Quotidiano" target="NetratingsSiteCensus_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Mattino_Quotidiano" target="ShinyStat_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Mattino_Quotidiano" target="Twitter_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Messaggero_Quotidiano" target="24/7Media_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Messaggero_Quotidiano" target="Criteo_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Messaggero_Quotidiano" target="DoubleClick_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Messaggero_Quotidiano" target="Gazzettino_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Messaggero_Quotidiano" target="GoogleAnalytics_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Messaggero_Quotidiano" target="Ilissos/Eyeblaster _Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Messaggero_Quotidiano" target="IlMattino_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Messaggero_Quotidiano" target="IlMeteo.it_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Messaggero_Quotidiano" target="Leggo_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Messaggero_Quotidiano" target="NetratingsSiteCensus_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Messaggero_Quotidiano" target="ShinyStat_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Messaggero_Quotidiano" target="Teleborsa.it_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Messaggero_Quotidiano" target="Twitter_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Secolo XIX_Quotidiano" target="24/7Media_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Secolo XIX_Quotidiano" target="Adform_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Secolo XIX_Quotidiano" target="DoubleClick_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Secolo XIX_Quotidiano" target="Facebook_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Secolo XIX_Quotidiano" target="Gigya Socialize_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Secolo XIX_Quotidiano" target="GigyaBeacon_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Secolo XIX_Quotidiano" target="Google +1_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Secolo XIX_Quotidiano" target="GoogleAnalytics_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Secolo XIX_Quotidiano" target="GoogleFonts_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Secolo XIX_Quotidiano" target="MeteoSolutions_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Secolo XIX_Quotidiano" target="NetratingsSiteCensus_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Secolo XIX_Quotidiano" target="OpenX_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Sole 24 Ore_Quotidiano" target="AccuenMedia_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Sole 24 Ore_Quotidiano" target="AdAdvisor_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Sole 24 Ore_Quotidiano" target="Adnxs_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Sole 24 Ore_Quotidiano" target="BlueKai_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Sole 24 Ore_Quotidiano" target="Chango_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Sole 24 Ore_Quotidiano" target="Connexity_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Sole 24 Ore_Quotidiano" target="DoubleClick_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Sole 24 Ore_Quotidiano" target="Dstillery_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Sole 24 Ore_Quotidiano" target="eXelateMedia_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Sole 24 Ore_Quotidiano" target="GoogleAnalytics_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Sole 24 Ore_Quotidiano" target="IlSole24Ore_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Sole 24 Ore_Quotidiano" target="LegolasMedia_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Sole 24 Ore_Quotidiano" target="Lotame_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Sole 24 Ore_Quotidiano" target="LucidMedia_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Sole 24 Ore_Quotidiano" target="MediaInnovationGroup_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Sole 24 Ore_Quotidiano" target="NetratingsSiteCensus_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Sole 24 Ore_Quotidiano" target="Omniture_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Sole 24 Ore_Quotidiano" target="PulsePoint_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Sole 24 Ore_Quotidiano" target="Tapad_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Sole 24 Ore_Quotidiano" target="Turn_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Sole 24 Ore_Quotidiano" target="Twitter_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Sole 24 Ore_Quotidiano" target="VisualRevenue_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Il Sole 24 Ore_Quotidiano" target="ZodiakActive_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Internazionale_Quotidiano" target="Atlas_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Internazionale_Quotidiano" target="BanzaiMedia_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Internazionale_Quotidiano" target="ChartBeat_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Internazionale_Quotidiano" target="Disqus_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Internazionale_Quotidiano" target="DoubleClick_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Internazionale_Quotidiano" target="Facebook_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Internazionale_Quotidiano" target="GoogleAdsense_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Internazionale_Quotidiano" target="Neodata_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Internazionale_Quotidiano" target="NetratingsSiteCensus_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="L'Unita'_Quotidiano" target="Adnxs_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="L'Unita'_Quotidiano" target="AudienceScience_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="L'Unita'_Quotidiano" target="Facebook_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="L'Unita'_Quotidiano" target="GoogleAnalytics_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="L'Unita'_Quotidiano" target="IlSole24Ore_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="L'Unita'_Quotidiano" target="LaPresse_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="L'Unita'_Quotidiano" target="NetratingsSiteCensus_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="L'Unita'_Quotidiano" target="Twitter_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="L'Unita'_Quotidiano" target="WeBoost_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="L'Unita'_Quotidiano" target="Webtrekk_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="L'Unita'_Quotidiano" target="ZodiakActive_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="La Gazzetta dello Sport_Quotidiano" target="4wMarketplace_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="La Gazzetta dello Sport_Quotidiano" target="Adnxs_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="La Gazzetta dello Sport_Quotidiano" target="Atlas_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="La Gazzetta dello Sport_Quotidiano" target="BannerConnect_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="La Gazzetta dello Sport_Quotidiano" target="ChartBeat_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="La Gazzetta dello Sport_Quotidiano" target="ComingSoon_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="La Gazzetta dello Sport_Quotidiano" target="CrazyEgg_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="La Gazzetta dello Sport_Quotidiano" target="DoubleClick_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="La Gazzetta dello Sport_Quotidiano" target="Facebook_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="La Gazzetta dello Sport_Quotidiano" target="Google +1_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="La Gazzetta dello Sport_Quotidiano" target="Ilissos/Eyeblaster _Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="La Gazzetta dello Sport_Quotidiano" target="Mark&amp;Mini_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="La Gazzetta dello Sport_Quotidiano" target="MediaInnovationGroup_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="La Gazzetta dello Sport_Quotidiano" target="Neodata_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="La Gazzetta dello Sport_Quotidiano" target="NetratingsSiteCensus_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="La Gazzetta dello Sport_Quotidiano" target="Omniture_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="La Gazzetta dello Sport_Quotidiano" target="RcsMediaGroup_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="La Gazzetta dello Sport_Quotidiano" target="RubiconProject_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="La Gazzetta dello Sport_Quotidiano" target="ScorecCardResearch_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="La Gazzetta dello Sport_Quotidiano" target="Turn_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="La Gazzetta dello Sport_Quotidiano" target="TwitterBadge_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="La Gazzetta dello Sport_Quotidiano" target="VisualRevenue_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="La Gazzetta dello Sport_Quotidiano" target="Wimbledon.com_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="La Padania_Quotidiano" target="DoubleClick_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="La Padania_Quotidiano" target="Facebook_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="La Padania_Quotidiano" target="Google +1_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="La Padania_Quotidiano" target="GoogleAdsense_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="La Padania_Quotidiano" target="GoogleAnalytics_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="La Padania_Quotidiano" target="PiwikAnalytics_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="La Padania_Quotidiano" target="SeCoGes_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="La Padania_Quotidiano" target="Twitter_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="La Repubblica_Quotidiano" target="24/7Media_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="La Repubblica_Quotidiano" target="4wMarketplace_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="La Repubblica_Quotidiano" target="Adform_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="La Repubblica_Quotidiano" target="Adnxs_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="La Repubblica_Quotidiano" target="AolAdvertising_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="La Repubblica_Quotidiano" target="Connexity_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="La Repubblica_Quotidiano" target="Criteo_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="La Repubblica_Quotidiano" target="Datalogix_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="La Repubblica_Quotidiano" target="Dotomi_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="La Repubblica_Quotidiano" target="DoubleClick_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="La Repubblica_Quotidiano" target="Facebook_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="La Repubblica_Quotidiano" target="Gigya_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="La Repubblica_Quotidiano" target="GoogleAnalytics_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="La Repubblica_Quotidiano" target="Ilissos/Eyeblaster _Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="La Repubblica_Quotidiano" target="InviteMedia_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="La Repubblica_Quotidiano" target="Jumptap_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="La Repubblica_Quotidiano" target="Kataweb_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="La Repubblica_Quotidiano" target="LucidMedia_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="La Repubblica_Quotidiano" target="NetratingsSiteCensus_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="La Repubblica_Quotidiano" target="Ru4_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="La Repubblica_Quotidiano" target="RubiconProject_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="La Repubblica_Quotidiano" target="TagMan_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="La Repubblica_Quotidiano" target="Tapad_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="La Repubblica_Quotidiano" target="Webtrekk_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="La Repubblica_Quotidiano" target="YieldDivision_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="La Stampa_Quotidiano" target="AdMotion_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="La Stampa_Quotidiano" target="DoubleClick_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="La Stampa_Quotidiano" target="GoogleAdsense_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="La Stampa_Quotidiano" target="GoogleAnalytics_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="La Stampa_Quotidiano" target="NetratingsSiteCensus_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="La Stampa_Quotidiano" target="Webtrekk_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Leggo_Quotidiano" target="Criteo_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Leggo_Quotidiano" target="DoubleClick_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Leggo_Quotidiano" target="Facebook_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Leggo_Quotidiano" target="GoogleAnalytics_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Leggo_Quotidiano" target="GoogleFonts_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Leggo_Quotidiano" target="IlMessaggero_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Leggo_Quotidiano" target="NetratingsSiteCensus_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Leggo_Quotidiano" target="ShinyStat_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Leggo_Quotidiano" target="Twitter_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Libero_Quotidiano" target="Adform_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Libero_Quotidiano" target="Adnxs_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Libero_Quotidiano" target="AlVolante_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Libero_Quotidiano" target="AolAdvertising_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Libero_Quotidiano" target="BlueKai_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Libero_Quotidiano" target="Chango_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Libero_Quotidiano" target="Demdex_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Libero_Quotidiano" target="Dotomi_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Libero_Quotidiano" target="DoubleClick_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Libero_Quotidiano" target="Dstillery_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Libero_Quotidiano" target="Facebook_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Libero_Quotidiano" target="Forebase_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Libero_Quotidiano" target="GoogleAdsense_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Libero_Quotidiano" target="GoogleAnalytics_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Libero_Quotidiano" target="IlSole24Ore_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Libero_Quotidiano" target="InSella.it_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Libero_Quotidiano" target="InviteMedia_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Libero_Quotidiano" target="LegolasMedia_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Libero_Quotidiano" target="MediaInnovationGroup_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Libero_Quotidiano" target="NetratingsSiteCensus_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Libero_Quotidiano" target="Ru4_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Libero_Quotidiano" target="Tapad_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Libero_Quotidiano" target="Turn_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Libero_Quotidiano" target="Webtrekk_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Libero_Quotidiano" target="ZodiakActive_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Linkiesta_Quotidiano" target="24/7Media_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Linkiesta_Quotidiano" target="Adnxs_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Linkiesta_Quotidiano" target="DoubleClick_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Linkiesta_Quotidiano" target="GoogleAnalytics_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Linkiesta_Quotidiano" target="Ilissos/Eyeblaster _Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Linkiesta_Quotidiano" target="MediaInnovationGroup_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Linkiesta_Quotidiano" target="RcsMediaGroup_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Linkiesta_Quotidiano" target="SharedCount_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Quattro Ruote_Quotidiano" target="Ad.agio_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Quattro Ruote_Quotidiano" target="DoubleClick_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Quattro Ruote_Quotidiano" target="EditorialeDomus_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Quattro Ruote_Quotidiano" target="Facebook_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Quattro Ruote_Quotidiano" target="Google +1_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Quattro Ruote_Quotidiano" target="GoogleAdsense_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Quattro Ruote_Quotidiano" target="GoogleAdWordsConversion_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Quattro Ruote_Quotidiano" target="GoogleAnalytics_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Quattro Ruote_Quotidiano" target="GoogleMaps_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Quattro Ruote_Quotidiano" target="LinkedIn_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Quattro Ruote_Quotidiano" target="Neodata_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Quattro Ruote_Quotidiano" target="NetratingsSiteCensus_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Quattro Ruote_Quotidiano" target="Optimal_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Quattro Ruote_Quotidiano" target="Webtrekk_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Unione Sarda_Quotidiano" target="24/7Media_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Unione Sarda_Quotidiano" target="Adform_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Unione Sarda_Quotidiano" target="DoubleClick_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Unione Sarda_Quotidiano" target="GoogleAdsense_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Unione Sarda_Quotidiano" target="GoogleAnalytics_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Unione Sarda_Quotidiano" target="GoogleFonts_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Unione Sarda_Quotidiano" target="MadsOne_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Unione Sarda_Quotidiano" target="ShinyStat_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Unione Sarda_Quotidiano" target="Vantaggiando.it_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Vanity Fair_Quotidiano" target="ClickTale_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Vanity Fair_Quotidiano" target="CrazyEgg_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Vanity Fair_Quotidiano" target="Deezer_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Vanity Fair_Quotidiano" target="DoubleClick_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Vanity Fair_Quotidiano" target="Facebook_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Vanity Fair_Quotidiano" target="Google +1_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Vanity Fair_Quotidiano" target="GoogleAdsense_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Vanity Fair_Quotidiano" target="GoogleAdWordsConversion_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Vanity Fair_Quotidiano" target="GoogleAnalytics_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Vanity Fair_Quotidiano" target="GoogleFonts_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Vanity Fair_Quotidiano" target="NetratingsSiteCensus_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Vanity Fair_Quotidiano" target="Parse.ly_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Vanity Fair_Quotidiano" target="VisualRevenue_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Vanity Fair_Quotidiano" target="Webtrekk_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Vogue_Quotidiano" target="Brightcove_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Vogue_Quotidiano" target="CrazyEgg_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Vogue_Quotidiano" target="DoubleClick_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Vogue_Quotidiano" target="Facebook_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Vogue_Quotidiano" target="Google +1_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Vogue_Quotidiano" target="GoogleAdsense_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Vogue_Quotidiano" target="GoogleAnalytics_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Vogue_Quotidiano" target="GoogleFonts_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Vogue_Quotidiano" target="NetratingsSiteCensus_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Vogue_Quotidiano" target="Twitter_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Vogue_Quotidiano" target="Webtrekk_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Wired_Quotidiano" target="CrazyEgg_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Wired_Quotidiano" target="DoubleClick_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Wired_Quotidiano" target="Facebook_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Wired_Quotidiano" target="FriendFeed_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Wired_Quotidiano" target="GoogleAdsense_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Wired_Quotidiano" target="GoogleAnalytics_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Wired_Quotidiano" target="NetratingsSiteCensus_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Wired_Quotidiano" target="Twitter_Tracker">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="Wired_Quotidiano" target="Webtrekk_Tracker">
+        <attvalues></attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
