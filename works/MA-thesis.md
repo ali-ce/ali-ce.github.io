@@ -1,9 +1,12 @@
 ---
-layout: page
-title: "Social meets civic. Civic social media and open government data: An inquiry on collaborative fact-checking for citizens’ empowerment"
+layout: default
+title: "Social meets civic.<br><span style='font-size:0.6em'>Civic social media and open government data: An inquiry on collaborative fact-checking for citizens’ empowerment</span>"
+language: en
+nav-order: 12
+slug: mathesis
 ---
 
-***15 July, 2013***   
+**15 July, 2013**{:style="text-align:center; font-size:0.8em; display:block"}
 
 ## MA Thesis in Communication and Information Sciences, disserted at the University of Tilburg   
  

@@ -1,12 +1,16 @@
 ---
-layout: page
+layout: default
 title: "A tale of body and soul"
+language: en
+nav-order: 17
+slug: lcohen
+
 ---
-***01 October, 2017***   
+**01 October, 2017**{:style="text-align:center; font-size:0.8em; display:block"} 
 
 *Visual interpretation of Leonard's Cohen 'Avalanche' for the 2017 [Vinyl ArtThink contest](https://arthink-editions.com/it/vinyl-arthink/)*
 
-![alt-text](/img/works/leonard-cohen.svg){: .work-image }
+![alt-text](/img/works/leonard-cohen.svg){: style="width:100%" }
 
 Leonard Cohen's "Avalanche", one of his most mysterious songs, ends with an odd request: "It is your turn, beloved / it is your flesh that I wear". And then silence. Whose turn is it? And the turn to do what, precisely? My illustration, "A tale of body and soul", is an response to Cohen's appeal.
 
@@ -18,4 +22,4 @@ In line with this, my illustration represents the journey of the song itself, as
 
 While my illustration is rich in symbolism and there are reasons behind the choice of each single color and shape, I willingly omitted a legend to explain these choices. I hope that, just like Cohen's masterpiece, my illustration can be both appreciated as it appears and also be analyzed with care in the search for patterns and hidden meanings.
 
- <iframe width="100%" height="350" src="https://www.youtube.com/embed/SQe88ybEIe8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3f0ADuVJhYQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

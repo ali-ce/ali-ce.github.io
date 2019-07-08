@@ -1,8 +1,11 @@
 ---
-layout: page
+layout: default
 title: "Semantic tool to access WikiLeaks' Spy Files"
+language: en
+nav-order: 10
+slug: spyfiles
 ---
-***03 February, 2014***   
+**03 February, 2014**{:style="text-align:center; font-size:0.8em; display:block"}
 
 *Note: Silk has been discontinued as of August 2016 and this project is no longer available*
 

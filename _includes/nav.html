@@ -1,0 +1,26 @@
+<div class="menu"> 
+  <nav>
+	<!-- {% if page.language == "en" %} -->
+<div>
+  <a class="dropbtn {% if page.slug == 'home' %} current {% endif %}" href="/">Home</a>
+  <a class="dropbtn {% if page.slug == 'cv' %} current {% endif %}" href="/pages/cv">CV</a>
+  <a class="dropbtn {% if page.slug == 'events' %} current {% endif %}" href="/pages/events">Events</a>
+  <a class="dropbtn {% if page.slug == 'projects' %} current {% endif %}" href="/pages/projects">Projects</a>
+  <!--  {% elsif page.language == "it" %}
+
+{% endif %} 
+<span class="language-switcher">
+      {% if page.name contains "index" %}
+      <a class="en" href="{{ site.baseurl }}/">EN</a>
+      <a class="it" href="{{ site.baseurl | append: "/it" }}">IT</a>
+      {% else %}
+       <a class="en" href="{{ site.baseurl | append: page.handle }}">EN</a>
+       <a class="it" href="{{ site.baseurl | append: "/it" | append: page.handle }}">IT</a>
+      {% endif %}
+</span>
+-->
+</div>
+</nav>
+<div class="clear"></div>
+</div>
+

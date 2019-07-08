@@ -1,14 +1,42 @@
 {% include head.html %}
 <body>
-<div class="grid-container" id="home">
-  <div class="grid-item" id="grid1">
-  	<div class="title-home">Alice</div>
-  	<span class="sub-home">Data Stories,</span>
-  	{% include menu-side.html %}
+
+<div class="main">
+
+
+
+<section class= "home pitch">
+  <div class="home-text-section">
+  <h1>Hi. I'm Alice</h1>
+  <div class="Iam">
+  <p>I work with <strong>data</strong></p>
+  <b>
+    <div class="innerIam">
+      <span style="color:#f46353 ">stories</span><br /> 
+      <span style="color:#ffbf00 ">scraping</span><br />
+      <span style="color:#3066be">visualization</span><br />
+      <span style="color:#06908f ">research</span><br />
+      <span style="color:#f46353 ">cleaning
+    </div>
+  </b>
   </div>
-  <div class="grid-item" id="grid2">
-  	<div class="title-home"><em>Corona</em></div>
-  	<span class="sub-home">Data Questions</span></div>
+</section>
+
+<div class="clear"></div>
+
+<section class= "home bio-short">
+  <div class="home-text-section">
+      {% include short-bio.html %}
+  <div class="next-section">
+  <p>Learn more<br><span style="font-size: 1.3em;margin-top: 0px;"><i class="fas fa-angle-double-down"></i></span></p>
 </div>
-</body>
+</div>
+</section>
+<div class="clear"></div>
+
+
+<section class= "home fields">
+    {% include more.html %}
+</section>
+<div class="clear"></div>
 </html>

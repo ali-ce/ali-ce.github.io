@@ -1,0 +1,138 @@
+{% include head.html %}
+{% include nav.html %}
+<body> 
+    <main>
+      <h1 style="text-align:center;">{{ page.title}}</h1>
+
+      <div class="content" style="font-weight: 400;">
+      {{content}}</div>
+      <div class ="subsection">
+      
+      <div style="max-width: 60%; margin:0 auto;">
+        <h2>Skills</h2>
+      <h3 id="green" style="font-size:1em; line-height:1em;font-weight: 600">Scraping and data collection</h3>
+      <p style="font-size: 0.9em; font-weight: 200"><b>Comfortable in</b>: assessing best structure for a datasets based on goals, working with <code>IMPORTXML</code>, <code>IMPORTHTML</code> and <code>IMPORTDATA</code> to get data into Google Sheets, geocoding, using Python for XPath-based scraping (libraries: <code>lxml</code>, <code>requests</code>).</p>
+      <h3 id="blue" style="font-size:1em; line-height:1em;font-weight: 600">Data cleaning and processing</h3>
+      <p style="font-size: 0.9em; font-weight: 200"><b>Comfortable in</b>: assessing what data cleaning operations are needed, using Google Sheets advanced functions for wrangling and analysing data, Open Refine and GREL, processing geodata with QGIS, RegEx and Python for data cleaning and analysis (preferred library: <code>Pandas</code>).</p>
+      <h3 id="red" style="font-size:1em; line-height:1em;font-weight: 600">Data visualization and communication</h3>
+      <p style="font-size: 0.9em; font-weight: 200"><b>Comfortable in</b>: using most online tools for data visualization (preferred: Datawrapper, RAW GRAPHS, Flourish, CARTO. Would love to try Data Illustrator), crafting custom static graphics with Inkscape, building network graphs with Gephi, getting creative with Python's Jupyter Notebooks (preferred libraries: <code>Matplotlib</code> and <code>Seaborn</code>, <code>Bokeh</code>, <code>geopandas</code>), learning Javascript for dataviz (<code>Chart.js</code> and <code>Leaflet.js</code>), composing maps with QGIS.</p>
+      <h3 id="yellow" style="font-size:1em; line-height:1em;font-weight: 600">Soft Skills</h3>
+      <p style="font-size: 0.9em; font-weight: 200"><b>I hate the term "soft skills"</b> but I'll use it to sum up a series of unquantifiable skills which I believe are at the core of my work style. I feel greatly in debt towards my Humanities Studies background (Latin, Ancient Greek, Philosophy and History), which equipped me with the skills I am most proud of: I can research, analyze and synthetize complex topics, dissect and build strong arguments, organize my work, establish a collaborative settings in team environments and manage small team projects with care and listening.</p>
+    </div></div>
+
+     <div class ="subsection">
+      <h2><span style="font-weight:700">Current Work</span> Experience</h2>
+
+      <h2 class="title">{{page.work-title8}}</h2>
+          <p class="job-chrono"><b>{{page.date8}}</b> · {{page.location8}}</p>
+          <p class="job-luogo" style="font-size: 0.9em" id="{{page.work-id8}}"><i class="fas fa-map-marker"></i> <a target="_blank" href="{{{page.place8-link}}">{{page.place8}}</a>
+          <span class="job-details"> · {{page.place-description8}}</span></p>
+          <ul class="job-bullets">
+            <li>{{page.bullet8a}}</li>
+            <li>{{page.bullet8b}}</li>
+          </ul>
+
+      <h2 class="title">{{page.work-title7}}</h2>
+          <p class="job-chrono"><b>{{page.date7}}</b> · {{page.location7}}</p>
+          <p class="job-luogo" style="font-size: 0.9em" id="{{page.work-id7}}"><i class="fas fa-map-marker"></i> <a target="_blank" href="{{{page.place-link7}}">{{page.place7}}</a>
+          <span class="job-details"> · {{page.place-description7}}</span></p>
+          <ul class="job-bullets">
+            <li>{{page.bullet7a}}</li>
+            <li>{{page.bullet7b}}</li>
+          </ul>
+
+      <h2 class="title">{{page.work-title6}}</h2><br>
+          
+          <p class="job-luogo" style="font-size: 0.9em; display: inline" id="{{page.work-id6}}"><i class="fas fa-map-marker"></i> <a target="_blank" href="{{{page.place-link6c}}">{{page.place6c}}</a></p> 
+          <p class="job-chrono"><b>{{page.date6c}}</b> · {{page.location6c}}</p>
+          <ul class="job-bullets" style="margin-bottom: 0px;">
+            <li>{{page.bullet6c}}</li>
+          </ul>
+
+          <p class="job-luogo" style="font-size: 0.9em; display: inline" id="{{page.work-id6}}"><i class="fas fa-map-marker"></i> <a target="_blank" href="{{{page.place-link6b}}">{{page.place6b}}</a></p> 
+          <p class="job-chrono"><b>{{page.date6b}}</b> · {{page.location6b}}</p>
+          <ul class="job-bullets" style="margin-bottom: 0px;">
+            <li>{{page.bullet6b}}</li>
+          </ul>
+
+          <p class="job-luogo" style="font-size: 0.9em; display: inline" id="{{page.work-id6}}"><i class="fas fa-map-marker"></i> <a target="_blank" href="{{{page.place-link6a}}">{{page.place6a}}</a></p> 
+          <p class="job-chrono"><b>{{page.date6a}}</b> · {{page.location6a}}</p>
+          <ul class="job-bullets" style="margin-bottom: 0px;">
+            <li>{{page.bullet6a}}</li>
+          </ul>
+
+    </div>
+     <div class ="subsection">
+      <h2><span style="font-weight:700">Past Work</span> Experience</h2>
+      
+      <h2 class="title">{{page.work-title5}}</h2>
+          <p class="job-chrono"><b>{{page.date5}}</b> · {{page.location5}}</p><br>
+          <span class="job-details">{{page.place-description5}}</span></p>
+
+      <h2 class="title">{{page.work-title4}}</h2>
+          <p class="job-chrono"><b>{{page.date4}}</b> · {{page.location4}}</p>
+          <p class="job-luogo" style="font-size: 0.9em" id="{{page.work-id4}}"><i class="fas fa-map-marker"></i> <a target="_blank" href="{{{page.place-link4}}">{{page.place4}}</a>
+          <span class="job-details"> ·{{page.place-description4}}</span></p>
+          <ul class="job-bullets">
+            <li>{{page.bullet4a}}</li>
+            <li>{{page.bullet4b}}</li>
+          </ul>
+
+  <h2 class="title">{{page.work-title3}}</h2>
+          <p class="job-chrono"><b>{{page.date3}}</b> · {{page.location3}}</p>
+          <p class="job-luogo" style="font-size: 0.9em" id="{{page.work-id3}}"><i class="fas fa-map-marker"></i> <a target="_blank" href="{{{page.place-link3}}">{{page.place3}}</a>
+          <span class="job-details"> · {{page.place-description3}}</span></p>
+          <ul class="job-bullets">
+            <li>{{page.bullet3a}}</li>
+            <li>{{page.bullet3b}}</li>
+          </ul>
+
+ <h2 class="title">{{page.work-title2}}</h2>
+          <p class="job-chrono"><b>{{page.date2}}</b> · {{page.location2}}</p>
+          <p class="job-luogo" style="font-size: 0.9em" id="{{page.work-id2}}"><i class="fas fa-map-marker"></i> {{page.place2}}</p>
+          <ul class="job-bullets">
+            <li>{{page.bullet2a}}</li>
+          </ul>
+
+<h2 class="title">{{page.work-title1}}</h2>
+          <p class="job-chrono"><b>{{page.date1}}</b> · {{page.location1}}</p>
+          <p class="job-luogo" style="font-size: 0.9em" id="{{page.work-id1}}"><i class="fas fa-map-marker"></i> <a target="_blank" href="{{{page.place-link1}}">{{page.place1}}</a>
+          <span class="job-details"> · {{page.place-description1}}</span></p>
+          <ul class="job-bullets">
+            <li>{{page.bullet1a}}</li>
+          </ul>
+
+    </div>
+       <div class ="subsection">
+      <h2><span style="font-weight:700">Study</span> Experience</h2>
+      <h2 class="title">{{page.edu-title3}}</h2>
+          <ul class="job-bullets">
+            <li><a a target="_blank" href="{{page.ll-link7}}">{{page.ll-title7}}</a> by {{page.ll-by7}} · <em>{{page.ll-dove7}}</em> · {{page.ll-anno7}}</li>
+            <li><a a target="_blank" href="{{page.ll-link6}}">{{page.ll-title6}}</a> by {{page.ll-by6}} · <em>{{page.ll-dove6}}</em> · {{page.ll-anno6}}</li>
+            <li><a a target="_blank" href="{{page.ll-link5}}">{{page.ll-title5}}</a> by {{page.ll-by5}} · <em>{{page.ll-dove5}}</em> · {{page.ll-anno5}}</li>
+            <li><a a target="_blank" href="{{page.ll-link4}}">{{page.ll-title4}}</a> by {{page.ll-by4}} · <em>{{page.ll-dove4}}</em> · {{page.ll-anno4}}</li>
+            <li><a a target="_blank" href="{{page.ll-link3}}">{{page.ll-title3}}</a> by {{page.ll-by3}} · <em>{{page.ll-dove3}}</em> · {{page.ll-anno3}}</li>
+            <li><a a target="_blank" href="{{page.ll-link2}}">{{page.ll-title2}}</a> by {{page.ll-by2}} · <em>{{page.ll-dove2}}</em> · {{page.ll-anno2}}</li>
+            <li><a a target="_blank" href="{{page.ll-link1}}">{{page.ll-title1}}</a> by {{page.ll-by1}} · <em>{{page.ll-dove1}}</em> · {{page.ll-anno1}}</li>
+          </ul>
+        <h2 class="title">{{page.edu-title2}}</h2> <p class="job-chrono"><b>{{page.edu-date2}}</b>
+          <p class="job-luogo" style="font-size: 0.9em"><i class="fas fa-map-marker"></i> {{page.edu-place2}}</p>
+        <ul class="job-bullets">
+            <li>{{page.edu-bullet2a}}</li>
+            <li>{{page.edu-bullet2b}}</li>
+            <li>{{page.edu-bullet2c}}</li>
+          </ul>
+        <h2 class="title">{{page.edu-title1}}</h2> <p class="job-chrono"><b>{{page.edu-date1}}</b>
+          <p class="job-luogo" style="font-size: 0.9em"><i class="fas fa-map-marker"></i> {{page.edu-place1}}</p>
+        <ul class="job-bullets">
+            <li>{{page.edu-bullet1a}}</li>
+            <li>{{page.edu-bullet1b}}</li>
+            <li>{{page.edu-bullet1c}}</li>
+          </ul>
+    </div>
+</div>
+    </main>
+
+</body>
+{% include footer.html %}
+</html>

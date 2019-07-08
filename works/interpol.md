@@ -1,8 +1,11 @@
 ---
-layout: page
+layout: default
 title: "Most Wanted: Interpol's transparency"
+language: en
+nav-order: 12
+slug: interpol
 ---
-***01 October, 2013***   
+**01 October, 2013**{:style="text-align:center; font-size:0.8em; display:block"}
 
 *INTERPOL’s sketchy mechanism puts activists among world’s “Most Wanted”. A closer look at the agency’s database reveals suspicious Red Notice requests. But even more suspicious is what INTERPOL does not reveal.*
 
@@ -47,7 +50,7 @@ Have things improved in 2012? There’s no way of knowing, as at the moment it i
 
 Luckily, there is an online database of Red Notices that member countries decide to make public. In this database, there are 1,136 Red Notices for 2012: meaning that – for whatever reason – member countries have decided to make public only a little more than one eight of all the Red Notices they requested last year.
 
-<iframe src="https://a.tiles.mapbox.com/v3/89alice.g9oelldh.html?secure=1#2/9.44906182688142/11.25" width="100%" height="500" frameborder="2"></iframe>
+<iframe src="https://a.tiles.mapbox.com/v3/89alice.g9oelldh.html?secure=1#2/9.44906182688142/11.25" width="100%" height="500" frameborder="0"></iframe>
 
 Looking at the top countries for Red Notice emissions, first places obviously go to big nations, like the United States (118 Red Notices issued), Brazil (68) and Argentina (53). But there are also much smaller countries, and a surprise awaits already at position number four: Kyrgyzstan, with 50 Red Notices published in 2012…and a population 56 times smaller than that of the United States!
 

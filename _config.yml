@@ -1,27 +1,16 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-title: Alice Corona
-description: Data Storyteller · Consultant · Trainer · Researcher
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
-
-# Logo settings
-logo: "http://alice-corona.nl/img/logo.png"
-favicon: "/img/logo.png"
-me: "/img/myself.svg"
-
-# Social settings
-github: ali-ce
+name: 
+  en: Alice Corona
+  it: Alice Corona
+description: 
+  en: Data & Stories
+  it: Dati & Storie
+exclude: [README.md]
+permalink: pretty
 twitter: alice_corona
+facebook: alice.corona.16
+github: ali-ce
 medium: alice_corona
-email: 8.a.c.huxl@gmail.com
-
-
-# Build settings
-markdown: kramdown
+email: alice-corona@riseup.net
+url: alice-corona.nl
+logo: /img/logo.png
+thumbnail: /img/logo-sq.png

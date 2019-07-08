@@ -1,8 +1,11 @@
 ---
-layout: page
+layout: default
 title: "The Transparency Reports' Database"
+language: en
+nav-order: 12
+slug: transparencydb
 ---
-***18 April, 2014***
+**18 April, 2014**{:style="text-align:center; font-size:0.8em; display:block"}
    
 Aggregated, normalized, visualizable semantic DB of Transparency Reports from tech companies.
  
@@ -18,4 +21,4 @@ Read more about the project [here](http://blog.silk.co/post/85834231659/introduc
    
    
 
-![alt text](/img/works/transparency-db.png "Transparency Reports Map"){: .work-image }
+![alt text](/img/works/transparency-db.png "Transparency Reports Map"){: style="width:100%" }
