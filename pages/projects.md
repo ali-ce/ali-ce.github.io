@@ -7,7 +7,11 @@ slug: projects
 
 ---
 
-- [Venice Monthly Bullettin on Airbnb listings](http://insideairbnb.com/venice/report_en.html){:target="_blank" class="project-title" id="red"} **(2019)**<br>Monthly auto-generated report with the latest data on Airbnb in Venice. The goal is to provide data-based context to local activists, researchers, policy makers and regular citizens wishing to investigate further the impact of short-term rentals in Venice. In collaboration with [Inside Airbnb](http://insideairbnb.com/).
+- [Let’s get physical: how to represent data through touch](https://datajournalism.com/read/longreads/lets-get-physical-how-to-represent-data-through-touch){:target="_blank" class="project-title" id="yellow"} **(2019)**<br>A tutorial in data physicalisation for journalists, writter for the European Journalism Centre's platform [Datajournalism.com](https://datajournalism.com/).
+{:class="project-body"}
+- [Monthly Bullettin on Tourism in Venice](http://insideairbnb.com/venice/report_en.html){:target="_blank" class="project-title" id="red"} **(2019)**<br>Monthly auto-generated report with the latest data on Venice population vs. beds available in hotels and short-term rentals. Interactive maps and counters. In collaboration with [OCIO](http://ocio-venezia.it/).
+{:class="project-body"}
+- [Venice Bullettin on Airbnb listings](http://insideairbnb.com/venice/report_en.html){:target="_blank" class="project-title" id="red"} **(2019)**<br>Auto-generated report with the latest data on Airbnb in Venice. The goal is to provide data-based context to local activists, researchers, policy makers and regular citizens wishing to investigate further the impact of short-term rentals in Venice. In collaboration with [Inside Airbnb](http://insideairbnb.com/).
 {:class="project-body"}
 - [Elezioni europee 2019 a Venezia, il futuro potrebbe essere meno verde di quello che sembra.](https://medium.com/@alice_corona/elezioni-europee-2019-a-venezia-unondata-di-destra-non-disperiamo-5959811e1101){:target="_blank" class="project-title" id="blue"} **(2019)**<br>Local data journalism piece on EU elections in Venice and the scale of non-voters. *In Italian*.
 {:class="project-body"}

@@ -21,13 +21,20 @@ bullet8b: "Developed <a target='_blank' href='https://batjo.eu/cookbook'>cookboo
 
 work-title7: '(Data) Activist'
 work-id7: 'red'
-date7: 'Jan. 2018 - Present'
-location7: 'Remote from Venice, Italy'
-place7: 'Inside Airbnb'
-place-link7: 'https://www.insideairbnb.com'
-place-description7: 'independent, non-commercial set of tools and data to explore how Airbnb is really being used in cities around the world.'
-bullet7a: "Publishing data viz, research and analysis on the impact of Airbnb, with a special focus on my city Venice (see the <a href='http://insideairbnb.com/venice/report_en.html'><em>Venice Monthly Bulletin</em></a>)."
-bullet7b: "Advocating on the regulation of Airbnb and short-term rentals, to preserve the right to affordable housing for residents."
+
+date7b: 'Jan. 2019 - Present'
+location7b: Venice, Italy
+place7b: 'OCIO'
+place-link7b: "https://www.ocio-venezia.it"
+place-description7b: "independent, volunteer-based grassroots research collective using data to monitor the state housing rights, housing affordability and housing policies in Venice."
+bullet7b: "Web development, research, data scraping, data analysis and viz, articles. See <a href='https://ocio-venezia.it/pagine/monitoraggio/'>here</a> for examples."
+
+date7a: 'Jan. 2018 - Present'
+location7a: 'Remote from Venice, Italy'
+place7a: 'Inside Airbnb'
+place-link7a: 'https://www.insideairbnb.com'
+place-description7a: 'independent, non-commercial set of tools and data to explore how Airbnb is really being used in cities around the world.'
+bullet7a: "Publishing data viz, research and analysis on the impact of Airbnb, with a special focus on my city Venice (see the <a href='http://insideairbnb.com/venice/report_en.html'><em>Venice Monthly Bulletin</em></a>). Advocating on the regulation of Airbnb and short-term rentals, to preserve the right to affordable housing for residents."
 
 
 work-title6: 'Data Literacy Instructor'

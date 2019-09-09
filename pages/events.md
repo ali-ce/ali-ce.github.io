@@ -5,7 +5,28 @@ language: en
 nav-order: 2
 slug: events
 
-n_teach: 15
+n_teach: 17
+
+
+
+teach-title17: 'Data Storytelling'
+teach-title-id17: 'green'
+teach-role17: 'Tutor'
+teach-date17: '22-23 October 2019'
+teach-place17: "Data For Good Data Camp"
+teach-place-link17: 'https://school.dataninja.it/pages/candidati'
+teach-place-geo17: 'Milan (Italy)'
+
+
+teach-title16: 'Data Physicalization'
+teach-title-id16: 'yellow'
+teach-role16: 'Speaker'
+teach-talk-title16: "Batjo, Installazioni fisiche DIY per raccontare i dati"
+teach-talk-title-link16: ''
+teach-date16: '12 October 2019'
+teach-place16: "Internet Festival"
+teach-place-link16: 'https://www.internetfestival.it/leregoledelgioco'
+teach-place-geo16: 'Pisa (Italy)'
 
 
 teach-title15: 'Data Physicalization'
