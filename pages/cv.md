@@ -44,7 +44,7 @@ date6c: 'May 2018 - Present'
 location6c: 'Remote'
 place6c: 'Dataninja School'
 place-link6c: 'https://school.dataninja.it/'
-bullet6c: "Student tutor and instructor for online courses, all of which received very high ratings from the students"
+bullet6c: "Instructor/tutor for both in-person and online courses, all of which received very high ratings from the students."
 
 
 date6b: 'May 2018; May 2019'
