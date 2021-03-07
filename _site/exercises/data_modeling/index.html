@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html> 
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Hello Barberino!</title>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.1/css/bulma.min.css">
+    </head>
+    <body>
+    <section class="hero">
+        <div class="hero-body">
+          <p class="title">
+            Documenti d'Amore by Francesco da Barberino
+          </p>
+          <p class="subtitle">
+            A IIIF experiment
+          </p>
+        </div>
+      </section>
+      <section class="section">
+        <div class="container">
+             <div id="openseadragon" style="width: 800px; height: 600px;"></div>
+               
+   <script src="https://cdn.jsdelivr.net/npm/openseadragon@2.4/build/openseadragon/openseadragon.min.js"></script>
+    <script type="text/javascript">
+        var viewer = OpenSeadragon({
+            id: "openseadragon",
+            prefixUrl: "https://cdn.jsdelivr.net/npm/openseadragon@2.4/build/openseadragon/images/",
+            tileSources:   [{
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0014_fr_0008v-1r.jp2",
+              "height": 2966,
+              "width": 3893,
+              "profile": [ "http://iiif.io/api/image/2/level2.json" ],
+              "protocol": "http://iiif.io/api/image",
+              "tiles": [{
+                "scaleFactors": [ 1, 2, 4, 8, 16, 32 ],
+                "width": 1024
+              }]
+            }]
+        });
+    </script>
+   
+      </section>
+     
+      <section class="section">
+         <nav class="breadcrumb" aria-label="breadcrumbs">   
+          <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="pagina.html">Pagina</a></li>
+            <li><a href="dettaglio.html">Dettaglio</a></li>
+          </ul>
+        </nav>
+      </section>
+      </div> 
+  </body>
+<html>
