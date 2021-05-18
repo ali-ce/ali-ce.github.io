@@ -380,6 +380,10 @@ a.toc:hover {
 /*********************************************
  * NAVIGATION CONTROLS
  *********************************************/
+.reveal .controls {
+ color: #e31e1c !important;
+}
+
 .reveal .controls button {
   color: #e31e1c !important;
 }
