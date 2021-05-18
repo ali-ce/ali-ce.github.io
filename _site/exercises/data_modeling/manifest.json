@@ -1,0 +1,105 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://88865c47-4168-4ff3-999b-3f8b87697512",
+	"@type": "sc:Manifest",
+	"label": "This is an exercise",
+	"metadata": [],
+	"description": [
+		{
+			"@value": "just trying out manifests for uni course",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "alice corona",
+	"sequences": [
+		{
+			"@id": "http://93a5d082-4306-4e21-b20c-b26ee4362001",
+			"@type": "sc:Sequence",
+			"label": "Normal Sequence",
+			"canvases": [
+				{
+					"@id": "http://d97d72a0-898c-4cbd-8bee-c3971567f344",
+					"@type": "sc:Canvas",
+					"label": "Iv-2r",
+					"height": "2926",
+					"width": "3796",
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://f54b5f28-1db8-47cf-a110-cbf483271816",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0007_fr_0001v-2r.jp2/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://digi.vatlib.it/iiifimage/MSS_Barb.lat.4076/Barb.lat.4076_0007_fr_0001v-2r.jp2",
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"native",
+												"color",
+												"gray"
+											],
+											"supports": [
+												"regionByPct",
+												"regionSquare",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"sizeAboveFull",
+												"rotationBy90s",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 2926,
+								"width": 3796
+							},
+							"on": "http://d97d72a0-898c-4cbd-8bee-c3971567f344"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://f33bac81-9602-4987-8113-91c767f6bb0c",
+					"@type": "sc:Canvas",
+					"label": "158v",
+					"height": "3402",
+					"width": "2174",
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://4000b4dd-d56d-4ab7-a73d-db77384e4df8",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8449684q/f326/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8449684q/f326",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 3402,
+								"width": 2174
+							},
+							"on": "http://f33bac81-9602-4987-8113-91c767f6bb0c"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": [],
+	"viewingDirection": "left-to-right"
+}
