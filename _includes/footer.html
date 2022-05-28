@@ -1,24 +1,32 @@
 <div class="footer">
-  <div style="position: relative; top:0, padding-top:60px">
-	<h1 style="text-align: center; padding-top: 2em;"> Get in touch! </h1>
-      <div class="icons">
-      <a class="mail" href="mailto:{{ site.email }}" target="_blank" rel="noopener noreferrer"><i class="fas fa-envelope"></i></a>
-    </div>
-      <div class="icons">
-      <a class="twitter" href="http://twitter.com/{{ site.twitter }}" target="_blank" rel="noopener noreferrer"><i class="fab fa-twitter"></i></a>
-    </div>
-      <div class="icons">
-      <a class="medium" href="https://medium.com/{{ site.medium }}" target="_blank" rel="noopener noreferrer"><i class="fab fa-medium-m"></i></a>
-    </div>
-    <div class="icons">
-      <a class="github" href="http://github.com/{{ site.github }}" target="_blank" rel="noopener noreferrer"><i class="fab fa-github"></i></a>
-    </div>
-    <div class="clear"></div>
-   </div>
-	<p style="padding-left: 2em;padding-right: 2em; padding-bottom: 20px;text-align: left; margin-top:100px; position: static; bottom: 0; margin-top: 100px; margin-bottom: 5px;">Design: <a href="/">Alice Corona</a>, language switcher code based on <a href="http://mrzool.cc/polyglot-jekyll/">Polyglot</a> template by Mattia Tezzele · One-page-scroll.js by · css text animation by · Powered by Jekyll and hosted on <a href="https://www.github.nl">GitHub</a> · Unless otherwise stated, text content is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a></p>
-	<div class="clear"></div>
-	</div>
-</body>
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="footer-inner">
+          <h2 class="footer-title">{{site.title}}</h2>
+         
+            <div class="social">
+  {% for item in site.data.social %}
+    <div class="button" style="background: #2F3C4F"><a href="{{ item.link }}" target="blank" style="color:white; font-size: 1.2em"><i style="color:white" class="{{item.image}}"></i></a></div>
+  {% endfor %}
+    <div class="button" style="border: solid 1px white;background: #2F3C4F"><a href="mailto:{{ site.data.contact.email }}" target="blank">CONTACT</a></div>
+</div>
 
-	
+            
+          <ul>
+            {% assign footermenu = site.data.menus.footer | sort: 'weight'  %}
+            {% for item in footermenu %}
+            <li class="{% if item.url == page.url %}active{% endif %}">
+              <a href="{{ item.url | relative_url }}">{{ item.name }}</a>
+            </li>
+            {% endfor %}
+          </ul>
+       
+          </div>
+           
+      </div>
+    </div>
+  </div>
+<div style="color: white; font-size: 0.5em; padding-top: 15px; text-align: center; font-weight: 100">Alice Corona • Find me in Parma, Italy • P.IVA / VAT N.: IT04482850270 <br> Site design by Alice Corona based on Jekyll Serif, theme by <a style="color: white" href="https://www.zerostatic.io/">https://www.zerostatic.io/</a> • Powered by Jekyll, hosted on GitHub</div>
+</div>
 

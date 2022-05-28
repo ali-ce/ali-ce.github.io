@@ -1,0 +1,461 @@
+[
+  {
+    "title": "Urban Dataviz • Designer Hackathon",
+    "description": "Hackathon Tutor",
+       "attended": "no",
+     "clients": [
+         {
+        name: "AIAP", 
+        link: "https://aiap.it/"},
+        {
+        name: "Urban Digital Center Rovigo", 
+        link: "https://urbandigitalcenterrovigo.it/"}],
+    "year": "2021", "link":"https://urbandigitalcenterrovigo.it/content/attivita/animazione/hackathon/hackathonUrbanDatavizContestRovigo",
+    "video": "https://www.facebook.com/UrbanDigitalCenterRovigo/videos/hackathon-urban-dataviz/410392407244931/?__so__=permalink&__rv__=related_videos",
+    "location": "Rovigo, Italy",
+    "featured": 1,
+    "image": {
+      "url": "images/features/aiap.png",
+      "width": "100%",
+      "height": "100%"
+    }
+  },
+{
+    "title": "Airbnb and the Digital Services Act",
+    "description": "Speaker with the talk 'The Impact of short-term letting. Stories of resistance from Venice, Italy'.",
+           "attended": "no",
+     "clients": [
+        {
+        name: "The Greens/EFA in the European Parliament", 
+        link: "https://www.greens-efa.eu"}],
+    "year": "2020", 
+    "link":"https://www.greens-efa.eu/en/article/event/affordable-housing",
+    "video": "https://www.facebook.com/greensefa/videos/affordable-housing-airbnb-and-the-digital-services-act/3974572392571276/",
+    "slides": "/slides/2020_11_18_greens_efa_eu",
+    "location": "Online",
+    "featured": 1,
+    "image": {
+      "url": "images/features/eugreens.png",
+      "width": "100%",
+      "height": "100%"
+    }
+  },
+
+    {
+    "title": "Panel How Charts Lie. Author’s Chat with Alberto Cairo",
+               "attended": "no",
+    "description": "Panelist, in conversation with Alberto Cairo on <em>How Charts lie</em>.",
+     "clients": [
+        {
+        name: "Ca' Foscari University of Venice", 
+        link: "https://www.unive.it/"}],
+    "year": "2020", 
+    "link":"https://www.unive.it/pag/26795/?tx_news_pi1%5Bnews%5D=9307&cHash=455140abfca30d7616d793ec177f26e5",
+    "video": "https://www.facebook.com/cafoscari/videos/how-charts-lie-authors-chat-with-alberto-cairo/253150979282061/",
+    "location": "Online",
+    "featured": 1,
+    "image": {
+      "url": "images/features/cairo.jpg",
+      "width": "100%",
+      "height": "100%"
+    }},
+    {
+    "title": "Scenari e ruoli alternativi nella data science",
+               "attended": "no",
+    "description": "Speaker, with a talk on working as a data communicator.",
+    "clients": [
+        {
+        name: "RLadies Italia", 
+        link: "https://www.unive.it/"}], 
+    "year": "2020", 
+    "link":"https://rladiesitaly2.webnode.page/",
+    "video": "https://vimeo.com/471438456#t=40s",
+    "slides": "/slides/2020_10_13_rladies",
+    "location": "Online",
+    "featured": 1,
+    "image": {
+      "url": "images/features/rladies.jpg",
+      "width": "100%",
+      "height": "100%"
+    }},
+
+
+{
+    "title": "Urban Dataviz • Contest",
+           "attended": "no",
+    "description": "Contest Judge",
+     "clients": [
+         {
+        name: "AIAP", 
+        link: "https://aiap.it/"},
+        {
+        name: "Urban Digital Center Rovigo", 
+        link: "https://urbandigitalcenterrovigo.it/"}],
+    "year": "2021", 
+    "link":"https://aiap.it/urban-dataviz-contest-rovigo/",
+    "location": "Online",
+    "image": {
+      "url": "images/features/aiap2.jpg",
+      "width": "100%",
+      "height": "100%"
+    }
+  },
+{
+    "title": "Internet Festival",
+           "attended": "no",
+    "description": "Speaker, with the talk on data physicalization 'Batjo, Installazioni fisiche DIY per raccontare i dati'.",
+    "clients": [
+        {
+        name: "Internet Festival", 
+        link: "https://www.internetfestival.it/"}], 
+    "year": "2019", 
+    "link":"https://2019.internetfestival.it/-/giocare-coi-dati",
+    "video": "https://youtu.be/THpvQms1ZJI",
+    "slides": "https://docs.google.com/presentation/d/1swylCKGMIAxVMSh6Mu8OBA1l_aC84wm2xw6yHOJ60lY/edit?usp=sharing",
+    "location": "Pisa, Italy",
+    "image": {
+      "url": "images/features/if.png",
+      "width": "100%",
+      "height": "100%"
+    }},
+    
+{
+    "title": "Chips & Salsa",
+           "attended": "no",
+    "description": "Speaker, with the talk on data physicalization 'Numeri, bit, atomi: quando l'informazione diventa fisica'.",
+    "clients": [
+        {
+        name: "effecinque", 
+        link: "http://www.effecinque.org/"},
+    {
+        name: "formucablu", 
+        link: "http://www.formicablu.it/?lang=en"}], 
+    "year": "2019", 
+    "link":"https://chipsandsalsa.it/programma/",
+    "video": "https://www.youtube.com/watch?v=ct3fk_U_ns4",
+    "slides": "https://docs.google.com/presentation/d/1V5S8C6-K-aN1PjCuw6TRBu3zWun96RjvjldE3LEppLk/edit#slide=id.g57d0a6f305_6_0",
+    "location": "Genova, Italy",
+    "image": {
+      "url": "images/features/chips.png",
+      "width": "100%",
+      "height": "100%"
+    }},
+    
+{
+    "title": "Data Journalism UK 2019",
+           "attended": "no",
+    "description": "Speaker, with the talk on data physicalization 'Imagining a Physical Future for Digital Journalism'.",
+    "clients": [
+        {
+        name: "BBC Academy", 
+        link: "https://www.bbc.co.uk/academy/"},
+    {
+        name: "Birmingham City University", 
+        link: "https://www.bcu.ac.uk/courses/data-journalism-ma-2022-23"}], 
+    "year": "2019", 
+    "link":"https://www.eventbrite.co.uk/e/data-journalism-uk-2019-tickets-58740048065",
+    "slides": "https://docs.google.com/presentation/d/1fjuYDfTtb2TEt-OnP0lmwjmdPH3GmheW1jWFp3fNsMc/edit#slide=id.g5914f20648_0_125",
+    "location": "Manchester, United Kingdom",
+    "image": {
+      "url": "images/features/bbc.png",
+      "width": "100%",
+      "height": "100%"
+    }},
+    
+{
+    "title": "Open Days dell'Innovazione",
+           "attended": "no",
+    "description": "Speaker, with the talk on data physicalization 'Batjo. Installazioni fisiche DIY per raccontare i dati'.",
+    "clients": [
+        {
+        name: "Innnovazione per lo sviluppo", 
+        link: "https://innovazionesviluppo.org/"},
+    {
+        name: "TechSoup", 
+        link: "https://www.techsoup.it/"}], 
+    "year": "2019", 
+    "link":"https://www.opendaysinnovazione.it/",
+    "slides": "https://docs.google.com/presentation/d/1zxew1J6Pl8uAwk7yzkJPhP9EHzgiw4u3XO2TSDznkaE/edit#slide=id.g2219bce40f_1_65",
+    "location": "Torino, Italy",
+    "image": {
+      "url": "images/features/opendays.png",
+      "width": "100%",
+      "height": "100%"
+    }},
+
+    {
+    "title": "Luoghi comuni. Geografie della città tra politica, estetica e studi urbani",
+               "attended": "no",
+    "description": "Speaker, with the talk on data activism for housing rights and Inside Airbnb physicalization 'Dati per capire, dati per agire. Airbnb e la trasformazione delle città'.",
+    "clients": [
+        {
+        name: "Università degli Studi di Roma La Sapienza", 
+        link: "https://innovazionesviluppo.org/"},], 
+    "year": "2018", 
+    "link":"https://web.uniroma1.it/dip_filosofia/sites/default/files/allegati_notizie/Brochure.pdf",
+    "location": "Rome, Italy",
+    "image": {
+      "url": "images/features/luoghicomuni.png",
+      "width": "100%",
+      "height": "100%"
+    }},
+
+    {
+    "title": "EU Transparency Camp",
+               "attended": "no",
+    "description": "Speaker, with the talk on data scraping 'A Data Scraper’s Toolbox'.",
+    "clients": [
+        {
+        name: "Open State Foundation", 
+        link: "https://openstate.eu/en/"},], 
+    "year": "2016", 
+    "link":"https://drive.google.com/file/d/1OKDkcAJfbSuQwjAt-P74uj_p-Ge_Clhe/view",
+    "location": "Amsterdam, The Netherlands",
+        "slides":"https://drive.google.com/file/d/1OKDkcAJfbSuQwjAt-P74uj_p-Ge_Clhe/view",
+    "image": {
+      "url": "images/features/scrapingtoolbox.png",
+      "width": "100%",
+      "height": "100%"
+    }},
+    
+ {
+    "title": "News Impact Summit • Remixing Journalism Formats, Technology and Design",
+            "attended": "no",
+    "description": "Speaker, with the talk 'Visualising Crowdsourced Data: Bellingcat, Silk and the Ukraine'.",
+    "clients": [
+        {
+        name: "European Journalism Centre", 
+        link: "http://www.ejc.net/"},
+  {
+        name: "Google News Lab", 
+        link: "https://newslab.withgoogle.com/"}], 
+    "year": "2015", 
+    "link":"https://newsimpact.io/speakers/coronaa",
+    "location": "Amsterdam, The Netherlands",
+        "slides":"",
+    "image": {
+      "url": "images/features/newsimpact.png",
+      "width": "100%",
+      "height": "100%"
+    }},
+    
+{
+    "title": "Nordic Data Journalism Conference 2015",
+           "attended": "no",
+    "description": "Speaker, with the talk 'Tools: Silk'.",
+    "clients": [
+        {
+        name: "Noda", 
+        link: "http://noda15.no/about.html"},], 
+    "year": "2015", 
+    "link":"http://noda15.no/program.html",
+    "location": "Ålesund, Norway",
+        "slides":"",
+    "image": {
+      "url": "images/features/noda.png",
+      "width": "100%",
+      "height": "100%"
+    }},
+    
+{
+    "title": "Transparency Summit",
+           "attended": "no",
+    "description": "Speaker, with the talk on corporate transparency reports. Private stakeholder's summit.",
+    "clients": [
+        {
+        name: "Center for Democracy and Technology", 
+        link: "https://cdt.org/"},
+    {
+        name: "Global Network Initiative ", 
+        link: "https://www.globalnetworkinitiative.org/"},
+    {
+        name: "Google", 
+        link: "https://google.com/"}], 
+    "year": "2014", 
+    "link":"https://cdt.org/insights/human-rights-and-surveillance-governments-must-comply-with-their-transparency-obligations/",
+    "location": "Berlin, Germany",
+        "slides":"",
+    "image": {
+      "url": "images/features/transparency.png",
+      "width": "100%",
+      "height": "100%"
+    }},
+    
+{
+    "title": "Rethinking Journalism",
+           "attended": "no",
+    "description": "Speaker together with Dr. Stefania Milan with the talk 'Between news and algorithms. How does technology shape journalistic practice (and vice versa)? '.",
+    "clients": [
+        {
+        name: "University of Groningen", 
+        link: "https://research.rug.nl/"}], 
+    "year": "2014", 
+    "link":"https://research.rug.nl/en/activities/rethinking-journalism-ii-2",
+    "location": "Groningen, The Netherlands",
+        "slides":"https://www.academia.edu/9022719/Between_news_and_algorithms_How_does_technology_shape_journalistic_practice_and_viceversa_",
+    "image": {
+      "url": "images/features/newsalgo.png",
+      "width": "100%",
+      "height": "100%"
+    }},
+    
+    {
+    "title": "FEDORA's II Creative Workshop ",
+               "attended": "no",
+    "description": "Expert for the workshop on interdisciplinarity and creativity in science learning.",
+    "clients": [
+        {
+        name: "Fedora Project", 
+        link: "https://www.fedora-project.eu/"}], 
+    "year": "2022", 
+    "link":"https://www.fedora-project.eu/our-aims/",
+    "location": "Bologna, Italy",
+    "image": {
+      "url": "images/features/fedora.png",
+      "width": "100%",
+      "height": "100%"
+    }},
+    
+    {
+    "title": "Mapping Diversity: Odonomastica e patriarcato",
+               "attended": "no",
+    "description": "Talk to promote the project Mapping Diversity by Sheldon Studio and Osservatorio Balcani Caucaso.",
+    "clients": [
+        {
+        name: "Infodata - Il Sole 24 Ore", 
+        link: "https://www.infodata.ilsole24ore.com"}], 
+    "year": "2021", 
+    "link":"https://www.infodata.ilsole24ore.com/2021/07/26/mapping-diversity-perche-la-toponomastica-riguarda-ognuno/",
+    "video": "https://t.co/EEhbfIGKAu",
+    "location": "online",
+    "image": {
+      "url": "images/features/24ore.png",
+      "width": "100%",
+      "height": "100%"
+    }},
+    
+{
+    "title": "Infografica e Infoestetica",
+    "attended": "yes",
+    "clients": [
+        {
+        name: "ISIA Firenze", 
+        link: "https://www.isiadesign.fi.it/"}], 
+    "year": "2018", 
+    "link":"https://www.maind.supsi.ch/master-interaction-design/news/2018-04-23-infografica-e-infoestetica-conference-2018-and-data-driven-innovation-summit",
+    "location": "Florence, Italy",
+    "date": "11 - 12 May 2018"},
+    
+{
+    "title": "Winter University: Using European data for better storytelling",
+    "attended": "yes",
+    "clients": [
+        {
+        name: "EPP", 
+        link: "https://www.epp.eu/"}], 
+    "year": "2016", 
+    "link":"https://www.facebook.com/events/225885017807089/permalink/285542178508039/?_rdr",
+    "location": "Brussels, Belgium",
+    "date": "22 - 23 November 2016"},
+    
+{
+    "title": "Contentious Data: A One-day event on the Politics of Big Data for Activism",
+    "attended": "yes",
+    "clients": [
+        {
+        name: "DATACTIVE", 
+        link: "https://data-activism.net/"}], 
+    "year": "2016", 
+    "link":"https://data-activism.net/2016/07/contentious-data/",
+    "location": "Amsterdam, The Netherlands",
+    "date": "15 September 2016"},
+    
+{
+    "title": "Summer School for Journalists and Media Practitioners",
+    "attended": "yes",
+    "clients": [
+        {
+        name: "European University Institute", 
+        link: "https://www.eui.eu/en/home"}], 
+    "year": "2016", 
+    "link":"https://cmpf.eui.eu/training/summer-school-2016/",
+    "location": "Fiesole, Italy",
+    "date": "11-15 July 2016"},
+    
+
+{
+    "title": "Hacks/Hackers Amsterdam",
+    "attended": "yes",
+    "clients": [
+        {
+        name: "H/H Amsterdam", 
+        link: ""}], 
+    "year": "2014", 
+    "link":"",
+    "location": "Amsterdam, The Netherlands",
+    "date": "different events throughout the years 2014 - 2015"},
+    
+{
+    "title": "Young European Journalist Workshop 'Data and Journalism: Between big stories and dirty surveillance'",
+    "attended": "yes",
+    "clients": [
+        {
+        name: "M100 Sanssouci Colloquium", 
+        link: "https://www.m100potsdam.org/en/"}], 
+    "year": "2014", 
+    "link":"http://archive2011-2016.m100potsdam.eu/en/m100-en/young-european-journalists/2015.html",
+    "location": "Potsdam, Germany",
+    "date": "8 - 13 September 2014"},
+    
+{
+    "title": "London Data Dive",
+    "attended": "yes",
+    "clients": [
+        {
+        name: "DataKind", 
+        link: "https://www.datakind.org"}], 
+    "year": "2014", 
+    "link":"https://www.datakind.org/blog/datakind-uk-what-a-weekend/",
+    "location": "Potsdam, Germany",
+    "date": "6 - 8 June 2014"},
+    
+    
+{
+    "title": "Data Journalism Workshop 'Turning Data into Stories'",
+    "attended": "yes",
+    "clients": [
+        {
+        name: "MediaLab Prado", 
+        link: "https://www.medialab-matadero.es"}], 
+    "year": "2013", 
+    "link":"https://www.medialab-matadero.es/en/news/workshop-data-journalism-transforming-data-stories-call-proposals-0",
+    "location": "Madrid, Spain",
+    "date": "25 - 27 October 2013 + 13 - 15 December 2013"},
+
+{
+    "title": "International Journalism Festival",
+    "attended": "yes",
+    "clients": [
+        {
+        name: "IJF", 
+        link: "https://www.journalismfestival.com"}], 
+    "year": "2013", 
+    "link":"https://www.journalismfestival.com/programme/2013",
+    "location": "Perugia, ItalY",
+    "date": "24 - 28 April 2013"},
+
+{
+    "title": "School of Data Journalism",
+    "attended": "yes",
+    "clients": [
+        {
+        name: "School of Data", 
+        link: "https://schoolofdata.org"}], 
+    "year": "2013", 
+    "link":"https://schoolofdata.org/school-of-data-journalism-international-journalism-festival-perugia/",
+    "location": "Perugia, ItalY",
+    "date": "24 - 27 April 2013"},
+    
+]
+
+

@@ -1,0 +1,17 @@
+[
+    {
+    "name": "Twitter",
+    "link": "https://twitter.com/alice_corona",
+    "image": "fab fa-twitter"
+  },
+            {
+    "name": "Medium",
+    "link": "https://alice-corona.medium.com/",
+    "image": "fab fa-medium-m"
+  },
+    {
+    "name": "Github",
+    "link": "https://github.com/ali-ce",
+    "image": "fab fa-github"
+  },
+]

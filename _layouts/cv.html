@@ -1,144 +1,136 @@
-{% include head.html %}
-{% include nav.html %}
-<body> 
-    <main>
-      <h1 style="text-align:center;">{{ page.title}}</h1>
+---
+layout: default
+bodyClass: "page-basic"
+---
 
-      <div class="content" style="font-weight: 400;">
-      {{content}}</div>
-      <div class ="subsection">
-      
-      <div style="max-width: 60%; margin:0 auto;">
-        <h2>Skills</h2>
-      <h3 id="green" style="font-size:1em; line-height:1em;font-weight: 600">Scraping and data collection</h3>
-      <p style="font-size: 0.9em; font-weight: 200"><b>Comfortable in</b>: assessing best structure for a datasets based on goals, working with <code>IMPORTXML</code>, <code>IMPORTHTML</code> and <code>IMPORTDATA</code> to get data into Google Sheets, geocoding, using Python for XPath-based scraping (libraries: <code>lxml</code>, <code>requests</code>).</p>
-      <h3 id="blue" style="font-size:1em; line-height:1em;font-weight: 600">Data cleaning and processing</h3>
-      <p style="font-size: 0.9em; font-weight: 200"><b>Comfortable in</b>: assessing what data cleaning operations are needed, using Google Sheets advanced functions for wrangling and analysing data, Open Refine and GREL, processing geodata with QGIS, RegEx and Python for data cleaning and analysis (preferred library: <code>Pandas</code>).</p>
-      <h3 id="red" style="font-size:1em; line-height:1em;font-weight: 600">Data visualization and communication</h3>
-      <p style="font-size: 0.9em; font-weight: 200"><b>Comfortable in</b>: using most online tools for data visualization (preferred: Datawrapper, RAW GRAPHS, Flourish, CARTO. Would love to try Data Illustrator), crafting custom static graphics with Inkscape, building network graphs with Gephi, getting creative with Python's Jupyter Notebooks (preferred libraries: <code>Matplotlib</code> and <code>Seaborn</code>, <code>Bokeh</code>, <code>geopandas</code>), learning Javascript for dataviz (<code>Chart.js</code> and <code>Leaflet.js</code>), composing maps with QGIS.</p>
-      <h3 id="yellow" style="font-size:1em; line-height:1em;font-weight: 600">Soft Skills</h3>
-      <p style="font-size: 0.9em; font-weight: 200"><b>I hate the term "soft skills"</b> but I'll use it to sum up a series of unquantifiable skills which I believe are at the core of my work style. I feel greatly in debt towards my Humanities Studies background (Latin, Ancient Greek, Philosophy and History), which equipped me with the skills I am most proud of: I can research, analyze and synthetize complex topics, dissect and build strong arguments, organize my work, establish a collaborative settings in team environments and manage small team projects with care and listening.</p>
-    </div></div>
-
-     <div class ="subsection">
-      <h2><span style="font-weight:700">Current Work</span> Experience</h2>
-
-      <h2 class="title">{{page.work-title8}}</h2>
-          <p class="job-chrono"><b>{{page.date8}}</b> · {{page.location8}}</p>
-          <p class="job-luogo" style="font-size: 0.9em" id="{{page.work-id8}}"><i class="fas fa-map-marker"></i> <a target="_blank" href="{{{page.place8-link}}">{{page.place8}}</a>
-          <span class="job-details"> · {{page.place-description8}}</span></p>
-          <ul class="job-bullets">
-            <li>{{page.bullet8a}}</li>
-            <li>{{page.bullet8b}}</li>
-          </ul>
-
-      <h2 class="title">{{page.work-title7}}</h2><br>
-
-               <p class="job-luogo" style="font-size: 0.9em; display: inline" id="{{page.work-id7}}"><i class="fas fa-map-marker"></i> <a target="_blank" href="{{{page.place-link7b}}">{{page.place7b}}</a></p> 
-          <p class="job-chrono"><b>{{page.date7b}}</b> · {{page.location7b}}</p>
-          <ul class="job-bullets" style="margin-bottom: 0px;">
-            <li>{{page.bullet7b}}</li>
-          </ul>
-
-          <p class="job-luogo" style="font-size: 0.9em; display: inline" id="{{page.work-id7}}"><i class="fas fa-map-marker"></i> <a target="_blank" href="{{{page.place-link7a}}">{{page.place7a}}</a></p> 
-          <p class="job-chrono"><b>{{page.date7a}}</b> · {{page.location7a}}</p>
-          <ul class="job-bullets" style="margin-bottom: 0px;">
-            <li>{{page.bullet7a}}</li>
-          </ul>
-
-      <h2 class="title">{{page.work-title6}}</h2><br>
-          
-          <p class="job-luogo" style="font-size: 0.9em; display: inline" id="{{page.work-id6}}"><i class="fas fa-map-marker"></i> <a target="_blank" href="{{{page.place-link6c}}">{{page.place6c}}</a></p> 
-          <p class="job-chrono"><b>{{page.date6c}}</b> · {{page.location6c}}</p>
-          <ul class="job-bullets" style="margin-bottom: 0px;">
-            <li>{{page.bullet6c}}</li>
-          </ul>
-
-          <p class="job-luogo" style="font-size: 0.9em; display: inline" id="{{page.work-id6}}"><i class="fas fa-map-marker"></i> <a target="_blank" href="{{{page.place-link6b}}">{{page.place6b}}</a></p> 
-          <p class="job-chrono"><b>{{page.date6b}}</b> · {{page.location6b}}</p>
-          <ul class="job-bullets" style="margin-bottom: 0px;">
-            <li>{{page.bullet6b}}</li>
-          </ul>
-
-          <p class="job-luogo" style="font-size: 0.9em; display: inline" id="{{page.work-id6}}"><i class="fas fa-map-marker"></i> <a target="_blank" href="{{{page.place-link6a}}">{{page.place6a}}</a></p> 
-          <p class="job-chrono"><b>{{page.date6a}}</b> · {{page.location6a}}</p>
-          <ul class="job-bullets" style="margin-bottom: 0px;">
-            <li>{{page.bullet6a}}</li>
-          </ul>
-
-    </div>
-
-     <div class ="subsection">
-      <h2><span style="font-weight:700">Past Work</span> Experience</h2>
-      
-      <h2 class="title">{{page.work-title5}}</h2>
-          <p class="job-chrono"><b>{{page.date5}}</b> · {{page.location5}}</p><br>
-          <span class="job-details">{{page.place-description5}}</span></p>
-
-      <h2 class="title">{{page.work-title4}}</h2>
-          <p class="job-chrono"><b>{{page.date4}}</b> · {{page.location4}}</p>
-          <p class="job-luogo" style="font-size: 0.9em" id="{{page.work-id4}}"><i class="fas fa-map-marker"></i> <a target="_blank" href="{{{page.place-link4}}">{{page.place4}}</a>
-          <span class="job-details"> ·{{page.place-description4}}</span></p>
-          <ul class="job-bullets">
-            <li>{{page.bullet4a}}</li>
-            <li>{{page.bullet4b}}</li>
-          </ul>
-
-  <h2 class="title">{{page.work-title3}}</h2>
-          <p class="job-chrono"><b>{{page.date3}}</b> · {{page.location3}}</p>
-          <p class="job-luogo" style="font-size: 0.9em" id="{{page.work-id3}}"><i class="fas fa-map-marker"></i> <a target="_blank" href="{{{page.place-link3}}">{{page.place3}}</a>
-          <span class="job-details"> · {{page.place-description3}}</span></p>
-          <ul class="job-bullets">
-            <li>{{page.bullet3a}}</li>
-            <li>{{page.bullet3b}}</li>
-          </ul>
-
- <h2 class="title">{{page.work-title2}}</h2>
-          <p class="job-chrono"><b>{{page.date2}}</b> · {{page.location2}}</p>
-          <p class="job-luogo" style="font-size: 0.9em" id="{{page.work-id2}}"><i class="fas fa-map-marker"></i> {{page.place2}}</p>
-          <ul class="job-bullets">
-            <li>{{page.bullet2a}}</li>
-          </ul>
-
-<h2 class="title">{{page.work-title1}}</h2>
-          <p class="job-chrono"><b>{{page.date1}}</b> · {{page.location1}}</p>
-          <p class="job-luogo" style="font-size: 0.9em" id="{{page.work-id1}}"><i class="fas fa-map-marker"></i> <a target="_blank" href="{{{page.place-link1}}">{{page.place1}}</a>
-          <span class="job-details"> · {{page.place-description1}}</span></p>
-          <ul class="job-bullets">
-            <li>{{page.bullet1a}}</li>
-          </ul>
-
-    </div>
-       <div class ="subsection">
-      <h2><span style="font-weight:700">Study</span> Experience</h2>
-      <h2 class="title">{{page.edu-title3}}</h2>
-          <ul class="job-bullets">
-            <li><a a target="_blank" href="{{page.ll-link7}}">{{page.ll-title7}}</a> by {{page.ll-by7}} · <em>{{page.ll-dove7}}</em> · {{page.ll-anno7}}</li>
-            <li><a a target="_blank" href="{{page.ll-link6}}">{{page.ll-title6}}</a> by {{page.ll-by6}} · <em>{{page.ll-dove6}}</em> · {{page.ll-anno6}}</li>
-            <li><a a target="_blank" href="{{page.ll-link5}}">{{page.ll-title5}}</a> by {{page.ll-by5}} · <em>{{page.ll-dove5}}</em> · {{page.ll-anno5}}</li>
-            <li><a a target="_blank" href="{{page.ll-link4}}">{{page.ll-title4}}</a> by {{page.ll-by4}} · <em>{{page.ll-dove4}}</em> · {{page.ll-anno4}}</li>
-            <li><a a target="_blank" href="{{page.ll-link3}}">{{page.ll-title3}}</a> by {{page.ll-by3}} · <em>{{page.ll-dove3}}</em> · {{page.ll-anno3}}</li>
-            <li><a a target="_blank" href="{{page.ll-link2}}">{{page.ll-title2}}</a> by {{page.ll-by2}} · <em>{{page.ll-dove2}}</em> · {{page.ll-anno2}}</li>
-            <li><a a target="_blank" href="{{page.ll-link1}}">{{page.ll-title1}}</a> by {{page.ll-by1}} · <em>{{page.ll-dove1}}</em> · {{page.ll-anno1}}</li>
-          </ul>
-        <h2 class="title">{{page.edu-title2}}</h2> <p class="job-chrono"><b>{{page.edu-date2}}</b>
-          <p class="job-luogo" style="font-size: 0.9em"><i class="fas fa-map-marker"></i> {{page.edu-place2}}</p>
-        <ul class="job-bullets">
-            <li>{{page.edu-bullet2a}}</li>
-            <li>{{page.edu-bullet2b}}</li>
-            <li>{{page.edu-bullet2c}}</li>
-          </ul>
-        <h2 class="title">{{page.edu-title1}}</h2> <p class="job-chrono"><b>{{page.edu-date1}}</b>
-          <p class="job-luogo" style="font-size: 0.9em"><i class="fas fa-map-marker"></i> {{page.edu-place1}}</p>
-        <ul class="job-bullets">
-            <li>{{page.edu-bullet1a}}</li>
-            <li>{{page.edu-bullet1b}}</li>
-            <li>{{page.edu-bullet1c}}</li>
-          </ul>
+<div class="container pb-1 pt-6 pt-md-10 pb-md-5">
+    <div class="row justify-content-start">
+        <div class="col-12 col-md-8">
+                <h1 class="title">{{page.title}}</h1>
+                <div class="content" style="font-size: 1.5em">{{content}}
+             <div class="social" >
+  {% for item in site.data.social %}
+    <div class="button" style="background-color: white"><a href="{{ item.link }}" target="blank" style="font-size: 1.2em; "><i class="{{item.image}}" style="color: #2F3C4F;"></i></a></div>
+  {% endfor %}
+    <div class="button" style="background-color: #2F3C4F;"><a href="mailto:{{ site.data.contact.email }}" target="blank">CONTACT</a></div>
+</div>
+            
+            
+            
+            </div>
+        </div>
+        
     </div>
 </div>
-    </main>
+<div class="strip strip-white">
+  <div class="container pt-1 pb-3 pt-md-1 pb-md-5 ">   
+      <div class="full" style="border-top: 0px"><div class="year-cv" ><p><b style="font-weight: 900">Current work</b> experience<br><span style="font-size: 0.5em">2017 - NOW</span></p></div></div><div style="clear: both"></div>
+      
+      <div class="row justify-content-left">
+          <div class="col-12 col-md-6 col-lg-8 mb-2 cv">
 
-</body>
-{% include footer.html %}
-</html>
+              <h2 style="font-family: 'Avenir'; font-weight: 100; border-bottom: 2px solid">Creator of data narratives</h2>
+              <p><i class="fa-solid fa-link"></i>See <a href="/projects">projects</a>.<br><br>
+                  <i class="fa-solid fa-compass"></i>Remote<br>.</p>
+              <p><i class="fa-solid fa-user-group"></i>Fixed collaboration with <a href = "https://sheldon.studio/">Sheldon Studio</a> as their data journalist (since 2020).<br>
+            <i class="fa-solid fa-user-group"></i>Other occasional clients, for example CNN Hong Kong, TalentData, and Carbon Tracker Initiative.</p>
+              
+              
+              <h2 style="font-family: 'Avenir'; font-weight: 100; border-bottom: 2px solid">Data literacy education learning designer and trainer</h2>
+              <p><i class="fa-solid fa-link"></i>See <a href="/teaching">teaching</a>.<br><br><i class="fa-solid fa-compass"></i>Remote<br></p>
+              <p><i class="fa-solid fa-user-group"></i>Fixed collaboration with <a href = "https://school.dataninja.it/">Dataninja School</a> to oversee learning programs, teach, and mentor (since 2018).<br>
+                  <i class="fa-solid fa-user-group"></i>Contract professor at the <a href = "https://unibo.it/">University of Bologna</a> (since 2018).<br>
+                  <i class="fa-solid fa-user-group"></i>Other occasional clients like Data4Change, Ecipa NordEst, and Maghweb.</p>
+              
+              
+               <h2 style="font-family: 'Avenir'; font-weight: 100; border-bottom: 2px solid">Data activist</h2>
+              <p><i class="fa-solid fa-link"></i>See <a href="/projects">projects</a>.<br><br>
+              <i class="fa-solid fa-compass"></i>Venice, Italy<br><br></p>
+               <p><i class="fa-solid fa-user-group"></i>Volunteer "data person" at <a href = "https://ocio-venezia.it/">OCIO Venezia</a>, a local housing rights collective in Venice (since 2018).<br>
+                  <i class="fa-solid fa-user-group"></i>Former collaborator of <a href = "http://insideairbnb.com/">Inside Airbnb</a> (2017-2018).<br><br>
+              <i class="fa-solid fa-briefcase"></i>Publishing of data viz, research and analysis on the impact of short-term rentals and Airbnbs in Venice. <br>
+                   <i class="fa-solid fa-briefcase"></i>Advocating for the regulation of Airbnb and short-term rentals, to preserve the right to affordable housing for residents.</p>
+              
+               
+               <h2 style="font-family: 'Avenir'; font-weight: 100; border-bottom: 2px solid">Project lead & researcher</h2>
+              <p><i class="fa-solid fa-at"></i> <a href="http://www.batjo.eu/">Batjo: Bits, Atoms and Journalism</a><br><i class="fa-solid fa-link"></i>See <a href="/projects">projects</a> and <a href="/writing">writing</a>.<br><br>
+              <i class="fa-solid fa-compass"></i>Remote<br></p>
+               <p><i class="fa-solid fa-user-group"></i>Funded by the <a href="https://newsinitiative.withgoogle.com/dnifund/dni-projects/batjo-bits-atoms-and-journalism-round-4/">Google DNI Fund in 2017</a>.<br><br>
+               <i class="fa-solid fa-briefcase"></i>Developed a <a href="https://batjo.eu/cookbook">cookbook</a> with three reproducible open-source data physicalization projects. Files available on GitHub: <a href="https://batjo.eu/cookbook/data-walk/">The Data Walk</a>, <a href="https://batjo.eu/cookbook/map/">The 3D Data Map</a>, <a href="https://batjo.eu/cookbook/light-bars/">The Light Data Bars</a>.</p>
+        
+      </div>
+          </div>
+      
+          
+      
+      
+      <div class="full" style="border-top: 0px"><div class="year-cv" ><p><b style="font-weight: 900">Past work</b> experience<br><span style="font-size: 0.5em">2013 - 2016</span></p></div></div><div style="clear: both"></div>
+      
+      <div class="row justify-content-left">
+          <div class="col-12 col-md-6 col-lg-8 mb-2 cv">
+
+              <h2 style="font-family: 'Avenir'; font-weight: 100; border-bottom: 2px solid">Lead Data Journalist and Trainer</h2>
+              <p><i class="fa-solid fa-at"></i><a href="http://www.silk.co/">Silk</a><br><i class="fa-solid fa-link"></i>See <a href="/projects">projects</a> and <a href="/teaching">teaching</a>.<br><br><i class="fa-solid fa-clock"></i>2014 - 2016<br>     
+              <i class="fa-solid fa-compass"></i>Amsterdam, The Netherlands<br>     </p>
+               <p><i class="fa-solid fa-briefcase"></i>Worked on data and data journalism projects daily  for in-house and clients' projects.<br>
+              <i class="fa-solid fa-briefcase"></i>Trainer at local and international events.</p>
+              
+              
+             <h2 style="font-family: 'Avenir'; font-weight: 100; border-bottom: 2px solid">Research Assistant</h2>
+              <p>            
+              <i class="fa-solid fa-at"></i>DataJLab · Virtual lab at Tilburg University on data journalism trends and techniques<br><i class="fa-solid fa-link"></i>See <a href="/projects">projects</a>.<br><br>
+              <i class="fa-solid fa-clock"></i>2013<br> 
+                  <i class="fa-solid fa-compass"></i>Tilburg, The Netherlands<br>
+              </p>
+               <p><i class="fa-solid fa-briefcase"></i>Member of the 'Climate Finance Lab' team, investigating financial data stories behind climate policies.<br>
+              <i class="fa-solid fa-briefcase"></i>Presented, together with Dr. Stefania Milan, research on news & algorithms at the 'Rethinking Journalism' conference</p>
+              
+              <h2 style="font-family: 'Avenir'; font-weight: 100; border-bottom: 2px solid">Journalist</h2>
+              <p>            
+              <i class="fa-solid fa-at"></i>Freelance<br><i class="fa-solid fa-link"></i>See <a href="/projects">projects</a>.<br><br>
+              <i class="fa-solid fa-clock"></i>2013<br>
+              <i class="fa-solid fa-compass"></i>Tilburg, The Netherlands<br>
+               <p><i class="fa-solid fa-briefcase"></i>Published data journalism pieces on Datajournalism.it and Wired Italy.</p>
+              
+              <h2 style="font-family: 'Avenir'; font-weight: 100; border-bottom: 2px solid">Journalist Trainee</h2>
+              <p>             
+              <i class="fa-solid fa-at"></i>NRC.next<br><i class="fa-solid fa-link"></i>See <a href="/projects">projects</a>.<br><br>
+              <i class="fa-solid fa-clock"></i>2013<br>
+              <i class="fa-solid fa-compass"></i>Amsterdam, The Netherlands<br></p>
+               <p><i class="fa-solid fa-briefcase"></i>Newsroom training + authored a data-driven investigation into Interpol.</p>
+        
+      </div>
+          </div>      
+      
+     <div class="full" style="border-top: 0px"><div class="year-cv" ><p><b style="font-weight: 900">Study</b> experience<br><span style="font-size: 0.5em">2008 - 2013</span></p></div></div><div style="clear: both"></div>
+      
+      <div class="row justify-content-left">
+          <div class="col-12 col-md-6 col-lg-8 mb-2 cv">
+              
+              
+             <h2 style="font-family: 'Avenir'; font-weight: 100; border-bottom: 2px solid">Communication and Information Sciences, Data Journalism track (MA)</h2>
+              <p><i class="fa-solid fa-at"></i><a href="https://www.tilburguniversity.edu/education/masters-programmes/communication-and-information-sciences">Tilburg University</a><br><i class="fa-solid fa-link"></i>See <a href="/projects">projects</a> and <a href="/writing">writing</a>.<br><br><i class="fa-solid fa-clock"></i>2012 - 2013<br>     
+              <i class="fa-solid fa-compass"></i>Tilburg, The Netherlands<br>     </p>
+               <p>
+              <i class="fa-solid fa-briefcase"></i>Courses on Statistics, Journalism, and Python.<br>
+              <i class="fa-solid fa-graduation-cap"></i>Graduated with distinction.<br>
+                   <i class="fa-solid fa-graduation-cap"></i>Thesis 'Social meets civic: Civics social media and open government data: An inquiry on collaborative fact-checking for citizens’ empowerment' (<a href="http://www.academia.edu/4203710/Social_meets_civic._Civic_social_media_and_open_government_data_An_inquiry_on_collaborative_fact-checking_for_citizens_empowerment">available here</a>).<br>
+              </p>
+              
+               <h2 style="font-family: 'Avenir'; font-weight: 100; border-bottom: 2px solid">Storia, Tradizione e Innovazione - Curriculum Storia Contemporanea (BA, in History)</h2>
+              <p><i class="fa-solid fa-at"></i><a href="https://www.unisi.it">Università degli Studi di Siena</a><br><i class="fa-solid fa-link"></i>See <a href="/writing">writing</a>.<br><br><i class="fa-solid fa-clock"></i>2008 - 2012<br>     
+              <i class="fa-solid fa-compass"></i>Siena, Italy<br>     </p>
+               <p>
+              <i class="fa-solid fa-briefcase"></i>Specialized in the period from the 1789 French Revolution to the current days. <br>
+                   <i class="fa-solid fa-briefcase"></i>Elective courses in Philosophy, Human Rights, Economic History, and Globalization<br>
+              <i class="fa-solid fa-graduation-cap"></i>Graduated cum laude.<br>
+                   <i class="fa-solid fa-graduation-cap"></i>Thesis analyzing media discourse in Italian newspapers during the 2011 war in Libya and NATO’s intervention (<a href="http://www.academia.edu/3711682/La_guerra_in_Libia_del_2011_e_la_stampa_italiana_rappresentazione_mediatica_di_un_teatro_bellico">available here</a>).<br>
+              </p>
+              
+          
+        
+      </div>
+          </div>         
+      
+     </div>
+</div>

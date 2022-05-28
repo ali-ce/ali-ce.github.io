@@ -1,20 +1,6 @@
-<div style="text-align: center; padding: 10px; margin-bottom: 0;background-color: #f1f1f1;">
-      <div class="icons">
-      <a class="mail" href="mailto:{{ site.email }}" target="_blank" rel="noopener noreferrer"><i class="fas fa-envelope"></i></a>
-    </div>
-      <div class="icons">
-      <a class="twitter" href="http://twitter.com/{{ site.twitter }}" target="_blank" rel="noopener noreferrer"><i class="fab fa-twitter"></i></a>
-    </div>
-      <div class="icons">
-      <a class="medium" href="https://medium.com/{{ site.medium }}" target="_blank" rel="noopener noreferrer"><i class="fab fa-medium-m"></i></a>
-    </div>
-    <div class="icons">
-      <a class="github" href="http://github.com/{{ site.github }}" target="_blank" rel="noopener noreferrer"><i class="fab fa-github"></i></a>
-    </div>
-    <div class="icons">
-      <a class="mail" href="http://vimeo.com/{{ site.vimeo }}" target="_blank" rel="noopener noreferrer"><i class="fab fa-vimeo"></i></a>
-    </div>
-
-    <div class="icons">
-      <a class="twitter" href="http://facebook.com/{{ site.facebook }}" target="_blank" rel="noopener noreferrer"><i class="fab fa-facebook"></i></a>
-    </div>
+<div class="social">
+  {% for item in site.data.social %}
+    <div class="button" style="background-color: white;"><a href="{{ item.link }}" target="blank" style="font-size: 1.2em"><i class="{{item.image}}"></i></a></div>
+  {% endfor %}
+    <div class="button"><a href="mailto:{{ site.data.contact.email }}" target="blank">CONTACT</a></div>
+</div>

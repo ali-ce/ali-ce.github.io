@@ -1,187 +1,805 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
-    <title>Home | Alice Corona</title>
-    <meta name="author" content="alice">
-    <meta name="description" content="Data & Stories">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
 
+<head>
+  <meta charset="utf-8">
+  <title>Alice Corona</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="icon" type="image/png" href="/images/favicon-32x32.svg">
+  <!-- Google Fonts CDN -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&display=swap" rel="stylesheet">
+  <!-- Self host font -->
+  <!-- <link rel="preload" href="/assets/fonts/playfair-display.woff2" as="font" type="font/woff2" crossorigin> -->
+  <link href="/assets/css/style.css" rel="stylesheet">
+   <script src="https://kit.fontawesome.com/27731df402.js" crossorigin="anonymous"></script>
+  
+  <meta name="description" content="My portfolio" />
+  <meta property="og:title" content="Alice Corona"/>
+  <meta property="og:type" content="website"/>
+  <meta property="og:url" content=""/>
+  
+  <meta property="og:description" content="My portfolio"/>
+  <meta name="twitter:card" content="summary"/>
+  <meta name="twitter:site" content=""/>
+  <meta name="twitter:creator" content=""/>
 
-<!-- Twitter Cards -->
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:site" content="@alice_corona">
-    <meta name="twitter:creator" content="@alice_corona">
-    <meta name="twitter:title" content=Alice Corona>
-     <meta name="twitter:description" content="Data & Stories">
-    <meta name="twitter:image" content="https://www.batjo.eu/img/twittercard.png">
+</head>
 
-<!-- Open Graph -->
-    <meta property="og:locale" content="">
-    <meta property="og:type" content="article">
-    <meta property="og:title" content="Home">
+<body class='page page-home'>
+  <div id="main-menu-mobile" class="main-menu-mobile">
+  
+  <ul>
     
-    <meta property="og:url" content="https://www.batjo.eu">
-    <meta property="og:site_name" content="">
-    <meta property="og:image" content="https://www.batjo.eu/img/opengraph.png">
-
-<!-- Stylesheets -->
-    <link rel="stylesheet" href="/style/main.css">
-    <link href="https://fonts.googleapis.com/css?family=Roboto:300,900" rel="stylesheet"> 
-    <link href="https://fonts.googleapis.com/css?family=Prata" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Dekko&display=swap" rel="stylesheet"> 
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.10/css/all.css" integrity="sha384-+d0P83n9kaQMCwj8F4RJB66tzIwOKmrdb46+porD/OvrJ+37WqIM7UoBtwHO6Nlg" crossorigin="anonymous">
+    <li class="">
+      <a href="/projects/">Projects</a>
+    </li>
     
-    <style> html {scroll-behavior: smooth;}</style>
-    <link rel="stylesheet" href="/style/home.css">
+    <li class="">
+      <a href="/teaching/">Teaching</a>
+    </li>
     
-   
+    <li class="">
+      <a href="/events/">Events</a>
+    </li>
+    
+    <li class="">
+      <a href="/writing/">Writing</a>
+    </li>
+    
+    <li class="">
+      <a href="/cv/">CV</a>
+    </li>
+    
+  </ul>
+</div>
 
-<!-- Prism code highlight -->
-
-
-<!--- Scroll homepage -->
-
-
-<script type="text/javascript" src="http://code.jquery.com/jquery-1.9.1.js"></script>
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js"></script>
-<script type="text/javascript" src="/js/jquery.onepage-scroll.js"></script>
-
-<link href='/style/onepage-scroll.css' rel='stylesheet' type='text/css'>
-<script>
-      $(document).ready(function(){
-      $(".main").onepage_scroll({
-        sectionContainer: "section",
-        loop: false,
-        updateURL: false,
-        responsiveFallback: 600,
-
-      });
-        });
-        
-    </script>
-
-    <script>
-$(function() {
-  $('a[href*=#]').on('click', function(e) {
-    e.preventDefault();
-    $('html, body').animate({ scrollTop: $($(this).attr('href')).offset().top}, 500, 'linear');
-  });
-});
-        
-    </script>
-
- </head>
-
-
-<body>
-
-<div class="main">
-
-
-
-<section class= "home pitch">
-  <div class="home-text-section">
-  <h1>Hi. I'm Alice</h1>
-  <div class="Iam">
-  <p>I work with <strong>data</strong></p>
-  <b>
-    <div class="innerIam">
-      <span style="color:steelblue ">stories</span><br /> 
-      <span style="color:teal ">scraping</span><br />
-      <span style="color:purple">visualization</span><br />
-      <span style="color:crimson ">research</span><br />
-      <span style="color:orangered ">cleaning</span><br />
-      <span style="color:orange ">literacy</span><br />
+  <div id="wrapper" class="wrapper">
+    <div class='header'>
+  <div class="container">
+    <div class="logo">
+      <a href="/"><i class="fa-solid fa-house"></i></a>
     </div>
-  </b>
+    <div class="logo-mobile">
+      <a href="/"><i class="fa-solid fa-house"></i></a>
+    </div>
+    <div id="main-menu" class="main-menu">
+  
+  <ul>
+    
+    <li class="">
+      <a href="/projects/">Projects</a>
+    </li>
+    
+    <li class="">
+      <a href="/teaching/">Teaching</a>
+    </li>
+    
+    <li class="">
+      <a href="/events/">Events</a>
+    </li>
+    
+    <li class="">
+      <a href="/writing/">Writing</a>
+    </li>
+    
+    <li class="">
+      <a href="/cv/">CV</a>
+    </li>
+    
+  </ul>
+</div>
+
+    <button id="toggle-main-menu-mobile" class="hamburger hamburger--slider" type="button" aria-label="Mobile Menu">
+  <span class="hamburger-box">
+    <span class="hamburger-inner"></span>
+  </span>
+</button>
   </div>
-</section>
-
-<div class="clear"></div>
-
-<section class= "home bio-short">
-  <div class="home-text-section">
-       <p> After a degree in History (University of Siena, Italy) and a MA in Communication and Information Sciences (Tilburg University, The Netherlands), I have been practicing my craft working in 
- 	<span style="font-weight: bold; color: #3066be">data journalism</span>
- 	<a class="reference" id="blue"><a class="reference" id="blue"><span id="blue">
- 	 	DATA <b style="font-weight: 900">JOURNALISM</b><br>I have been lead data journalism at the (now acquired and ceased) startup Silk between 2014 - 2016 and am now freelancing. I am comfortable working on all the phases of crafting a data story by myself, from data collection to dataviz, although I &hearts; much more to work in a team.<br>I am available for freelance gigs in this field.</span><i class="fas fa-comment reference" id="blue"></i></a> 
-
- 	 and 
- 	 <span style="font-weight: bold; color: #06908f">data literacy trainings</span>
- 	 <a class="reference" id="green"><span id="green">
- 	 	DATA <b style="font-weight: 900">LITERACY</b><br>I work as a <b>trainer</b> in data skills such as: data scraping, data verification, data cleaning, data analysis for storytellers, data visualization, where to find data, introduction to data. I teach University classes, in-person workshops and online MOOCs.<br><br> Recent clients include <b style="font-weight: 900">Bologna Business School at the University of Bologna</b> - where I've thought the Data Storytelling module in 2018 and 2019 - and <b style="font-weight: 900">Dataninja School</b> - where I have a part-time position as tutor and (MOOC) course creator.</span><i class="fas fa-comment reference" id="green"></i></a> 
-
- 	since 2014: first as a freelancer, then as lead data journalist at the Amsterdam-based startup <a href = "https://www.silk.co">Silk</a> until 2016, then again as a freelancer. 
-    <br><br>
-    I am now a freelancer offering consultancy and teaching in the field of data communication, visualization and processing. <br>From 2018 I am <span style="font-weight: bold">project leader</span> at <a href = "https://www.batjo.eu">Batjo</a>, a <a href="https://newsinitiative.withgoogle.com/dnifund/dni-projects/batjo-bits-atoms-and-journalism-round-4/">Google DNI-funded</a> project promoting the use of 
-    <span style="font-weight: bold; color: #ffbf00">data physicalization</span>
-     <a class="reference" id="yellow"><span id="yellow">
- 	 	DATA <b style="font-weight: 900">PHYSICALIZATION</b><br>I am project leader at <b>Batjo</b>, a Google DNI-funded project. <b style="font-weight: 900">Batjo</b> helps journalists learn digital fabrication skills to create physical data driven news installations for their audiences.<br>In 2018, we have designed and developed 3 data physicalizations and have launched a <b>cookbook</b> for all those wishing to learn to replicate them. We offer consultancy and services related to data physicalization and digital fabrication.</span><i class="fas fa-comment reference" id="yellow"></i></a> 
-
- among journalists. <br><br>I love to work with 
-
- <span style="font-weight: bold; color: #f46353">activists & no-profits</span> <a class="reference" id="red"><span id="red">
- 	 	DATA <b style="font-weight: 900">ACTIVISM</b><br>I collaborate with local activists by offering research, tech and data support.<br>I'm involved in <b style="font-weight: 900">OCIO</b>, a Venice-based civic lab monitoring data and elaborating policy proposals on the topics of housing affordability and residents' right to the city.<br>I also collaborate with <b style="font-weight: 900">Inside Airbnb</b> to study the situation of Airbnb and advocate regulation through data analysis and data viz.</span><i class="fas fa-comment reference" id="red"></i></a> 
-. And to solve problems with Python.</p>
-
-
-
-
-  <div class="next-section">
-  <p>Learn more<br><span style="font-size: 1.3em;margin-top: 0px;"><i class="fas fa-angle-double-down"></i></span></p>
 </div>
+
+    <div class="intro">
+  <div class="container">
+    <div class="row justify-content-start">
+      <div class="col-12 col-md-7 col-lg-6 order-2 order-md-1">
+        <h1 id="alice-corona">Alice Corona</h1>
+<h2 id="creator-of-data-narratives--data-literacy-education-learning-designer-and-trainer---data-activist"><span style="letter-spacing:0.4px"><span class="highlight">Creator</span> of data narratives • Data literacy education <span class="highlight">learning designer</span> and <span class="highlight">trainer</span> •  Data <span class="highlight">activist</span></span></h2>
+
+<p>I am a freelance consultant specialized in data communication and visualization — and in teaching these topics.</p>
+
+          <div class="social">
+  
+    <div class="button" style="background-color: white;"><a href="https://twitter.com/alice_corona" target="blank" style="font-size: 1.2em"><i class="fab fa-twitter"></i></a></div>
+  
+    <div class="button" style="background-color: white;"><a href="https://alice-corona.medium.com/" target="blank" style="font-size: 1.2em"><i class="fab fa-medium-m"></i></a></div>
+  
+    <div class="button" style="background-color: white;"><a href="https://github.com/ali-ce" target="blank" style="font-size: 1.2em"><i class="fab fa-github"></i></a></div>
+  
+    <div class="button"><a href="mailto:alice-corona@riseup.net" target="blank">CONTACT</a></div>
 </div>
-</section>
-<div class="clear"></div>
+
+        
+
+      </div>
+      
+      <div class="col-12 col-md-2 col-lg-6 order-1 order-md-2 position-relative">
+        <img alt="Alice Corona" class="intro-image intro-image-absolute intro-image-hide-mobile" src="images/myself.png" />
+      </div>
+      
+    </div>
+  </div>
+</div>
+<!--
+<div class="strip">
+  <div class="container pt-6 pb-6 pb-md-10">
+    <div class="row justify-content-start">
+      
+    </div>
+    <div class="row justify-content-center">
+      <div class="col-auto">
+        <a class="button button-primary" href="/services">View All Services</a>
+      </div>
+    </div>
+  </div>
+</div>
+-->
+
+<div class="strip strip-white strip-projects" style="background: #2F3C4F0d">
+  <div class="container pt-6 pb-3 pt-md-10 pb-md-5 ">
+      <div class="headline-feature"><h1>Featured Projects</h1> <p><a href="/projects">See more projects <i class="fa-solid fa-circle-arrow-right"></i> </a></p><div style="clear: both"></div></div>
+      <div class="about-feature"><p>I work with design studios, newsrooms, startups, and activists to provide support on all-things data: from setting up data collection strategies to investigating data for insights and crafting the narrative & visualizations.</p></div>
+      
+      <div class="row justify-content-center">
+      
+          
+      <div class="col-12 col-md-6 col-lg-3 mb-2">
+        <div class="feature">
+            <div class="feature-image"><a href="https://opendata.matera-basilicata2019.it/en/"><img alt="Matera ECC 2019 Open Data Portal logo" src="/images/features/matera.png" width="100%" height="100%" /></a></div>
+            
+            
+                <div class="feature-title"><h2 >Matera ECC 2019 Open Data Portal</h2></div>
+            <div class="feature-info">
+            <div class="feature-content">Data storytelling, data analysis, and dataviz support.</div>
+            <div class="feature-details">
+            <div class="feature-year"><i class="fa-solid fa-clock"></i>  2020</div>
+             <div class="feature-client"><i class="fa-solid fa-user-group"></i> <a href="https://sheldon.studio/">Sheldon Studio</a></div><div class="feature-client"><i class="fa-solid fa-user-group"></i> <a href="https://www.matera-basilicata2019.it/en/">Fondazione Matera Basilicata 2019</a></div>
+            <div class="feature-link"><i class="fa-solid fa-link"></i>  <a href="https://opendata.matera-basilicata2019.it/en/">Go to project</a></div>
+          
+            </div></div>
+          </div>
+          </div>
+          
+      
+          
+      <div class="col-12 col-md-6 col-lg-3 mb-2">
+        <div class="feature">
+            <div class="feature-image"><a href="http://www.batjo.eu"><img alt="Batjo: Bits, Atoms and Journalism logo" src="/images/features/batjo.png" width="100%" height="100%" /></a></div>
+            
+            
+                <div class="feature-title"><h2 >Batjo: Bits, Atoms and Journalism</h2></div>
+            <div class="feature-info">
+            <div class="feature-content">Project leader, research & development, data journalism.</div>
+            <div class="feature-details">
+            <div class="feature-year"><i class="fa-solid fa-clock"></i>  2018</div>
+             <div class="feature-client"><i class="fa-solid fa-user-group"></i> <a href="https://newsinitiative.withgoogle.com/dnifund/dni-projects/batjo-bits-atoms-and-journalism-round-4/">Google DNI-funded project</a></div>
+            <div class="feature-link"><i class="fa-solid fa-link"></i>  <a href="http://www.batjo.eu">Go to project</a></div>
+          
+            </div></div>
+          </div>
+          </div>
+          
+      
+          
+      
+          
+      <div class="col-12 col-md-6 col-lg-3 mb-2">
+        <div class="feature">
+            <div class="feature-image"><a href="https://advertisementfeature.cnn.com/2021/accenture/future-of-work/"><img alt="Built for purpose, designed to thrive logo" src="/images/features/cnn.png" width="100%" height="100%" /></a></div>
+            
+            
+                <div class="feature-title"><h2 >Built for purpose, designed to thrive</h2></div>
+            <div class="feature-info">
+            <div class="feature-content">Data sourcing, data analysis, and data visualization design.</div>
+            <div class="feature-details">
+            <div class="feature-year"><i class="fa-solid fa-clock"></i>  2021</div>
+             <div class="feature-client"><i class="fa-solid fa-user-group"></i> <a href="https://edition.cnn.com/">CNN Hong Kong</a></div>
+            <div class="feature-link"><i class="fa-solid fa-link"></i>  <a href="https://advertisementfeature.cnn.com/2021/accenture/future-of-work/">Go to project</a></div>
+          
+            </div></div>
+          </div>
+          </div>
+          
+      
+          
+      <div class="col-12 col-md-6 col-lg-3 mb-2">
+        <div class="feature">
+            <div class="feature-image"><a href="https://ocio-venezia.it/pagine/affittanze-dati/"><img alt="Monthly bulletin on overtourism in Venice  logo" src="/images/features/ocio.png" width="100%" height="100%" /></a></div>
+            
+            
+                <div class="feature-title"><h2 >Monthly bulletin on overtourism in Venice </h2></div>
+            <div class="feature-info">
+            <div class="feature-content">Data scraping, data analysis, and dataviz design & development.</div>
+            <div class="feature-details">
+            <div class="feature-year"><i class="fa-solid fa-clock"></i>  2019</div>
+             <div class="feature-client"><i class="fa-solid fa-user-group"></i> <a href="https://ocio-venezia.it">OCIO Venezia</a></div>
+            <div class="feature-link"><i class="fa-solid fa-link"></i>  <a href="https://ocio-venezia.it/pagine/affittanze-dati/">Go to project</a></div>
+          
+            </div></div>
+          </div>
+          </div>
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+
+    </div>
+  </div>
+</div>
 
 
-<section class= "home fields">
-    <div class="learn-more">
-<div class="col-wrapper">
- <div class="column3">
-        <div class="button"><a href="/pages/events">
-            <h2><span style="font-size: 0.7em; font-weight: 200">attended</span><br><span style="font-weight: 900">events</span></h2>
-          </a>
+<div class="strip strip-white strip-teaching">
+  <div class="container pt-6 pb-3 pt-md-5 pb-md-5 ">
+      <div class="headline-feature"><h1>Featured Teaching</h1> <p><a href="/teaching">See more classes and workshops <i class="fa-solid fa-circle-arrow-right"></i> </a></p><div style="clear: both"></div></div>
+      
+        <div class="about-feature"><p>I teach at public universities, design courses on online learning platforms, and lead hands-on workshop sessions. </p></div>
+  
+      
+     <div class="row justify-content-center">
+      
+          
+      <div class="col-12 col-md-6 col-lg-3 mb-2">
+        <div class="feature">
+            <div class="feature-image"><a href="https://school.dataninja.it/pages/master-data-leader-ii-edizione"><img alt="Master Alta Formazione sui dati Ed.2 logo" src="/images/features/master2.png" width="100%" height="100%" /></a></div>
+            
+            
+                <div class="feature-title"><h2 >Master Alta Formazione sui dati Ed.2</h2></div>
+            <div class="feature-info">
+            <div class="feature-content">Teacher, tutor, and learning manager</div>
+                <div class="feature-details">
+            <div class="feature-year"><i class="fa-solid fa-clock"></i>  2021</div>
+             <div class="feature-client"><i class="fa-solid fa-user-group"></i> <a href="https://dataninja.it">Dataninja</a></div>
+            <div class="feature-location"><i class="fa-solid fa-compass"></i>   Online</div>
+            <div class="feature-link"><i class="fa-solid fa-link"></i>  <a href="https://school.dataninja.it/pages/master-data-leader-ii-edizione">Go to teaching</a></div>
+                </div>
+          </div>
+          </div>
+          </div>
+          
+      
+          
+      <div class="col-12 col-md-6 col-lg-3 mb-2">
+        <div class="feature">
+            <div class="feature-image"><a href="https://www.data4chan.ge/"><img alt="2021 Fellowship Program, Marimekko Cohort logo" src="/images/features/d4c.png" width="100%" height="100%" /></a></div>
+            
+            
+                <div class="feature-title"><h2 >2021 Fellowship Program, Marimekko Cohort</h2></div>
+            <div class="feature-info">
+            <div class="feature-content">Cohort Tech Support</div>
+                <div class="feature-details">
+            <div class="feature-year"><i class="fa-solid fa-clock"></i>  2021</div>
+             <div class="feature-client"><i class="fa-solid fa-user-group"></i> <a href="https://www.data4chan.ge/">Data4Change</a></div>
+            <div class="feature-location"><i class="fa-solid fa-compass"></i>   Online</div>
+            <div class="feature-link"><i class="fa-solid fa-link"></i>  <a href="https://www.data4chan.ge/">Go to teaching</a></div>
+                </div>
+          </div>
+          </div>
+          </div>
+          
+      
+          
+      <div class="col-12 col-md-6 col-lg-3 mb-2">
+        <div class="feature">
+            <div class="feature-image"><a href="https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2021/469992"><img alt="Communication of Statistics and Data Business Analytics logo" src="/images/features/unibo.png" width="100%" height="100%" /></a></div>
+            
+            
+                <div class="feature-title"><h2 >Communication of Statistics and Data Business Analytics</h2></div>
+            <div class="feature-info">
+            <div class="feature-content">Contract Professor</div>
+                <div class="feature-details">
+            <div class="feature-year"><i class="fa-solid fa-clock"></i>  2021</div>
+             <div class="feature-client"><i class="fa-solid fa-user-group"></i> <a href="https://www.unibo.it/it">University of Bologna</a></div>
+            <div class="feature-location"><i class="fa-solid fa-compass"></i>   Bologna, Italy</div>
+            <div class="feature-link"><i class="fa-solid fa-link"></i>  <a href="https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2021/469992">Go to teaching</a></div>
+                </div>
+          </div>
+          </div>
+          </div>
+          
+      
+          
+      <div class="col-12 col-md-6 col-lg-3 mb-2">
+        <div class="feature">
+            <div class="feature-image"><a href="https://www.maghweb.org/data-feminism-un-nuovo-modo-di-pensare-alla-scienza-dei-dati-e-alla-loro-etica/"><img alt="Data Feminism Workshop on critical data practices logo" src="/images/features/maghweb2.png" width="100%" height="100%" /></a></div>
+            
+            
+                <div class="feature-title"><h2 >Data Feminism Workshop on critical data practices</h2></div>
+            <div class="feature-info">
+            <div class="feature-content">Workshop Lead</div>
+                <div class="feature-details">
+            <div class="feature-year"><i class="fa-solid fa-clock"></i>  2021</div>
+             <div class="feature-client"><i class="fa-solid fa-user-group"></i> <a href="https://www.maghweb.org/">Maghweb</a></div>
+            <div class="feature-location"><i class="fa-solid fa-compass"></i>   Palermo, Italy</div>
+            <div class="feature-link"><i class="fa-solid fa-link"></i>  <a href="https://www.maghweb.org/data-feminism-un-nuovo-modo-di-pensare-alla-scienza-dei-dati-e-alla-loro-etica/">Go to teaching</a></div>
+                </div>
+          </div>
+          </div>
+          </div>
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+
+
+    </div>
+  </div>
+</div>
+
+<div class="strip strip-white strip-events" style="background: #2F3C4F0d">
+  <div class="container pt-6 pb-3 pt-md-5 pb-md-5 ">
+      <div class="headline-feature"><h1>Featured Events</h1> <p><a href="/events">See more events <i class="fa-solid fa-circle-arrow-right"></i> </a></p><div style="clear: both"></div></div>
+              <div class="about-feature"><p>I speak about my work at events, both local and international, and I offer mentorship during hackathons.</p></div>
+  
+      
+     <div class="row justify-content-center">
+      
+          
+      <div class="col-12 col-md-6 col-lg-3 mb-2">
+        <div class="feature">
+            <div class="feature-image"><a href="https://urbandigitalcenterrovigo.it/content/attivita/animazione/hackathon/hackathonUrbanDatavizContestRovigo"><img alt="Urban Dataviz • Designer Hackathon logo" src="/images/features/aiap.png" width="100%" height="100%" /></a></div>
+            
+                <div class="feature-title"><h2 >Urban Dataviz • Designer Hackathon</h2></div>
+            <div class="feature-info">
+            <div class="feature-content">Hackathon Tutor</div>
+                <div class="feature-details">
+            <div class="feature-year"><i class="fa-solid fa-clock"></i>  2021</div>
+             <div class="feature-client"><i class="fa-solid fa-user-group"></i> <a href="https://aiap.it/">AIAP</a></div><div class="feature-client"><i class="fa-solid fa-user-group"></i> <a href="https://urbandigitalcenterrovigo.it/">Urban Digital Center Rovigo</a></div>
+            <div class="feature-location"><i class="fa-solid fa-compass"></i>   Rovigo, Italy</div>
+            <div class="feature-link"><i class="fa-solid fa-link"></i>  <a href="https://urbandigitalcenterrovigo.it/content/attivita/animazione/hackathon/hackathonUrbanDatavizContestRovigo">Go to event</a></div>
+            <div class="feature-video"><i class="fa-solid fa-video"></i>  <a href="https://www.facebook.com/UrbanDigitalCenterRovigo/videos/hackathon-urban-dataviz/410392407244931/?__so__=permalink&__rv__=related_videos">See the video of the event</a></div>
+            
+            
+                </div>
+      </div>
+          </div>
+          </div>
+          
+      
+          
+      <div class="col-12 col-md-6 col-lg-3 mb-2">
+        <div class="feature">
+            <div class="feature-image"><a href="https://www.greens-efa.eu/en/article/event/affordable-housing"><img alt="Airbnb and the Digital Services Act logo" src="/images/features/eugreens.png" width="100%" height="100%" /></a></div>
+            
+                <div class="feature-title"><h2 >Airbnb and the Digital Services Act</h2></div>
+            <div class="feature-info">
+            <div class="feature-content">Speaker with the talk 'The Impact of short-term letting. Stories of resistance from Venice, Italy'.</div>
+                <div class="feature-details">
+            <div class="feature-year"><i class="fa-solid fa-clock"></i>  2020</div>
+             <div class="feature-client"><i class="fa-solid fa-user-group"></i> <a href="https://www.greens-efa.eu">The Greens/EFA in the European Parliament</a></div>
+            <div class="feature-location"><i class="fa-solid fa-compass"></i>   Online</div>
+            <div class="feature-link"><i class="fa-solid fa-link"></i>  <a href="https://www.greens-efa.eu/en/article/event/affordable-housing">Go to event</a></div>
+            <div class="feature-video"><i class="fa-solid fa-video"></i>  <a href="https://www.facebook.com/greensefa/videos/affordable-housing-airbnb-and-the-digital-services-act/3974572392571276/">See the video of the event</a></div>
+            <div class="feature-slides"><i class="fa-solid fa-desktop"></i>  <a href="/slides/2020_11_18_greens_efa_eu">See my slides</a></div>
+            
+                </div>
+      </div>
+          </div>
+          </div>
+          
+      
+          
+      <div class="col-12 col-md-6 col-lg-3 mb-2">
+        <div class="feature">
+            <div class="feature-image"><a href="https://www.unive.it/pag/26795/?tx_news_pi1%5Bnews%5D=9307&cHash=455140abfca30d7616d793ec177f26e5"><img alt="Panel How Charts Lie. Author’s Chat with Alberto Cairo logo" src="/images/features/cairo.jpg" width="100%" height="100%" /></a></div>
+            
+                <div class="feature-title"><h2 >Panel How Charts Lie. Author’s Chat with Alberto Cairo</h2></div>
+            <div class="feature-info">
+            <div class="feature-content">Panelist, in conversation with Alberto Cairo on <em>How Charts lie</em>.</div>
+                <div class="feature-details">
+            <div class="feature-year"><i class="fa-solid fa-clock"></i>  2020</div>
+             <div class="feature-client"><i class="fa-solid fa-user-group"></i> <a href="https://www.unive.it/">Ca' Foscari University of Venice</a></div>
+            <div class="feature-location"><i class="fa-solid fa-compass"></i>   Online</div>
+            <div class="feature-link"><i class="fa-solid fa-link"></i>  <a href="https://www.unive.it/pag/26795/?tx_news_pi1%5Bnews%5D=9307&cHash=455140abfca30d7616d793ec177f26e5">Go to event</a></div>
+            <div class="feature-video"><i class="fa-solid fa-video"></i>  <a href="https://www.facebook.com/cafoscari/videos/how-charts-lie-authors-chat-with-alberto-cairo/253150979282061/">See the video of the event</a></div>
+            
+            
+                </div>
+      </div>
+          </div>
+          </div>
+          
+      
+          
+      <div class="col-12 col-md-6 col-lg-3 mb-2">
+        <div class="feature">
+            <div class="feature-image"><a href="https://rladiesitaly2.webnode.page/"><img alt="Scenari e ruoli alternativi nella data science logo" src="/images/features/rladies.jpg" width="100%" height="100%" /></a></div>
+            
+                <div class="feature-title"><h2 >Scenari e ruoli alternativi nella data science</h2></div>
+            <div class="feature-info">
+            <div class="feature-content">Speaker, with a talk on working as a data communicator.</div>
+                <div class="feature-details">
+            <div class="feature-year"><i class="fa-solid fa-clock"></i>  2020</div>
+             <div class="feature-client"><i class="fa-solid fa-user-group"></i> <a href="https://www.unive.it/">RLadies Italia</a></div>
+            <div class="feature-location"><i class="fa-solid fa-compass"></i>   Online</div>
+            <div class="feature-link"><i class="fa-solid fa-link"></i>  <a href="https://rladiesitaly2.webnode.page/">Go to event</a></div>
+            <div class="feature-video"><i class="fa-solid fa-video"></i>  <a href="https://vimeo.com/471438456#t=40s">See the video of the event</a></div>
+            <div class="feature-slides"><i class="fa-solid fa-desktop"></i>  <a href="/slides/2020_10_13_rladies">See my slides</a></div>
+            
+                </div>
+      </div>
+          </div>
+          </div>
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+
+
+    </div>
+  </div>
+</div>
+
+<div class="strip strip-white strip-writing">
+  <div class="container pt-6 pb-6 pt-md-5 pb-md-10 ">
+      <div class="headline-feature"><h1>Featured Writing</h1> <p><a href="/writing">See more articles <i class="fa-solid fa-circle-arrow-right"></i> </a></p><div style="clear: both"></div></div>
+      <div class="about-feature"><p>I write about data to foster data literacy and spread critical knowledge around key debates in the domain. </p></div>
+      
+      <div class="row justify-content-center">
+      
+          
+      <div class="col-12 col-md-6 col-lg-3 mb-2">
+        <div class="feature">
+            <div class="feature-image"><a href="https://datajournalism.com/read/longreads/lets-get-physical-how-to-represent-data-through-touch"><img alt="Let’s get physical: how to represent data through touch logo" src="/images/features/ejc.jpg" width="100%" height="100%" /></a></div>
+            
+            
+          <div class="feature-title"><h2 >Let’s get physical: how to represent data through touch</h2></div>
+            <div class="feature-info">
+            <div class="feature-content">A tutorial in data physicalization for journalists.</div>
+                <div class="feature-details">
+            <div class="feature-year"><i class="fa-solid fa-clock"></i>  2019</div>
+                 <div class="feature-client"><i class="fa-solid fa-user-group"></i> <a href="https://datajournalism.com/">European Journalism Centre</a></div>
+            <div class="feature-link"><i class="fa-solid fa-link"></i>  <a href="https://datajournalism.com/read/longreads/lets-get-physical-how-to-represent-data-through-touch">Go to article</a></div>
+          
+                </div>
+          </div>
+            </div>
+          </div>
+          
+      
+          
+      <div class="col-12 col-md-6 col-lg-3 mb-2">
+        <div class="feature">
+            <div class="feature-image"><a href="https://medium.com/nightingale/beyond-open-washing-are-stories-and-narratives-the-future-of-open-data-portals-93228d8882f3"><img alt="Beyond Open-washing: Are Narratives the Future of Open Data Portals? logo" src="/images/features/dvs.png" width="100%" height="100%" /></a></div>
+            
+            
+          <div class="feature-title"><h2 >Beyond Open-washing: Are Narratives the Future of Open Data Portals?</h2></div>
+            <div class="feature-info">
+            <div class="feature-content">Piece co-authored with Matteo Moretti of Sheldon Studio</div>
+                <div class="feature-details">
+            <div class="feature-year"><i class="fa-solid fa-clock"></i>  2020</div>
+                 <div class="feature-client"><i class="fa-solid fa-user-group"></i> <a href="https://medium.com/nightingale/">Nightingale / Data Visualization Society</a></div>
+            <div class="feature-link"><i class="fa-solid fa-link"></i>  <a href="https://medium.com/nightingale/beyond-open-washing-are-stories-and-narratives-the-future-of-open-data-portals-93228d8882f3">Go to article</a></div>
+          
+                </div>
+          </div>
+            </div>
+          </div>
+          
+      
+          
+      <div class="col-12 col-md-6 col-lg-3 mb-2">
+        <div class="feature">
+            <div class="feature-image"><a href="https://magazine.dataninja.it/2020/06/25/data-feminism/"><img alt="Cosa vuol dire occuparsi di dati con un approccio femminista logo" src="/images/features/datafem.jpg" width="100%" height="100%" /></a></div>
+            
+            
+          <div class="feature-title"><h2 >Cosa vuol dire occuparsi di dati con un approccio femminista</h2></div>
+            <div class="feature-info">
+            <div class="feature-content">A piece on how to work with data integrating a data feminism perspective.</div>
+                <div class="feature-details">
+            <div class="feature-year"><i class="fa-solid fa-clock"></i>  2020</div>
+                 <div class="feature-client"><i class="fa-solid fa-user-group"></i> <a href="https://magazine.dataninja.it/">Dataninja Magazine</a></div>
+            <div class="feature-link"><i class="fa-solid fa-link"></i>  <a href="https://magazine.dataninja.it/2020/06/25/data-feminism/">Go to article</a></div>
+          
+                </div>
+          </div>
+            </div>
+          </div>
+          
+      
+          
+      <div class="col-12 col-md-6 col-lg-3 mb-2">
+        <div class="feature">
+            <div class="feature-image"><a href="https://magazine.dataninja.it/2020/01/29/come-raccontare-le-elezioni-con-grafici-e-mappe/"><img alt="Come raccontare le elezioni con grafici e mappe logo" src="/images/features/maps.jpg" width="100%" height="100%" /></a></div>
+            
+            
+          <div class="feature-title"><h2 >Come raccontare le elezioni con grafici e mappe</h2></div>
+            <div class="feature-info">
+            <div class="feature-content">A piece on the nuances of communicating election data through maps.</div>
+                <div class="feature-details">
+            <div class="feature-year"><i class="fa-solid fa-clock"></i>  2020</div>
+                 <div class="feature-client"><i class="fa-solid fa-user-group"></i> <a href="https://magazine.dataninja.it/">Dataninja Magazine</a></div>
+            <div class="feature-link"><i class="fa-solid fa-link"></i>  <a href="https://magazine.dataninja.it/2020/01/29/come-raccontare-le-elezioni-con-grafici-e-mappe/">Go to article</a></div>
+          
+                </div>
+          </div>
+            </div>
+          </div>
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+          
+      
+
+    </div>
+  </div>
+</div>
+
+  </div>
+  <div class="footer">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="footer-inner">
+          <h2 class="footer-title">Alice Corona</h2>
+         
+            <div class="social">
+  
+    <div class="button" style="background: #2F3C4F"><a href="https://twitter.com/alice_corona" target="blank" style="color:white; font-size: 1.2em"><i style="color:white" class="fab fa-twitter"></i></a></div>
+  
+    <div class="button" style="background: #2F3C4F"><a href="https://alice-corona.medium.com/" target="blank" style="color:white; font-size: 1.2em"><i style="color:white" class="fab fa-medium-m"></i></a></div>
+  
+    <div class="button" style="background: #2F3C4F"><a href="https://github.com/ali-ce" target="blank" style="color:white; font-size: 1.2em"><i style="color:white" class="fab fa-github"></i></a></div>
+  
+    <div class="button" style="border: solid 1px white;background: #2F3C4F"><a href="mailto:alice-corona@riseup.net" target="blank">CONTACT</a></div>
+</div>
+
+            
+          <ul>
+            
+            
+            <li class="active">
+              <a href="/">Home</a>
+            </li>
+            
+            <li class="">
+              <a href="/cv/">CV</a>
+            </li>
+            
+          </ul>
+       
+          </div>
+           
+      </div>
+    </div>
+  </div>
+<div style="color: white; font-size: 0.5em; padding-top: 15px; text-align: center; font-weight: 100">Alice Corona • Find me in Parma, Italy • P.IVA / VAT N.: IT04482850270 <br> Site design by Alice Corona based on Jekyll Serif, theme by <a style="color: white" href="https://www.zerostatic.io/">https://www.zerostatic.io/</a> • Powered by Jekyll, hosted on GitHub</div>
+</div>
+
+
+    
+    <!-- 
+  <div class="sub-footer">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="sub-footer-inner">
+          
+            <div class="social">
+  
+    <div class="button" style="background-color: white;"><a href="https://twitter.com/alice_corona" target="blank" style="font-size: 1.2em"><i class="fab fa-twitter"></i></a></div>
+  
+    <div class="button" style="background-color: white;"><a href="https://alice-corona.medium.com/" target="blank" style="font-size: 1.2em"><i class="fab fa-medium-m"></i></a></div>
+  
+    <div class="button" style="background-color: white;"><a href="https://github.com/ali-ce" target="blank" style="font-size: 1.2em"><i class="fab fa-github"></i></a></div>
+  
+    <div class="button"><a href="mailto:alice-corona@riseup.net" target="blank">CONTACT</a></div>
+</div>
+
+          
+          
+          <div class="copyright">Free Jekyll theme by <a class="zerostatic" href="https://www.zerostatic.io">www.zerostatic.io</a></div>
+          
         </div>
-  </div>
-<div class="column3">
-        <div class="button"><a href="/pages/cv">
-            <h2><span style="font-size: 0.7em;font-weight: 200">study and work</span><br><span style="font-weight: 900">experience</span></h2></a>
-          </div>
-  </div>
-
-<div class="column3">
-        <div class="button"><a href="/pages/projects">
-            <h2><span style="font-size: 0.7em;font-weight: 200">selection of</span><br><span style="font-weight: 900">projects</span></h2></a>
-          </div>
-  </div>
-  <div class="clear"></div>
-</div>
-<div style="text-align: center;">
-  <h1 style="text-align: center; padding-top: 2em; font-weight: 200"> Get in touch! </h1>
-      <div class="icons">
-      <a class="mail" href="mailto:alice-corona@riseup.net" target="_blank" rel="noopener noreferrer"><i class="fas fa-envelope"></i></a>
+      </div>
     </div>
-      <div class="icons">
-      <a class="twitter" href="http://twitter.com/alice_corona" target="_blank" rel="noopener noreferrer"><i class="fab fa-twitter"></i></a>
-    </div>
-      <div class="icons">
-      <a class="medium" href="https://medium.com/alice_corona" target="_blank" rel="noopener noreferrer"><i class="fab fa-medium-m"></i></a>
-    </div>
-    <div class="icons">
-      <a class="github" href="http://github.com/ali-ce" target="_blank" rel="noopener noreferrer"><i class="fab fa-github"></i></a>
-    </div>
-    <div class="clear"></div>
-   </div>
-  <div class="footer-credits"><p>Design: <a href="/">Alice Corona</a> · fullPage.js by <a href="https://alvarotrigo.com/fullPage">Alvaro Trigo</a> · CSS text animation by <a href="https://codepen.io/yoannhel/pen/sJpDj">Yoann</a>· Website powered by <a href="https://jekyllrb.com/">Jekyll</a> and hosted on <a href="https://www.github.nl">GitHub</a> · Unless otherwise stated, text content is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a></p>
-  </div><div class="clear"></div>
   </div>
 </div>
+    -->
+   
+  <script type="text/javascript" src="/assets/js/scripts.js"></script>
+  
 </body>
-
-</section>
-<div class="clear"></div>
 </html>

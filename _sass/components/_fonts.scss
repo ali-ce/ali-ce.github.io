@@ -1,0 +1,34 @@
+@font-face {
+	font-family: 'Playfair Display';
+	font-style: normal;
+	font-weight: 400;
+	font-display: swap;
+	src: local(''), url('../fonts/playfair-display.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: "Avenir";
+  font-weight: 400;
+  font-style: normal;
+  src: url("/assets/fonts/Avenir-Medium.woff") format('woff');
+}
+
+@font-face {
+  font-family: "Avenir";
+  src: url("/assets/fonts/Avenir-Light.woff") format('woff');
+  font-weight: 100;
+  font-style: lighter;
+}
+@font-face {
+  font-family: "Avenir";
+  font-weight: 600;
+  font-style: bold;
+  src: url("/assets/fonts/Avenir-Heavy.woff") format('woff');
+}
+
+@font-face {
+  font-family: "Avenir";
+  font-weight: 900;
+  font-style: bolder;
+  src: url("/assets/fonts/Avenir-Black.woff") format('woff');
+}

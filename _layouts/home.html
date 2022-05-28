@@ -1,43 +1,182 @@
-{% include head.html %}
-<body>
+---
+layout: default
+bodyClass: "page-home"
+---
 
-<div class="main">
+<div class="intro">
+  <div class="container">
+    <div class="row justify-content-start">
+      <div class="col-12 col-md-7 col-lg-6 order-2 order-md-1">
+        {{ content }}
+          {% include social.html%}
+        
 
-
-
-<section class= "home pitch">
-  <div class="home-text-section">
-  <h1>Hi. I'm Alice</h1>
-  <div class="Iam">
-  <p>I work with <strong>data</strong></p>
-  <b>
-    <div class="innerIam">
-      <span style="color:steelblue ">stories</span><br /> 
-      <span style="color:teal ">scraping</span><br />
-      <span style="color:purple">visualization</span><br />
-      <span style="color:crimson ">research</span><br />
-      <span style="color:orangered ">cleaning</span><br />
-      <span style="color:orange ">literacy</span><br />
+      </div>
+      {% if page.intro_image %}
+      <div class="col-12 col-md-2 col-lg-6 order-1 order-md-2 position-relative">
+        <img alt="{{ page.title }}" class="intro-image{% if page.intro_image_absolute %} intro-image-absolute{% endif %}{% if page.intro_image_hide_on_mobile %} intro-image-hide-mobile{% endif %}" src="{{ page.intro_image | relURL }}" />
+      </div>
+      {% endif %}
     </div>
-  </b>
   </div>
-</section>
-
-<div class="clear"></div>
-
-<section class= "home bio-short">
-  <div class="home-text-section">
-      {% include short-bio.html %}
-  <div class="next-section">
-  <p>Learn more<br><span style="font-size: 1.3em;margin-top: 0px;"><i class="fas fa-angle-double-down"></i></span></p>
 </div>
+<!--
+<div class="strip">
+  <div class="container pt-6 pb-6 pb-md-10">
+    <div class="row justify-content-start">
+      {% for service in site.services %}
+      <div class="col-12 col-md-4 mb-1">
+        <div class="service service-summary">
+          <div class="service-content">
+            <h2 class="service-title">
+              <a href="{{ service.url | relative_url }}">{{ service.title }}</a>
+            </h2>
+            <p>{{ service.content | markdownify | strip_html | truncate: 100 }}</p>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+    <div class="row justify-content-center">
+      <div class="col-auto">
+        <a class="button button-primary" href="{{ "services" | relative_url }}">View All Services</a>
+      </div>
+    </div>
+  </div>
 </div>
-</section>
-<div class="clear"></div>
+-->
+
+<div class="strip strip-white strip-projects" style="background: #2F3C4F0d">
+  <div class="container pt-6 pb-3 pt-md-10 pb-md-5 ">
+      <div class="headline-feature"><h1>Featured Projects</h1> <p><a href="/projects">See more projects <i class="fa-solid fa-circle-arrow-right"></i> </a></p><div style="clear: both"></div></div>
+      <div class="about-feature"><p>I work with design studios, newsrooms, startups, and activists to provide support on all-things data: from setting up data collection strategies to investigating data for insights and crafting the narrative & visualizations.</p></div>
+      
+      <div class="row justify-content-center">
+      {% for project in site.data.projects %}
+          {% if project.featured %}
+      <div class="col-12 col-md-6 col-lg-3 mb-2">
+        <div class="feature">
+            <div class="feature-image"><a href="{{ project.link }}"><img alt="{{ project.title }} logo" src="{{ project.image.url | relative_url }}" width="{{ project.image.width }}" height="{{ project.image.height }}" /></a></div>
+            
+            
+                <div class="feature-title"><h2 >{{ project.title }}</h2></div>
+            <div class="feature-info">
+            <div class="feature-content">{{ project.description }}</div>
+            <div class="feature-details">
+            <div class="feature-year"><i class="fa-solid fa-clock"></i>  {{ project.year }}</div>
+            {% if project.clients != "" %} {% for client in project.clients %}<div class="feature-client"><i class="fa-solid fa-user-group"></i> <a href="{{ client.link }}">{{ client.name }}</a></div>{% endfor %}{% endif %}
+            <div class="feature-link"><i class="fa-solid fa-link"></i>  <a href="{{ project.link }}">Go to project</a></div>
+          
+            </div></div>
+          </div>
+          </div>
+          {% endif %}
+      {% endfor %}
+
+    </div>
+  </div>
+</div>
 
 
-<section class= "home fields">
-    {% include more.html %}
-</section>
-<div class="clear"></div>
-</html>
+<div class="strip strip-white strip-teaching">
+  <div class="container pt-6 pb-3 pt-md-5 pb-md-5 ">
+      <div class="headline-feature"><h1>Featured Teaching</h1> <p><a href="/teaching">See more classes and workshops <i class="fa-solid fa-circle-arrow-right"></i> </a></p><div style="clear: both"></div></div>
+      
+        <div class="about-feature"><p>I teach at public universities, design courses on online learning platforms, and lead hands-on workshop sessions. </p></div>
+  
+      
+     <div class="row justify-content-center">
+      {% for teaching in site.data.teaching %}
+          {% if teaching.featured %}
+      <div class="col-12 col-md-6 col-lg-3 mb-2">
+        <div class="feature">
+            <div class="feature-image"><a href="{{ teaching.link }}"><img alt="{{ teaching.title }} logo" src="{{ teaching.image.url | relative_url }}" width="{{ teaching.image.width }}" height="{{ teaching.image.height }}" /></a></div>
+            
+            
+                <div class="feature-title"><h2 >{{ teaching.title }}</h2></div>
+            <div class="feature-info">
+            <div class="feature-content">{{ teaching.description }}</div>
+                <div class="feature-details">
+            <div class="feature-year"><i class="fa-solid fa-clock"></i>  {{ teaching.year }}</div>
+            {% if teaching.clients != "" %} {% for client in teaching.clients %}<div class="feature-client"><i class="fa-solid fa-user-group"></i> <a href="{{ client.link }}">{{ client.name }}</a></div>{% endfor %}{% endif %}
+            <div class="feature-location"><i class="fa-solid fa-compass"></i>   {{ teaching.location }}</div>
+            <div class="feature-link"><i class="fa-solid fa-link"></i>  <a href="{{ teaching.link }}">Go to teaching</a></div>
+                </div>
+          </div>
+          </div>
+          </div>
+          {% endif %}
+      {% endfor %}
+
+
+    </div>
+  </div>
+</div>
+
+<div class="strip strip-white strip-events" style="background: #2F3C4F0d">
+  <div class="container pt-6 pb-3 pt-md-5 pb-md-5 ">
+      <div class="headline-feature"><h1>Featured Events</h1> <p><a href="/events">See more events <i class="fa-solid fa-circle-arrow-right"></i> </a></p><div style="clear: both"></div></div>
+              <div class="about-feature"><p>I speak about my work at events, both local and international, and I offer mentorship during hackathons.</p></div>
+  
+      
+     <div class="row justify-content-center">
+      {% for event in site.data.events %}
+          {% if event.featured %}
+      <div class="col-12 col-md-6 col-lg-3 mb-2">
+        <div class="feature">
+            <div class="feature-image"><a href="{{ event.link }}"><img alt="{{ event.title }} logo" src="{{ event.image.url | relative_url }}" width="{{ event.image.width }}" height="{{ event.image.height }}" /></a></div>
+            
+                <div class="feature-title"><h2 >{{ event.title }}</h2></div>
+            <div class="feature-info">
+            <div class="feature-content">{{ event.description }}</div>
+                <div class="feature-details">
+            <div class="feature-year"><i class="fa-solid fa-clock"></i>  {{ event.year }}</div>
+            {% if event.clients != "" %} {% for client in event.clients %}<div class="feature-client"><i class="fa-solid fa-user-group"></i> <a href="{{ client.link }}">{{ client.name }}</a></div>{% endfor %}{% endif %}
+            <div class="feature-location"><i class="fa-solid fa-compass"></i>   {{ event.location }}</div>
+            <div class="feature-link"><i class="fa-solid fa-link"></i>  <a href="{{ event.link }}">Go to event</a></div>
+            {% if event.video %}<div class="feature-video"><i class="fa-solid fa-video"></i>  <a href="{{ event.video }}">See the video of the event</a></div>{% endif %}
+            {% if event.slides %}<div class="feature-slides"><i class="fa-solid fa-desktop"></i>  <a href="{{ event.slides }}">See my slides</a></div>{% endif %}
+            
+                </div>
+      </div>
+          </div>
+          </div>
+          {% endif %}
+      {% endfor %}
+
+
+    </div>
+  </div>
+</div>
+
+<div class="strip strip-white strip-writing">
+  <div class="container pt-6 pb-6 pt-md-5 pb-md-10 ">
+      <div class="headline-feature"><h1>Featured Writing</h1> <p><a href="/writing">See more articles <i class="fa-solid fa-circle-arrow-right"></i> </a></p><div style="clear: both"></div></div>
+      <div class="about-feature"><p>I write about data to foster data literacy and spread critical knowledge around key debates in the domain. </p></div>
+      
+      <div class="row justify-content-center">
+      {% for writing in site.data.writing %}
+          {% if writing.featured %}
+      <div class="col-12 col-md-6 col-lg-3 mb-2">
+        <div class="feature">
+            <div class="feature-image"><a href="{{ writing.link }}"><img alt="{{ writing.title }} logo" src="{{ writing.image.url | relative_url }}" width="{{ writing.image.width }}" height="{{ writing.image.height }}" /></a></div>
+            
+            
+          <div class="feature-title"><h2 >{{ writing.title }}</h2></div>
+            <div class="feature-info">
+            <div class="feature-content">{{ writing.description }}</div>
+                <div class="feature-details">
+            <div class="feature-year"><i class="fa-solid fa-clock"></i>  {{ writing.year }}</div>
+                {% if writing.clients != "" %} {% for client in writing.clients %}<div class="feature-client"><i class="fa-solid fa-user-group"></i> <a href="{{ client.link }}">{{ client.name }}</a></div>{% endfor %}{% endif %}
+            <div class="feature-link"><i class="fa-solid fa-link"></i>  <a href="{{ writing.link }}">Go to article</a></div>
+          
+                </div>
+          </div>
+            </div>
+          </div>
+          {% endif %}
+      {% endfor %}
+
+    </div>
+  </div>
+</div>

@@ -1,0 +1,303 @@
+[
+  {
+    "title": "Let’s get physical: how to represent data through touch",
+    "description": "A tutorial in data physicalization for journalists.",
+     "clients": [
+        {
+        name: "European Journalism Centre", 
+        link: "https://datajournalism.com/"}],
+    "year": "2019",
+    "link":"https://datajournalism.com/read/longreads/lets-get-physical-how-to-represent-data-through-touch",
+    "featured": 1,
+    "image": {
+      "url": "images/features/ejc.jpg",
+      "width": "100%",
+      "height": "100%"
+    }
+  },
+    
+{
+    "title": "Beyond Open-washing: Are Narratives the Future of Open Data Portals?",
+    "description": "Piece co-authored with Matteo Moretti of Sheldon Studio",
+         "clients": [
+        {
+        name: "Nightingale / Data Visualization Society", 
+        link: "https://medium.com/nightingale/"}],
+      "year": "2020",
+    "link":"https://medium.com/nightingale/beyond-open-washing-are-stories-and-narratives-the-future-of-open-data-portals-93228d8882f3",
+    "featured": 1,
+    "image": {
+      "url": "images/features/dvs.png",
+      "width": "100%",
+      "height": "100%"
+    }
+  },
+    
+{
+    "title": "Cosa vuol dire occuparsi di dati con un approccio femminista",
+    "description": "A piece on how to work with data integrating a data feminism perspective.",
+     "clients": [
+        {
+        name: "Dataninja Magazine", 
+        link: "https://magazine.dataninja.it/"}],
+      "year": "2020",
+    "year": "2020",
+    "link":"https://magazine.dataninja.it/2020/06/25/data-feminism/",
+    "featured": 1,
+    "image": {
+      "url": "images/features/datafem.jpg",
+      "width": "100%",
+      "height": "100%"
+    }
+  },
+    
+    {
+    "title": "Come raccontare le elezioni con grafici e mappe",
+    "description": "A piece on the nuances of communicating election data through maps.",
+     "clients": [
+        {
+        name: "Dataninja Magazine", 
+        link: "https://magazine.dataninja.it/"}],
+    "year": "2020",
+    "link":"https://magazine.dataninja.it/2020/01/29/come-raccontare-le-elezioni-con-grafici-e-mappe/",
+    "featured": 1,
+    "image": {
+      "url": "images/features/maps.jpg",
+      "width": "100%",
+      "height": "100%"
+    }
+  },
+    
+ {
+    "title": "Great data physicalizations, and what journalists can learn from them — Part 2",
+    "description": "While working on Batjo, we surveyed dozens and dozens of data physicalizations. This post is the second of a series where I present an interdisciplinary selection of data objects and/or artistic installations, by focusing on projects that have potential applications/inspiration for journalism.",
+    "year": "2019",
+    "link":"https://medium.com/batjo/great-data-physicalizations-and-what-journalists-can-learn-from-it-part-2-50df07be6c36",
+  },
+    
+{
+    "title": "Great data physicalizations, and what journalists can learn from them — Part 1",
+    "description": "While working on Batjo, we surveyed dozens and dozens of data physicalizations. This post is the second of a series where I present an interdisciplinary selection of data objects and/or artistic installations, by focusing on projects that have potential applications/inspiration for journalism.",
+    "year": "2019",
+    "link":"https://medium.com/batjo/great-data-physicalizations-and-what-journalists-can-learn-from-it-part-1-9eec42495aad",
+  },
+    
+{
+    "title": "Data-Driven News Installations",
+    "description": "Announcing the launch of the first digital fabrication cookbook specifically targeted at newsrooms professionals. Learn how to make physical data installations to present news stories for your community.",
+    "year": "2018",
+    "link":"https://medium.com/batjo/data-driven-news-installations-89d3c6e41106",
+  },
+    
+{
+    "title": "Journalism & Dataviz: the Whos, Whats, Whys and Hows.",
+    "description": "A brief report looking at the use of dataviz in 2017–2018 award-winning data journalism.",
+    "year": "2018",
+    "link":"https://medium.com/batjo/journalism-dataviz-the-whos-whats-whys-and-hows-439a2f3e1d7a",
+  },
+{
+    "title": "A Manifesto For Physical Digital Journalism",
+    "description": "How can technology help newsrooms in their community engagement efforts and, at the same time, do so by offering alternatives to current methods of community-building that depend on mobile phones and social media? This is what we set out to investigate and imagine with the project Batjo: Bits, Atoms and Journalism.",
+    "year": "2018",
+    "link":"https://medium.com/batjo/a-manifesto-for-physical-digital-journalism-f4e209360db0",
+  },
+    
+{
+    "title": "Di cosa si occupa una data humanist. Intervista ad Alice Corona",
+    "description": "I've been interviewed by Donata Columbro.",
+    "clients": [
+        {
+        name: "Dataninja Magazine", 
+        link: "https://magazine.dataninja.it/"}],
+    "year": "2018",
+    "link":"https://magazine.dataninja.it/2018/06/15/data-humanist-alice-corona/",
+  },
+    
+{
+    "title": "Elezioni comunali 2021: come il giornalismo ha affrontato la sfida con i dati elettorali",
+    "description": "A review of how Italian data journalism covered the 2021 municipality elections.",
+        "clients": [
+        {
+        name: "Dataninja Magazine", 
+        link: "https://magazine.dataninja.it/"}],
+    "year": "2021",
+    "link":"https://magazine.dataninja.it/2021/10/21/elezioni2021/",
+  },
+    
+{
+    "title": "Dati inclusivi: risorse utili per comunicare equamente",
+    "description": "Tools, initiatives, and debates around the topic of dataviz accessibility and inclusivity.",
+        "clients": [
+        {
+        name: "Dataninja Magazine", 
+        link: "https://magazine.dataninja.it/"}],
+    "year": "2021",
+    "link":"https://magazine.dataninja.it/2021/09/09/rendere-accessibili-e-inclusive-le-data-visualization/",
+  },
+    
+{
+    "title": "Come comunicare l’incertezza dei dati",
+    "description": "Guidelines on communicating uncertainty in data visualization.",
+        "clients": [
+        {
+        name: "Dataninja Magazine", 
+        link: "https://magazine.dataninja.it/"}],
+    "year": "2021",
+    "link":"https://magazine.dataninja.it/2021/01/14/comunicare-incertezza/",
+  },
+    
+{
+    "title": "Perché usare i dati nella cooperazione internazionale",
+    "description": "Case studies on how to integrate data when working in international cooperation.",
+        "clients": [
+        {
+        name: "Dataninja Magazine", 
+        link: "https://magazine.dataninja.it/"}],
+    "year": "2020",
+    "link":"https://magazine.dataninja.it/2020/06/04/dati-cooperazione-internazionale/",
+  },
+    
+{
+    "title": "Quando la data visualization… è una coperta di lana",
+    "description": "Review of data physicalization projects.",
+        "clients": [
+        {
+        name: "Dataninja Magazine", 
+        link: "https://magazine.dataninja.it/"}],
+    "year": "2020",
+    "link":"https://magazine.dataninja.it/2020/02/27/data-visualization-knitters/",
+  },
+
+    {
+    "title": "Dove trovo i dati che mi servono? Parte tre: Focus tematico sui dati di genere",
+    "description": "Review of sources for gender data.",
+        "clients": [
+        {
+        name: "Dataninja Magazine", 
+        link: "https://magazine.dataninja.it/"}],
+    "year": "2021",
+    "link":"https://magazine.dataninja.it/2021/05/20/gender-data/",
+  },
+    
+{
+    "title": "Dove trovo i dati che mi servono? Parte due: Liberare i dati “segreti” con il FOIA",
+    "description": "Guidelines and resources for making a FOIA request.",
+        "clients": [
+        {
+        name: "Dataninja Magazine", 
+        link: "https://magazine.dataninja.it/"}],
+    "year": "2020",
+    "link":"https://magazine.dataninja.it/2020/09/02/dove-trovo-i-dati-foia/",
+  },
+    
+{
+    "title": "Le disinfografiche: 5 modi in cui grafici e infografiche mentono, e come proteggerci",
+    "description": "A piece on 5 ways infographics can lie.",
+        "clients": [
+        {
+        name: "Dataninja Magazine", 
+        link: "https://magazine.dataninja.it/"}],
+    "year": "2020",
+    "link":"https://magazine.dataninja.it/2020/11/05/infografiche-che-mentono/",
+  },
+    
+{
+    "title": "Le mappe delle elezioni USA: strategie comunicative a confronto",
+    "description": "Case studies on how different newsrooms adopted different mapping strategies to communicate the results of the 2020 presidential election.",
+        "clients": [
+        {
+        name: "Dataninja Magazine", 
+        link: "https://magazine.dataninja.it/"}],
+    "year": "2020",
+    "link":"https://magazine.dataninja.it/2020/11/12/mappe-elezioni-usa/",
+  },
+    
+{
+    "title": "Dove trovo i dati che mi servono? Parte uno: 30 siti da cui scaricare gratuitamente dati aperti",
+    "description": "Review of data sources and open data portals",
+        "clients": [
+        {
+        name: "Dataninja Magazine", 
+        link: "https://magazine.dataninja.it/"}],
+    "year": "2020",
+    "link":"https://magazine.dataninja.it/2020/05/21/dove-trovo-i-dati-parte1/",
+  },
+    
+{
+    "title": "I dati sono sempre politici: anche quelli del censimento USA",
+    "description": "A piece on how census data is not neutral but has political and civil rights implications.",
+        "clients": [
+        {
+        name: "Dataninja Magazine", 
+        link: "https://magazine.dataninja.it/"}],
+    "year": "2021",
+    "link":"https://magazine.dataninja.it/2021/04/29/censimento-usa/",
+  },
+    
+{
+    "title": "La mappa con i roghi dell’Australia: c’è qualcosa che non funziona in questa data visualization?",
+    "description": "A piece on what maps can show and what maps can hide.",
+        "clients": [
+        {
+        name: "Dataninja Magazine", 
+        link: "https://magazine.dataninja.it/"}],
+    "year": "2020",
+    "link":"https://magazine.dataninja.it/2020/01/08/mappa-roghi-australia/",
+  },
+    
+{
+    "title": "Ho scaricato dati da internet e ora non so come aprirli",
+    "description": "A tutorial on how to efficiently import data in GSheets.",
+        "clients": [
+        {
+        name: "Dataninja Magazine", 
+        link: "https://magazine.dataninja.it/"}],
+    "year": "2020",
+    "link":"https://magazine.dataninja.it/2020/02/04/dati-csv-formato-come-aprire/",
+  },
+    
+{
+    "title": "Cosa sono le tabelle pivot e a cosa mi servono",
+    "description": "A tutorial on pivot tables in Gsheet.",
+        "clients": [
+        {
+        name: "Dataninja Magazine", 
+        link: "https://magazine.dataninja.it/"}],
+    "year": "2020",
+    "link":"https://magazine.dataninja.it/2020/03/16/tabelle-pivot/",
+  },
+    
+{
+    "title": "Le competenze sui dati in Italia e in Europa",
+    "description": "A report on data literacy education in Italy and Europe",
+        "clients": [
+        {
+        name: "Dataninja", 
+        link: "https://dataninja.it/"}],
+    "year": "2020",
+    "link":"https://magazine.dataninja.it/static/24f0d86c32a921fc3115ab40d21bafb2/Report-Data-Literacy_20201015.pdf",
+  },
+    
+{
+    "title": "Social meets civic. Civic social media and open government data: An inquiry on collaborative fact-checking for citizens’ empowerment.",
+    "description": "MA Thesis in Communication and Information Sciences, disserted at Tilburg University.",
+        "clients": [
+        {
+        name: "Tilburg University", 
+        link: "https://dataninja.it/"}],
+    "year": "2013",
+    "link":"/works/MA-thesis/",
+  },
+    
+    {
+    "title": "La guerra in Libia del 2011 e la stampa italiana: Rappresentazione mediatica di un teatro bellico",
+    "description": "ENG TITLE: The 2011 war in Libya in Italian newspapers: media’s representation of a conflict of ‘national interest’. BA Thesis in History disserted at the University of Siena.",
+        "clients": [
+        {
+        name: "Università degli Studi di Siena", 
+        link: "https://unisi.it/"}],
+    "year": "2012",
+    "link":"/works/BA-thesis/",
+  },
+    
+]

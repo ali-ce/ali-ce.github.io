@@ -1,0 +1,631 @@
+[
+    
+    {
+    "title": "Matera ECC 2019 Open Data Portal",
+    "description": "Data storytelling, data analysis, and dataviz support.",
+    "descriptionlong": "An unusual open data portal: The foundation behind Matera European Capital of Culture commissioned Sheldon Studio the design of their open data portal. The result is a portal where narratives, rather than data, are at the center, allowing people who are not data nerds to also benefit from the open data. Read more <a href='https://medium.com/nightingale/beyond-open-washing-are-stories-and-narratives-the-future-of-open-data-portals-93228d8882f3'>here</a> about the design process behind the project.",
+    "clients": [
+        {
+        name: "Sheldon Studio", 
+        link: "https://sheldon.studio/"},
+         {
+        name: "Fondazione Matera Basilicata 2019", 
+        link: "https://www.matera-basilicata2019.it/en/"}],
+    "year": "2020",
+    "link":"https://opendata.matera-basilicata2019.it/en/",
+    "featured": 1,
+    "image": {
+      "url": "images/features/matera.png",
+      "width": "100%",
+      "height": "100%"
+    }
+  },
+
+    
+  {
+    "title": "Batjo: Bits, Atoms and Journalism",
+    "description": "Project leader, research & development, data journalism.",
+    "descriptionlong": "Batjo (Bits, AToms and JOurnalism) is a project that helps journalists familiarize themselves with the creation of physical data installations and with the digital fabrication skills (like 3D printers and CNC milling) to craft them. The project developed a cookbook with 3 step-by-step tutorials to go from a spreadsheet to a physical data experience.",
+    "clients": [
+        {
+        name: "Google DNI-funded project", 
+        link: "https://newsinitiative.withgoogle.com/dnifund/dni-projects/batjo-bits-atoms-and-journalism-round-4/"}],
+    "year": "2018",
+    "link":"http://www.batjo.eu",
+    "featured": 1,
+    "image": {
+      "url": "images/features/batjo.png",
+      "width": "100%",
+      "height": "100%"
+    }
+  },
+    {
+    "title": "Beyond Petrolstates",
+    "description": "Interactive dataviz development",
+"descriptionlong": "Carbon Tracker's report focuses on the 40 countries with the greatest fiscal dependence on oil and gas revenues. I crafted the interactive data visualizations for the online version of the report",
+    "clients": [
+        {
+        name: "Carbon Tracker Initiative", 
+        link: "https://carbontracker.org"},
+        {
+        name: "Dataninja", 
+        link: "https://dataninja.it"}
+    ],
+    "year": "2021",
+    "link":"https://carbontracker.org/reports/petrostates-energy-transition-report/",
+    "image": {
+      "url": "images/features/carbon.png",
+      "width": "100%",
+      "height": "100%"
+    }
+  },
+    
+
+     {
+    "title": "Built for purpose, designed to thrive",
+    "description": "Data sourcing, data analysis, and data visualization design.",
+"descriptionlong": "A journalism feature sponsored by Accenture investigating the future of work and why the hybrid workplace is here to stay. I was contacted to provide external support to CNNs journalists & designers behind the piece.",
+     "clients": [
+        {
+        name: "CNN Hong Kong", 
+        link: "https://edition.cnn.com/"},],
+    "year": "2021",
+    "link":"https://advertisementfeature.cnn.com/2021/accenture/future-of-work/",
+    "featured": 1,
+    "image": {
+      "url": "images/features/cnn.png",
+      "width": "100%",
+      "height": "100%"
+    }
+  },
+
+      {
+    "title": "Monthly bulletin on overtourism in Venice ",
+    "description": "Data scraping, data analysis, and dataviz design & development.",
+    "descriptionlong": "As part of OCIO, a Venetian housing rights activist group, I developed this interactive report on the numbers behind overtourism in Venice. The visualizations include a map comparing population vs. Airbnb accommodations down to the block level. The data on this page has been routinely used by local and international journalists - like <a href='https://www.washingtonpost.com/video/world/in-venice-hopes-for-another-rebirth-after-the-coronavirus-outbreak/2020/05/08/b907e5ad-d550-4610-a630-2f115114e094_video.html'>The Washington Post</a>, <a href='https://www.equaltimes.org/emptied-of-tourists-venice-is-full#.YoTvGpNBzFo'>Equal Times</a>, <a href='https://ilmanifesto.it/stop-airbnb-le-nostre-citta-non-sono-alberghi'>Il Manifesto</a>, <a href='https://www.rivistailmulino.it/a/oltre-i-tornelli'>Rivista il Mulino</a>, <a href='https://comune-info.net/stop-airbnb-la-citta-non-e-un-hotel/'>Comune</a>, <a href='https://www.che-fare.com/almanacco/territori/bozzato-venezia-turismo-residenzialita/?url=/bozzato-venezia-turismo-residenzialita/'>Che Fare</a>, <a href='https://www.ilfattoquotidiano.it/2020/02/21/airbnb-da-bologna-a-napoli-gli-affitti-brevi-sfrattano-famiglie-e-studenti-il-padrone-di-casa-triplica-il-canone-andiamo-in-periferia/5708844/'>Il Fatto Quotidiano</a>  - and researchers (see <a href='https://www.shimajournal.org/issues/v15n1/11.-Dlabaja-Shima-v15n1.pdf'>here</a> and <a href='https://www.tandfonline.com/doi/abs/10.1080/09669582.2020.1860068s'>here</a>).",
+     "clients": [
+        {
+        name: "OCIO Venezia", 
+        link: "https://ocio-venezia.it"},],
+          
+    "year": "2019",
+    "link":"https://ocio-venezia.it/pagine/affittanze-dati/",
+    "featured": 1,
+    "image": {
+      "url": "images/features/ocio.png",
+      "width": "100%",
+      "height": "100%"
+    }
+  },
+    
+{
+    "title": "The false promise of social housing in Venice ",
+    "description": "Data collection, data analysis and dataviz design & development.",
+    "descriptionlong": "As part of OCIO, a Venetian housing rights activist group, I developed this interactive report, based on OCIO's research, on the public money that went to develop social housing projects that never actually delivered affordable housing.",
+        "clients": [
+        {
+        name: "OCIO Venezia", 
+        link: "https://ocio-venezia.it"},],
+    "year": "2019",
+    "link":"https://ocio-venezia.it/pagine/edilizia-convenzionata-dati/",
+    "image": {
+      "url": "images/features/ocio-social.png",
+      "width": "100%",
+      "height": "100%"
+    }
+  },
+    {
+    "title": "A data-inspired overview of Digital Humanities Conferences",
+    "description": "Data collection, processing, analysis, visualization, and storytelling.",
+"descriptionlong": "A personal project for the course in Digital Humanities at the University of Venice. The project explores data on regional and gender diversity at Digital Humanities conferences.",
+    "clients": "",
+    "year": "2020",
+    "link":"/slides/2020_10_25_unive",
+    "image": {
+      "url": "images/features/dighum.png",
+      "width": "100%",
+      "height": "100%"
+    }
+  },
+{
+    "title": "Campo San Zan Degolà a Santa Croce (Venezia): un luogo dimenticato dalla calca… ma non dagli speculatori",
+    "description": "Research, data collection, data analysis, writing, and dataviz design & development.",
+    "descriptionlong": "A data-based investigation on the corporate landlords and speculators that rent houses through Airbnb in Venice.",
+     "clients": [
+        {
+        name: "OCIO Venezia", 
+        link: "https://ocio-venezia.it"},],
+    "year": "2020",
+    "link":"https://medium.com/ocio-venezia/campo-san-zan-degol%C3%A0-a-santa-croce-venezia-un-luogo",
+    "image": {
+      "url": "images/features/ocio-zegola.png",
+      "width": "100%",
+      "height": "100%"
+    }
+  },
+    
+{
+    "title": "Castello e Corte delle Colonne: quell’indotto veneziano che…prende il volo per l’Atlantico.",
+    "description": "Research, data collection, data analysis, writing, and dataviz design & development.",
+    "descriptionlong": "A data-based investigation on offshore companies renting houses through Airbnb in Venice.",
+     "clients": [
+        {
+        name: "OCIO Venezia", 
+        link: "https://ocio-venezia.it"},],
+    "year": "2019",
+    "link":"https://medium.com/ocio-venezia/campo-san-zan-degol%C3%A0-a-santa-croce-venezia-un-luogo-dimenticato-dalla-calca-ma-non-dagli-5ad3c73fbb49",
+    "image": {
+      "url": "images/features/ocio-colonne.png",
+      "width": "100%",
+      "height": "100%"
+    }
+  },
+    
+    {
+    "title": "Venice Bulletin on Airbnb listings",
+    "description": "Data analysis, writing, and dataviz design & development.",
+    "descriptionlong": "A monthly bulletin on the spread of Airbnb in Venice, using InsideAribnb's data. [Project now offline]",
+         "clients": [
+        {
+        name: "Inside Airbnb", 
+        link: "http://insideairbnb.com/about/"},],
+    "year": "2019",
+    "image": {
+      "url": "images/features/iabnb.png",
+      "width": "100%",
+      "height": "100%"
+    }
+  },
+      
+
+     
+    {
+    "title": "Diversity matters, especially in the media",
+    "description": "Data collection setup, data processing, and data storytelling",
+"descriptionlong": "The project monitors the gender diversity of experts called to comment news on Lithuanian media. For the project worked on setting up a solid data collection template and on the data storytelling.",
+         "clients": [
+        {
+        name: "Sheldon Studio", 
+        link: "https://sheldon.studio/"},
+             {name: "Lithuanian Journalism Centre (LZC)", 
+        link: "https://lzc.lt/en/homepage/"}],
+    "year": "2021",
+    "link":"https://ekspertai.lzc.lt/en/",
+    "image": {
+      "url": "images/features/lzc.png",
+      "width": "100%",
+      "height": "100%"
+    }
+  },
+    
+{
+    "title": "Yearly report for the Regional Office of Statistics of Veneto ",
+    "description": "Data processing, writing, and dataviz prototypes",
+    "descriptionlong": "For the first time, the Office of Statistics of the Veneto Region published an online version of its yearly report. The project is by Sheldon Studio, for which I worked on the data processing, writing, and dataviz prototypes.",
+         "clients": [
+        {
+        name: "Sheldon Studio", 
+        link: "https://sheldon.studio/"},
+         
+        {
+        name: "Ufficio di Statistica della Regione del Veneto", 
+        link: "https://statistica.regione.veneto.it/"}],
+    "year": "2021",
+    "link": "https://statistica.regione.veneto.it/dashboard/",
+    "image": {
+      "url": "images/features/veneto.png",
+      "width": "100%",
+      "height": "100%"
+    }
+  },
+    {
+    "title": "Mapping Diversity",
+    "description": "Data processing data storytelling",
+"descriptionlong": "The project uses open-source data (Wikidata) to highlight the gender inequality in the street names of major Italian cities. The project won the Data Journalism Award at Glocal, the Italian Festival of Digital Journalism.",
+         "clients": [
+        {
+        name: "Sheldon Studio", 
+        link: "https://sheldon.studio/"},
+         {
+        name: "Osservatorio Balcani Caucaso", 
+        link: "https://www.balcanicaucaso.org/"},
+             {name: "EDJNET", 
+        link: "https://www.europeandatajournalism.eu/"}],
+    "year": "2021",
+    "link":"https://mappingdiversity.eu/",
+    "image": {
+      "url": "images/features/mappingdiv.png",
+      "width": "100%",
+      "height": "100%"
+    }
+  },
+
+    {
+    "title": "Nel dubbio... Task Forse!",
+    "description": "Data collection and setup",
+"descriptionlong": "A volunteer-based project with a humorous tone condemning the incredible explosion of  'special commissions' being created by the government to face the COVID-19 epidemic - most of them all-male and with little transparency about their doings. We want open data!",
+     "clients": [
+        {
+        name: "OnData", 
+        link: "https://www.ondata.it/"},],
+    "year": "2020",
+    "link":"https://www.taskforse.it/",
+    "image": {
+      "url": "images/features/taskforse.png",
+      "width": "100%",
+      "height": "100%"
+    }
+  },
+    
+
+         {
+    "title": "Elezioni europee 2019 a Venezia, il futuro potrebbe essere meno verde di quello che sembra.",
+    "description": "Data sourcing, data analysis, writing, and data visualizations.",
+"descriptionlong": "A self-initiated article analyzing the results of local elections in Venice through data.",
+    "clients": "",
+    "year": "2019",
+    "link":"https://alice-corona.medium.com/elezioni-europee-2019-a-venezia-unondata-di-destra-non-disperiamo-5959811e1101",
+    "image": {
+      "url": "images/features/elect.png",
+      "width": "100%",
+      "height": "100%"
+    }
+  },
+    
+    {
+    "title": "Referendum Venezia: quello che i dati dicono, quello che i dati non dicono, quello che i dati suggeriscono",
+    "description": "Data sourcing, data analysis, writing, and data visualizations.",
+"descriptionlong": "A self-initiated article analyzing the results of a local referendum in Venice through data.",
+    "clients": "",
+    "year": "2019",
+    "link":"https://alice-corona.medium.com/referendum-venezia-quello-che-i-dati-dicono-quello-che-i-dati-non-dicono-quello-che-i-dati-47ec47a79700",
+    "image": {
+      "url": "images/features/referendum.png",
+      "width": "100%",
+      "height": "100%"
+    }
+  },
+    
+ {
+    "title": "A tale of body and soul",
+    "description": "Data sourcing, data analysis, data visualizations.",
+"descriptionlong": "An infographic submitted to a contest on the theme of music. The graphic is a visual representation of data coded from Leonard Cohen's masterpiece 'Avalanche'.",
+    "clients": "",
+    "year": "2017",
+    "link":"/works/leonard-cohen/",
+    "image": {
+      "url": "images/features/cohen.png",
+      "width": "100%",
+      "height": "100%"
+    }
+  },
+    
+ {
+    "title": "Latest Data Reveals the Actual Size of The Gender Gap at the Academy Awards",
+    "description": "Data sourcing (scraping + linked open data reconciliation), data analysis, data visualizations, writing.",
+"descriptionlong": "A data-driven analysis of gender representation in 88 years of Oscars and its award categories. The data and visualizations have been featured in several international media outlets, including <a href='https://www.vanityfair.com/hollywood/2016/02/oscar-history-gender'>Vanity Fair</a> and <a href='https://www.indiewire.com/2014/02/5-shocking-statistics-about-gender-inequity-and-academy-awards-29520/'>Indiewire</a>.",
+     "clients": [
+        {
+        name: "Silk", 
+        link: "https://www.silk.co/"},],
+    "year": "2016",
+    "link":"https://medium.com/silk-stories/latest-data-reveals-the-actual-size-of-the-gender-gap-at-the-academy-awards-ad2fff99ef13",
+    "image": {
+      "url": "images/features/oscarsilk.png",
+      "width": "100%",
+      "height": "100%"
+    }
+  },
+
+
+    {
+    "title": "More Than Half A Century Since a Woman Won a Physics Nobel Prize.",
+    "description": "Data sourcing (scraping), data analysis, data visualizations, writing.",
+"descriptionlong": "A Data-Driven Analysis on the Lack of Female Nobel Prize Winners.",
+     "clients": [
+        {
+        name: "Silk", 
+        link: "https://www.silk.co/"},],
+    "year": "2015",
+    "link":"https://medium.com/silk-stories/more-than-half-a-century-since-a-woman-won-a-physics-nobel-prize-788b18c8fe10",
+    "image": {
+      "url": "images/features/nobelsilk.png",
+      "width": "100%",
+      "height": "100%"
+    }
+  },
+
+
+    {
+    "title": "Through The Gender Lens: One Century of Cinema History",
+    "description": "Data sourcing (scraping), data analysis, data visualizations, writing.",
+"descriptionlong": "Data Analysis of 6,000 Movies and Their Bechdel Test Scores. From Pauvre Pierrot (1892) to Jurassic World (2015). The data and visualizations have been featured in several international media outlets, including <a href='https://www.theguardian.com/film/2015/mar/24/films-that-pass-the-bechdel-test-plummet-in-2014'>The Guardian</a>, <a href='https://www.upworthy.com/an-analysis-of-1500-films-resulted-in-1-disturbing-conclusion'>Upworthy</a>, and  <a href='https://www.indiewire.com/2014/02/5-shocking-statistics-about-gender-inequity-and-academy-awards-29520/'>Information is Beautiful</a>.",
+     "clients": [
+        {
+        name: "Silk", 
+        link: "https://www.silk.co/"},],
+    "year": "2015",
+    "link":"https://medium.com/silk-stories/through-the-gender-lens-one-century-of-cinema-history-1f00a96783df",
+    "image": {
+      "url": "images/features/bechdelsilk.png",
+      "width": "100%",
+      "height": "100%"
+    }
+  },
+
+
+{
+    "title": "Dangerously Low Vaccination Rates in California: Is the Golden State Heading for the End of Herd Immunity? Data Answers.",
+    "description": "Data sourcing, data analysis, data visualizations, writing.",
+"descriptionlong": "A look at falling vaccination rates in California. The data and visualizations have been featured in several international media outlets, including <a href='https://www.theatlantic.com/health/archive/2015/01/the-new-measles/384738/'>The Atlantic</a>, <a href='https://edition.cnn.com/2015/02/02/health/measles-how-bad-can-it-be/'>CNN</a>, <a href='https://www.vox.com/2019/1/29/18201982/measles-outbreak-virus-vaccine-symptoms'>Vox</a>, and  <a href='https://www.businessinsider.com/an-infectious-virus-is-making-a-comeback-2015-1?IR=T'>Business Insider</a>.",
+     "clients": [
+        {
+        name: "Silk", 
+        link: "https://www.silk.co/"},],
+    "year": "2015",
+    "link":"https://medium.com/silk-stories/dangerously-low-vaccination-rates-in-california-is-the-golden-state-heading-for-the-end-of-herd-a9dd985d69ee",
+    "image": {
+      "url": "images/features/vaccinessilk.png",
+      "width": "100%",
+      "height": "100%"
+    }
+  },
+
+    
+    {
+    "title": "The Numbers Behind The 2014 Refugee Crisis, in 10 Points.",
+    "description": "Data sourcing, data analysis, data visualizations, writing.",
+"descriptionlong": "The first of a series of articles around the latest UNHCR Report on Refugees and Forced Displacement. Each article uses data, statistics, and Silk’s interactive charts to highlight patterns and trends of the global refugee crisis. ",
+     "clients": [
+        {
+        name: "Silk", 
+        link: "https://www.silk.co/"},],
+    "year": "2015",
+    "link":"https://medium.com/silk-stories/the-numbers-behind-the-2014-refugee-crisis-in-10-points-9e4625a04ac",
+    "image": {
+      "url": "images/features/refugeesilk.png",
+      "width": "100%",
+      "height": "100%"
+    }
+  },
+    
+
+     {
+    "title": "Abortion Rights in The United States.",
+    "description": "Data sourcing, data analysis, data visualizations, writing.",
+"descriptionlong": "This resource compares the laws protecting or limiting women's access to abortion in the different US States. The information is organized in sections, each covering one issue that the World Health Organization identifies as an obstacle to women's human right to access abortion. <br><em>NOTE: Silk has been discontinued and the project is no longer online. Reach out if you are interested in the research</em>. ",
+     "clients": [
+        {
+        name: "Silk", 
+        link: "https://www.silk.co/"},],
+    "year": "2015",
+    "link":"",
+    "image": {
+      "url": "images/features/silk.png",
+      "width": "100%",
+      "height": "100%"
+    }},
+    
+
+{
+    "title": "Oscar 2014: le donne vincono solo una statuetta su cinque",
+    "description": "Data sourcing, data analysis, data visualizations, writing.",
+"descriptionlong": "Latest data on gender diversity at the Academy Awards.",
+     "clients": [
+        {
+        name: "Wired Italy", 
+        link: "https://www.wired.it/"},],
+    "year": "2014",
+    "link":"https://www.wired.it/play/cinema/2014/03/03/oscar-2014-donne/",
+    "image": {
+      "url": "images/features/wiredoscars.png",
+      "width": "100%",
+      "height": "100%"
+    }
+         
+  },
+    
+{
+    "title": "Privacy: ecco come Google, Facebook e gli altri fanno la spia",
+    "description": "Data sourcing, data analysis, data visualizations, writing.",
+"descriptionlong": "Part of a series of analyses aggregating transparency reports from multiple tech companies. (In Italian). Written together with Davide Mancino.",
+     "clients": [
+        {
+        name: "Wired Italy", 
+        link: "https://www.wired.it/"},],
+    "year": "2014",
+    "link":"https://www.wired.it/internet/regole/2014/03/05/privacy-rete/",
+    "image": {
+      "url": "images/features/wiredprivacy2.png",
+      "width": "100%",
+      "height": "100%"
+    }
+         
+  },
+         
+{
+    "title": "NSA Patents.",
+    "description": "Data sourcing, data analysis, data visualizations, writing.",
+"descriptionlong": "A Searchable, Interactive, and Fully-Visualizable Database of Patents Filed by the National Security Agency. Featured in <a href='https://www.kdnuggets.com/2015/09/nsa-patents-analysis-visualization.html'>KDnuggets</a> and  <a href='https://www.schneier.com/blog/archives/2015/10/nsa_patents.html'>Schneier on Security</a>.",
+     "clients": [
+        {
+        name: "Silk", 
+        link: "https://www.silk.co/"},],
+    "year": "2015",
+    "link":"https://medium.com/silk-stories/behind-the-nsa-e0bf2c3a40c0",
+    "image": {
+      "url": "images/features/nsasilk.png",
+      "width": "100%",
+      "height": "100%"
+    }
+         
+  },
+    
+         
+{
+    "title": "The Transparency Report Database",
+    "description": "Data sourcing, data analysis, data visualizations, writing.",
+"descriptionlong": "This project collects all Transparency Reports from major service providers, normalized into a comprehensive data resource for comparing and investigating worldwide government requests for users’ data. Featured by <a href='https://www.eff.org/press/releases/which-tech-companies-help-protect-you-government-data-demands'>The Electronic Frontier Foundation (EFF)</a> and  <a href='https://cdt.org/insights/human-rights-and-surveillance-governments-must-comply-with-their-transparency-obligations/'>The Center for Democracy & Technology</a>. <br><em>NOTE: Silk has been discontinued and the project is no longer online. Reach out if you are interested in the research</em>. ",
+     "clients": [
+        {
+        name: "Silk", 
+        link: "https://www.silk.co/"},],
+    "year": "2014",
+    "link":"",
+    "image": {
+      "url": "images/features/silk.png",
+      "width": "100%",
+      "height": "100%"
+    }},
+    
+{
+    "title": "Women at the International Film Festivals of 2015 - 2016",
+    "description": "Data sourcing, data analysis, data visualizations, writing.",
+"descriptionlong": "A project tracking women's presence at major International Film Festivals. Featured by <a href='https://www.eff.org/press/releases/which-tech-companies-help-protect-you-government-data-demands'>The Guardian</a>. <br><em>NOTE: Silk has been discontinued and the project is no longer online. Reach out if you are interested in the research</em>. ",
+     "clients": [
+        {
+        name: "Silk", 
+        link: "https://www.silk.co/"},],
+    "year": "2016",
+    "link":"",
+    "image": {
+      "url": "images/features/silk.png",
+      "width": "100%",
+      "height": "100%"
+    }},
+    
+        
+{
+    "title": "Privacy: quando il Web fa lo spione",
+    "description": "Data sourcing, data analysis, data visualizations, writing.",
+"descriptionlong": "Part of a series of analyses aggregating transparency reports from multiple tech companies. (In Italian). The main article was featured in the February paper issue of Wired Italy, as well as in a series of online interactives like <a href='https://www.wired.it/internet/regole/2014/03/05/privacy-rete/'>this one</a>. Written together with Davide Mancino.",
+     "clients": [
+        {
+        name: "Wired Italy", 
+        link: "https://www.wired.it/"},],
+    "year": "2014",
+    "link":"https://www.wired.it/internet/regole/2014/03/05/privacy-rete",
+    "image": {
+      "url": "images/features/wired.png",
+      "width": "100%",
+      "height": "100%"
+    }
+         
+  },
+    
+       
+{
+    "title": "WikiLeaks Spy Files. The interactive searchable database",
+    "description": "Data sourcing, data analysis, data visualizations, writing.",
+"descriptionlong": "On the 15th of September 2014, WikiLeaks released its last batch of leaked Spy Files -  which it had started releasing in 2011. I cleaned and structured the data to build an interactive database combining the four Spy Files releases. The project has been featured by <a href='http://www.ibtimes.com/pulse/wikileaks-spy-files-interactive-look-leaked-document-database-1684676'>The International Business Times</a>, <a href='https://www.schneier.com/blog/archives/2014/09/wikileaks_spy_f.html'>Schneier on Security</a>, and <a href='https://netzpolitik.org/tag/alice-corona/'>Netzpolitik</a>. <br><em>NOTE: Silk has been discontinued and the project is no longer online. Reach out if you are interested in the research</em>. ",
+     "clients": [
+        {
+        name: "Silk", 
+        link: "https://www.silk.co/"},],
+    "year": "2014",
+    "link":"",
+    "image": {
+      "url": "images/features/silk.png",
+      "width": "100%",
+      "height": "100%"
+    }
+         
+  },
+
+    {
+    "title": "Mappa del caso Shalabayeva-Abylazov: dal Viminale all'Interpol, le cose non quadrano",
+    "description": "Data sourcing, data analysis, data visualizations, writing.",
+"descriptionlong": "INTERPOL's sketchy mechanism puts activists among the world’s 'Most Wanted'. A closer look at the agency’s database reveals suspicious Red Notice requests. But even more suspicious is what INTERPOL does not reveal. The piece has been developed during my internship at NRC.Next and then published on Wired Italy. See <a href=''>here for the English version</a>",
+     "clients": [
+        {
+        name: "Wired Italy", 
+        link: "https://www.wired.it/"},], 
+    "year": "2013",
+    "link":"https://blog.wired.it/data/2013/11/13/caso-shalabayeva-abylazov-dal-viminale-allinterpol-ecco-le-cose-che-non-quadrano-inchiesta-e-mappa.html",
+    "image": {
+      "url": "images/features/interpol.png",
+      "width": "100%",
+      "height": "100%"
+    }
+         
+  },
+    
+
+     {
+    "title": "#oliocontante, i finanziamenti privati ai partiti italiani",
+    "description": "Data sourcing, data analysis, data visualizations, writing.",
+"descriptionlong": "Using data made publicly available by the Italian Parliament and a interactive network visualization, this article explores the relationships between politicians, political parties, entrepreneurs, companies, and private individuals. Written together with Davide Mancino.",
+     "clients": [
+        {
+        name: "Datajournalism.it", 
+        link: "http://www.datajournalism.it/"},], 
+    "year": "2013",
+    "link":"http://www.datajournalism.it/oliocontante-finanziamenti-privati-partiti/",
+    "image": {
+      "url": "images/features/oliocontante.png",
+      "width": "100%",
+      "height": "100%"
+    }
+         
+  },
+    
+{
+    "title": "Blossoming Books",
+    "description": "Data sourcing, data analysis, data visualizations, writing.",
+"descriptionlong": "Personal project visualizing data on my books, to learn more about APIs, Google Sheets importXML, Gephi, and Sigma.js.",
+     "clients": "", 
+    "year": "2013",
+    "link":"/works/blossoming-books",
+    "image": {
+      "url": "images/features/books.png",
+      "width": "100%",
+      "height": "100%"
+    }
+         
+  },
+    
+{
+    "title": "EU surveillance research: Trends in FP7 surveillance projects",
+    "description": "Data sourcing (scraping), data analysis, data visualizations, writing.",
+"descriptionlong": "Project for <em>Precision Journalism</em> class during my MA at Tilburg University. The article investigates privacy-invasive surveillance technology funded by the EU. The project has been done together with Adriana Homolova",
+     "clients": "", 
+    "year": "2013",
+    "link":"http://watchingthewatchers.weebly.com/technology.html#.YoUMIJNBwq0",
+    "image": {
+      "url": "images/features/watchers.png",
+      "width": "100%",
+      "height": "100%"
+    }
+         
+  },
+
+{
+    "title": "We blog about Oscars",
+    "description": "Data sourcing (scraping), data analysis, data visualizations, writing.",
+"descriptionlong": "Project for <em>Interactive Journalism</em> class during my MA at Tilburg University. The article investigates gender diversity among Oscar winners and nominees.",
+     "clients": "", 
+    "year": "2013",
+    "link":"https://weblogaboutoscars.wordpress.com/alice/",
+    "image": {
+      "url": "images/features/weblog.png",
+      "width": "100%",
+      "height": "100%"
+    }
+         
+  },
+    
+{
+    "title": "Company Diversity Reports",
+    "description": "Data analysis, data visualizations, writing",
+"descriptionlong": "I worked for TalentData to produce interactive reports analyzing, visualizing, and communicating HR analytics to its clients, including Adobe and Garret Motion, with a focus on the hiring, retention, and promotion of female and diverse talent.",
+     "clients": "", 
+    "year": "2021",
+    "link":"",
+    "image": {
+      "url": "images/features/talentdata.png",
+      "width": "100%",
+      "height": "100%"
+    }
+         
+  },
+    ]

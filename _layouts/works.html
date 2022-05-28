@@ -1,0 +1,177 @@
+---
+layout: default
+bodyClass: "page-basic"
+---
+
+<div class="container pb-1 pt-6 pt-md-10 pb-md-5">
+    <div class="row justify-content-start">
+        <div class="col-12 col-md-8">
+                <h1 class="title">{{page.title}}</h1>
+                <div class="content" style="font-size: 1.5em">{{content}}</div>
+        </div>
+    </div>
+</div>
+<div class="strip strip-white">
+  <div class="container pt-1 pb-3 pt-md-1 pb-md-5 ">    
+      
+      {% if page.cat == "projects" %}
+        {% assign years = site.data.projects | sort: "year" | reverse | map: "year" | uniq %}
+        {% assign projects_sorted = site.data.projects | sort: "year" | reverse  %}
+        {% for y in years %}
+            <div class="full"><div class="year"><p>{{y}}</p></div></div><div style="clear: both"></div>
+            {% assign projects_years = site.data.projects | where: "year", y  %}
+            {% for project in projects_years %}
+
+      <div class="row justify-content-left">
+      <div class="col-12 col-md-6 col-lg-3 mb-2">
+        <div class="feature">
+            <div class="feature-image" style="padding-top: 10px;"><a href="{{ project.link }}"><img alt="{{ project.title }} logo" src="{{ project.image.url | relative_url }}" width="{{ project.image.width }}" height="{{ project.image.height }}" /></a></div></div></div>
+          <div class="col-12 col-md-6 col-lg-5 mb-2">
+        <div class="feature">
+            <div class="feature-info" style="margin-top: 0px;">
+            
+          <h2 class="feature-title" style="margin-top: 0px;">{{ project.title }}</h2>
+             <div style="padding-bottom: 5px;">{{ project.descriptionlong }}</div>
+            <div style="padding-bottom: 10px;"><b>MY ROLE: </b>{{ project.description }}</div>
+                <div class="feature-details">
+            {% if project.clients != "" %} {% for client in project.clients %}<div class="feature-client"><i class="fa-solid fa-user-group"></i> <a href="{{ client.link }}">{{ client.name }}</a></div>{% endfor %}{% endif %}
+                    <div class="feature-year"><i class="fa-solid fa-clock"></i>  {{ project.year }}</div>
+                <div class="feature-link"><i class="fa-solid fa-link"></i>  <a href="{{ project.link }}">Go to project</a></div></div></div></div>
+          
+        
+      </div>
+          </div>
+      {% endfor %}
+      {% endfor %}
+      <div style="padding-top: 50px; border-top: 3px solid #2F3C4F1A "><h2>Even more projects...</h2>
+          <p>During my time at <a href="silk.co">Silk</a> (2014 - 2016) I crunched numbers daily, creating hundreds of data journalism articles and data-driven reports on a wide range of topics: from school shootings to US foreign aid to Israel; from gender gap data to EPA violations; from FIFA world cup data to Eurovision voting strategies; from Title IX Violations in the USA to global legislation on self-driving cars.</p> <p>While at Silk, I have also worked with clients in finding, structuring, analyzing, and visualizing data for their own projects. I have supported Human Rights Watch in their reports <a href="https://www.hrw.org/news/2015/05/15/outlawed-legal-discrimination-against-gays-and-lesbians">"Outlawed: Legal Discrimination against Gays and Lesbians"</a> and <a href="https://www.hrw.org/news/2015/03/24/un-rights-council-voting-records-exposed">UN Rights Council: Voting Records Exposed</a>; I have helped the Annals of Improbable Research put their <a href="https://blog.silk.co/post/97801759727/introducing-the-official-ig-r-nobel-prizes-database">Ig® Nobel Prizes in a structured database</a>; and have collaborated with Greenpeace on data for their 2014 reports of the Detox Fashion campaign.</p>
+      <p>Unfortunately, in 2016 Silk was brought by Palantir and the platform was shut down, taking down all the content it hosted. Please reach out if you are interested in any of the data or analysis I have done while at Silk: I have fought obsolesce with Word docs :-) . </p></div>
+          {% endif %}
+      
+      
+      
+      
+      
+      
+      
+      
+      {% if page.cat == "teaching" %}
+        {% assign years = site.data.teaching | sort: "year" | reverse | map: "year" | uniq %}
+        {% assign teaching_sorted = site.data.teaching | sort: "year" | reverse  %}
+        {% for y in years %}
+            <div class="full"><div class="year"><p>{{y}}</p></div></div><div style="clear: both"></div>
+            {% assign teaching_years = site.data.teaching | where: "year", y  %}
+            {% for teaching in teaching_years %}
+
+      <div class="row justify-content-left">
+      <div class="col-12 col-md-6 col-lg-3 mb-2">
+        <div class="feature">
+            <div class="feature-image" style="padding-top: 10px;"><a href="{{ teaching.link }}"><img alt="{{ teaching.title }} logo" src="{{ teaching.image.url | relative_url }}" width="{{ teaching.image.width }}" height="{{ teaching.image.height }}" /></a></div></div></div>
+          <div class="col-12 col-md-6 col-lg-5 mb-2">
+        <div class="feature">
+            <div class="feature-info" style="margin-top: 0px;">
+            
+          <h2 class="feature-title" style="margin-top: 0px;">{{ teaching.title }}</h2>
+             <div style="padding-bottom: 5px;">{{ teaching.descriptionlong }}</div>
+            <div style="padding-bottom: 10px;"><b>MY ROLE: </b>{{ teaching.description }}</div>
+                <div class="feature-details">
+            {% if teaching.clients != "" %} {% for client in teaching.clients %}<div class="feature-client"><i class="fa-solid fa-user-group"></i> <a href="{{ client.link }}">{{ client.name }}</a></div>{% endfor %}{% endif %}
+                    
+                    <div class="feature-year"><i class="fa-solid fa-clock"></i>  {{ teaching.year }}</div>
+                     <div class="feature-location"><i class="fa-solid fa-compass"></i>   {{ teaching.location }}</div>
+                <div class="feature-link"><i class="fa-solid fa-link"></i>  <a href="{{ teaching.link }}">Go to teaching</a></div></div></div></div>
+          
+        
+      </div>
+          </div>
+      {% endfor %}
+      {% endfor %}
+          {% endif %}
+      
+      
+      
+       {% if page.cat == "events" %}
+      {% assign events_active = site.data.events | where: "attended", "no"  %}
+        {% assign years = events_active | sort: "year" | reverse | map: "year" | uniq %}
+        {% assign events_sorted = events_active | sort: "year" | reverse  %}
+        {% for y in years %}
+            <div class="full"><div class="year"><p>{{y}}</p></div></div><div style="clear: both"></div>
+          
+      {% assign events_years = events_active | where: "year", y %}
+            {% for event in events_years %}
+
+      <div class="row justify-content-left">
+      <div class="col-12 col-md-6 col-lg-3 mb-2">
+        <div class="feature">
+            <div class="feature-image" style="padding-top: 10px;"><a href="{{ event.link }}"><img alt="{{ event.title }} logo" src="{{ event.image.url | relative_url }}" width="{{ event.image.width }}" height="{{ event.image.height }}" /></a></div></div></div>
+          <div class="col-12 col-md-6 col-lg-5 mb-2">
+        <div class="feature">
+            <div class="feature-info" style="margin-top: 0px;">
+            
+          <h2 class="feature-title" style="margin-top: 0px;">{{ event.title }}</h2>
+             <div style="padding-bottom: 5px;">{{ event.descriptionlong }}</div>
+            <div style="padding-bottom: 10px;"><b>MY ROLE: </b>{{ event.description }}</div>
+                <div class="feature-details">
+            {% if event.clients != "" %} {% for client in event.clients %}<div class="feature-client"><i class="fa-solid fa-user-group"></i> <a href="{{ client.link }}">{{ client.name }}</a></div>{% endfor %}{% endif %}
+                    {% if event.video %}<div class="feature-video"><i class="fa-solid fa-video"></i>  <a href="{{ event.video }}">See the video of the event</a></div>{% endif %}
+            {% if event.slides %}<div class="feature-slides"><i class="fa-solid fa-desktop"></i>  <a href="{{ event.slides }}">See my slides</a></div>{% endif %}
+                    <div class="feature-year"><i class="fa-solid fa-clock"></i>  {{ event.year }}</div>
+                     <div class="feature-location"><i class="fa-solid fa-compass"></i>   {{ event.location }}</div>
+                <div class="feature-link"><i class="fa-solid fa-link"></i>  <a href="{{ event.link }}">Go to event</a></div></div></div></div>
+          
+        
+      </div>
+          </div>
+      {% endfor %}
+      {% endfor %}
+     <div style="padding-top: 50px; border-top: 3px solid #2F3C4F1A "><h2>Events attended as a participant</h2>
+          <p>Other than speaking at events, I also enjoy participating in them! Here are a few events I have attended over the years </p>
+         {% assign events_attended = site.data.events | where: "attended", "yes"  %}
+         {% assign years = events_attended | sort: "year" | reverse | map: "year" | uniq %}
+         
+           {% for y in years %}
+          <div class="event-list"><h2>{{y}}</h2>
+          
+              <ul>
+                  
+                  {% assign events_attended_years = events_attended | where: "year", y  %}
+                    {% for event in events_attended_years %}
+              <li><a href="{{event.link}}">{{ event.title }}</a> by {% for client in event.clients %}<a href="{{ client.link }}">{{ client.name }}</a>{% endfor %} · {{ event.location }} · {{event.date}}</li>
+                    {% endfor %}
+              </ul>
+              
+         </div>
+          
+      {% endfor %}
+    </div>
+{% endif %}
+      
+       {% if page.cat == "writing" %}
+        {% assign years = site.data.writing | sort: "year" | reverse | map: "year" | uniq %}
+        {% assign writing_sorted = site.data.writing | sort: "year" | reverse  %}
+        {% for y in years %}
+            <div class="full"><div class="year"><p>{{y}}</p></div></div><div style="clear: both"></div>
+            {% assign writing_years = site.data.writing | where: "year", y  %}
+            {% for writing in writing_years %}
+
+      <div class="row justify-content-left">
+     
+          <div class="col-12 col-md-6 col-lg-7 mb-2">
+        <div class="feature">
+            <div class="feature-info" style="margin-top: 0px;">
+            
+          <h2 class="feature-title" style="margin-top: 0px;">{{ writing.title }}</h2>
+                <div style="padding-bottom: 10px;">{{ writing.description }}</div>
+                   <div class="feature-details">
+            {% if writing.clients != "" %} {% for client in writing.clients %}<div class="feature-client"><i class="fa-solid fa-user-group"></i> <a href="{{ client.link }}">{{ client.name }}</a></div>{% endfor %}{% endif %}
+                    <div class="feature-year"><i class="fa-solid fa-clock"></i>  {{ writing.year }}</div>
+                <div class="feature-link"><i class="fa-solid fa-link"></i>  <a href="{{ writing.link }}">Go to article</a></div></div></div></div>
+          
+        
+      </div>
+          </div>
+      {% endfor %}
+      {% endfor %}
+      {% endif %}
+    </div>
+</div>

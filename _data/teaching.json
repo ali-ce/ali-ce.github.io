@@ -1,0 +1,527 @@
+[
+    
+{  
+    "title": "Master Alta Formazione sui dati Ed.2",
+    "description": "Teacher, tutor, and learning manager",
+    "descriptionlong": "16-weeks intensive learning program on data literacy, statistics, data visualization, and storytelling. I taught lessons on data formats, data sources, GSheet basic and advanced uses, Open Refine and data cleaning, Google Data Studio and dashboards, and data visualization with Datawrapper, Flourish, and Infogram. I also supported students in developing their group projects with the program's data partners: Fondazione Compagnia di San Paolo; Produzioni dal Basso; and SeaWatch.",
+     "clients": [
+        {
+        name: "Dataninja", 
+        link: "https://dataninja.it"}],
+    "year": "2021",
+    "link":"https://school.dataninja.it/pages/master-data-leader-ii-edizione",
+    "location": "Online",
+    "featured": 1,
+    "image": {
+      "url": "images/features/master2.png",
+      "width": "100%",
+      "height": "100%"
+    }
+  },
+    
+    
+      {
+    "title": "2021 Fellowship Program, Marimekko Cohort",
+    "description": "Cohort Tech Support",
+          "descriptionlong": "The fellowship guided 4 East African NGOs in creating a data storytelling project to communicate their own datasets. I taught sessions on data storytelling techniques and the use of Datawrapper, based on Data4Change's program.",
+        "clients": [
+        {
+        name: "Data4Change", 
+        link: "https://www.data4chan.ge/"}],
+    "year": "2021",
+    "link":"https://www.data4chan.ge/",
+    "location": "Online",
+    "featured": 1,
+    "image": {
+      "url": "images/features/d4c.png",
+      "width": "100%",
+      "height": "100%"
+    }
+  },
+    
+    {
+    "title": "Communication of Statistics and Data Business Analytics",
+    "description": "Contract Professor",
+      "descriptionlong":"The course covered the main skills related to data communication, such as the design of a data communication product, from the sourcing and interpretation of data to their graphic representation; and the creation of data visualizations, charts, and dashboards using the main tools of the industry. The course comprised of both frontal lessons and practical exercises.",
+    "clients": [
+        {
+        name: "University of Bologna", 
+        link: "https://www.unibo.it/it"}],
+    "year": "2021",
+    "link":"https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2021/469992",
+    "location": "Bologna, Italy",
+    "featured": 1,
+    "image": {
+      "url": "images/features/unibo.png",
+      "width": "100%",
+      "height": "100%"
+    }
+  },
+    
+      {
+    "title": "Data Feminism Workshop on critical data practices",
+    "description": "Workshop Lead",
+    "descriptionlong":"A two-day workshop for women's rights organizations from Spain and Greece on data literacy for communicators, with a focus on how to work with data by applying the Data feminism critique throughout the different phases of a data project's workflow. The workshop combined both theory and practical activities.",
+     "clients": [
+        {
+        name: "Maghweb", 
+        link: "https://www.maghweb.org/"}],
+    "year": "2021",
+    "link":"https://www.maghweb.org/data-feminism-un-nuovo-modo-di-pensare-alla-scienza-dei-dati-e-alla-loro-etica/",
+    "location": "Palermo, Italy",
+    "featured": 1,
+    "image": {
+      "url": "images/features/maghweb2.png",
+      "width": "100%",
+      "height": "100%"
+    }
+  },
+    
+  {
+    "title": "Master Alta Formazione sui dati Ed.1",
+    "description": "Teacher and tutor",
+    "descriptionlong": "16-weeks intensive learning program on data literacy, statistics, data visualization, and storytelling. I taught lessons on data formats, data sources, GSheet basic and advanced uses, Open Refine and data cleaning, and data visualization with Datawrapper, Flourish, Infogram and RawGraph. I also supported students in developing their group projects with the program's data partners: Fondazione Compagnia di San Paolo; MAXXI Museo nazionale delle arti del XXI secolo; LWT3; and Medici Senza Frontiere.",
+     "clients": [
+        {
+        name: "Dataninja", 
+        link: "https://dataninja.it"}],
+    "year": "2021",
+    "link":"https://school.dataninja.it/pages/master-data-leader",
+    "location": "Online",
+    "image": {
+      "url": "images/features/master1.jpg",
+      "width": "100%",
+      "height": "100%"
+    }
+  },
+    
+     {
+    "title": "Graphic infotainment: comunicare con i dati",
+    "description": "Instructor",
+          "descriptionlong": "An intensive 8-weeks online program for female SME female entrepreneurs focused on open-source tools to incorporate data analysis and data communication in their brand marketing strategy.",
+        "clients": [
+        {
+        name: "Ecipa NordEst", 
+        link: "https://www.ecipa.eu/"},],
+    "year": "2021",
+    "link":"https://www.ecipa.eu/r-o-s-e-rise-open-source-empowerment-management-e-comunicazione-con-i-dati/",
+    "location": "Online",
+    "image": {
+      "url": "images/features/ecipa.png",
+      "width": "100%",
+      "height": "100%"
+    }},
+    {
+    "title": "Data Storytelling - MA Course",
+    "description": "Contract Professor",
+          "descriptionlong": "I taught a 10-hour module on Data Storytelling in the Data Science MA at Bologna Business School. ",
+        "clients": [
+        {
+        name: "Bologna Business School", 
+        link: "https://www.bbs.unibo.eu/master-fulltime/master-in-data-science-2/"}],
+    "year": "2021",
+    "link":"",
+    "location": "Bologna, Italy",
+    "image": {
+      "url": "images/features/bbs.png",
+      "width": "100%",
+      "height": "100%"
+    }
+  },
+      {
+    "title": "Data for Good - Mentorship Program",
+    "description": "Mentor",
+          "descriptionlong": "The mentorship consisted of a self-paced online learning program and of a three-day intensive live Data Camp. At the end of the mentorship, the participating NGOs developed visualization and storytelling prototypes to communicate their datasets.",
+        "clients": [
+        {
+        name: "Dataninja", 
+        link: "https://dataninja.it/"}],
+    "year": "2019",
+    "link":"https://innovazionesviluppo.org/formazione/data-for-good-mentorship/",
+    "location": "Online // Milano, Italy",
+    "image": {
+      "url": "images/features/data4good.png",
+      "width": "100%",
+      "height": "100%"
+    }
+  },
+    
+ {
+    "title": "Introduction to Data - Course",
+    "description": "Course Creator",
+          "descriptionlong": "An introductory data literacy course, covering topics such as data formats, data cleaning, basic statistics, Google Spreadsheet formulas, and Pivot Tables.",
+        "clients": [
+        {
+        name: "Dataninja", 
+        link: "https://dataninja.it/"}],
+    "year": "2019",
+    "link":"https://school.dataninja.it/courses/introduzione-ai-dati",
+    "location": "Online",
+    "image": {
+      "url": "images/features/introdati.png",
+      "width": "100%",
+      "height": "100%"
+    }
+  },
+
+    {
+    "title": "Data Visualization - Course",
+    "description": "Course Creator",
+          "descriptionlong": "A course on the theory and practice of data visualization, including tutorials on how to use the tools Datawrapper, Floruish, and ArcGIS Online to create interactive charts and maps.",
+        "clients": [
+        {
+        name: "Dataninja", 
+        link: "https://dataninja.it/"}],
+    "year": "2019",
+    "link":"https://school.dataninja.it/courses/data-visualization-livello-base",
+    "location": "Online",
+    "image": {
+      "url": "images/features/dataviz.png",
+      "width": "100%",
+      "height": "100%"
+    }
+  },
+    
+     {
+    "title": "Create an Infographic - Course",
+    "description": "Course Creator",
+          "descriptionlong": "A course with a step-by-step process to create an infographic, including tutorials on how to use the tools Canva and Infogram.",
+        "clients": [
+        {
+        name: "Dataninja", 
+        link: "https://dataninja.it/"}],
+    "year": "2020",
+    "link":"https://school.dataninja.it/courses/infografica",
+    "location": "Online",
+    "image": {
+      "url": "images/features/infografica.png",
+      "width": "100%",
+      "height": "100%"
+    }
+  },
+    
+     {
+    "title": "Let's play with data from Wikipedia - Webinar",
+    "description": "Webinar Creator and Instructor",
+          "descriptionlong": "A 30-minute crash course on extracting data from Wikipedia into a Google Spreadsheet, through Wikidata queries.",
+        "clients": [
+        {
+        name: "Dataninja", 
+        link: "https://dataninja.it/"}],
+    "year": "2020",
+    "link":"",
+    "location": "Online",
+    "image": {
+      "url": "images/features/wikidata.png",
+      "width": "100%",
+      "height": "100%"
+    }
+  },
+    
+         {
+    "title": "Where to find data - Webinar",
+    "description": "Webinar Creator and Instructor",
+          "descriptionlong": "A 30-minute crash course on the different types of data sources, from open data portals to scraping and APIs.",
+        "clients": [
+        {
+        name: "Dataninja", 
+        link: "https://dataninja.it/"}],
+    "year": "2020",
+    "link":"https://school.dataninja.it/courses/workshop-dove-trovo-i-dati",
+    "location": "Online",
+    "image": {
+      "url": "images/features/trovodati.png",
+      "width": "100%",
+      "height": "100%"
+    }
+  },
+    
+     {
+    "title": "Cleaning data with Open Refine - Webinar",
+    "description": "Webinar Creator and Instructor",
+          "descriptionlong": "A 60-minute crash course on using Open Refine to clean and enhance data, including its most advanced features, such as LOD reconciliation, GREL, and clustering algorithms.",
+        "clients": [
+        {
+        name: "Dataninja", 
+        link: "https://dataninja.it/"}],
+    "year": "2021",
+    "link":"https://school.dataninja.it/courses/workshop-pulizia-dei-dati-con-open-refine",
+    "location": "Online",
+    "image": {
+      "url": "images/features/openrefine.png",
+      "width": "100%",
+      "height": "100%"
+    }
+  },
+    
+ {
+    "title": "Data visualizations in vector graphics with RawGraphs - Webinar",
+    "description": "Webinar Creator and Instructor",
+          "descriptionlong": "A 60-minute crash course on vector graphics and on using the open-source tools RawGraphs and Inkscape to create and edit data visualizations in the .SVG format.",
+        "clients": [
+        {
+        name: "Dataninja", 
+        link: "https://dataninja.it/"}],
+    "year": "2021",
+    "link":"https://school.dataninja.it/courses/Data-visualization-in-vettoriale-con-RAW-Graph",
+    "location": "Online",
+    "image": {
+      "url": "images/features/raw.png",
+      "width": "100%",
+      "height": "100%"
+    }
+  },
+
+{
+    "title": "Create your first map - Webinar",
+    "description": "Webinar Creator and Instructor",
+          "descriptionlong": "A 60-minute crash course on maps: from geodata formats to projections, from choosing a map type to using online tools such as Datawrapper, ArcGIS Online, and Flourish .",
+        "clients": [
+        {
+        name: "Dataninja", 
+        link: "https://dataninja.it/"}],
+    "year": "2020",
+    "link":"https://school.dataninja.it/courses/webinar-mappa",
+    "location": "Online",
+    "image": {
+      "url": "images/features/maps.png",
+      "width": "100%",
+      "height": "100%"
+    }
+  },
+    
+    {
+    "title": "Make your data visualizations more inclusive - Webinar",
+    "description": "Webinar Creator and Instructor",
+          "descriptionlong": "A 60-minute crash course on making sure data visualizations are accessible and inclusive.",
+        "clients": [
+        {
+        name: "Dataninja", 
+        link: "https://dataninja.it/"}],
+    "year": "2020",
+    "link":"https://school.dataninja.it/courses/data-visualization-inclusive",
+    "location": "Online",
+    "image": {
+      "url": "images/features/inclusive.png",
+      "width": "100%",
+      "height": "100%"
+    }
+  },
+    
+    {
+    "title": "Data Literacy and Data Viz - Programs for NGOs and businesses",
+    "description": "Course creator and tutor",
+          "descriptionlong": "I guided company employees and not-for-profit employees through custom data literacy and data visualization learning programs. In this context, I worked with <a href='https://www.generali.it/'>Generali</a>, <a href='https://it.expleogroup.com/it/'>Expleo</a>, <a href='https://www.saperedigitale.org/'>Sapere Digitale</a> and <a href='https://www.ascuoladiopencoesione.it/'>A Scuola di Open Coesione</a>.  ",
+        "clients": [
+        {
+        name: "Dataninja", 
+        link: "https://dataninja.it/"}],
+    "year": "2020",
+    "link":"https://school.dataninja.it/pages/aziende",
+    "location": "Online",
+    "image": {
+      "url": "images/features/corporate.png",
+      "width": "100%",
+      "height": "100%"
+    }
+  },
+    
+{
+    "title": "Data Storytelling - MA Course",
+    "description": "Contract Professor",
+          "descriptionlong": "I taught a 10-hour module on Data Storytelling in the Data Science MA at Bologna Business School. ",
+        "clients": [
+        {
+        name: "Bologna Business School", 
+        link: "https://www.bbs.unibo.eu/master-fulltime/master-in-data-science-2/"}],
+    "year": "2020",
+    "link":"",
+    "location": "Bologna, Italy",
+    "image": {
+      "url": "images/features/bbs.png",
+      "width": "100%",
+      "height": "100%"
+    }
+  },
+    
+{
+    "title": "Data Storytelling - MA Course",
+    "description": "Contract Professor",
+          "descriptionlong": "I taught a 10-hour module on Data Storytelling in the Data Science MA at Bologna Business School. ",
+        "clients": [
+        {
+        name: "Bologna Business School", 
+        link: "https://www.bbs.unibo.eu/master-fulltime/master-in-data-science-2/"}],
+    "year": "2019",
+    "link":"",
+    "location": "Bologna, Italy",
+    "image": {
+      "url": "images/features/bbs.png",
+      "width": "100%",
+      "height": "100%"
+    }
+  },
+
+    {
+    "title": "Data Storytelling - MA Course",
+    "description": "Contract Professor",
+          "descriptionlong": "I taught a 10-hour module on Data Storytelling in the Data Science MA at Bologna Business School. ",
+        "clients": [
+        {
+        name: "Bologna Business School", 
+        link: "https://www.bbs.unibo.eu/master-fulltime/master-in-data-science-2/"}],
+    "year": "2018",
+    "link":"",
+    "location": "Bologna, Italy",
+    "image": {
+      "url": "images/features/bbs.png",
+      "width": "100%",
+      "height": "100%"
+    }
+  },
+
+        {
+    "title": "Data Visualization Skills - Course",
+    "description": "Instructor",
+          "descriptionlong": "An online course created in collaboration with Dataninja for students of the University of Milan.",
+        "clients": [
+        {
+        name: "Dataninja", 
+        link: "https://www.dataninja.it"},
+        {name: "Università degli Studi di Milano", 
+        link: "https://www.unimi.it/it"}],
+    "year": "2018",
+    "link":"https://unimi2018.dataninja.it/",
+    "location": "Online",
+    "image": {
+      "url": "images/features/slidewiki.png",
+      "width": "100%",
+      "height": "100%"
+    },
+            
+  },
+    
+        {
+    "title": "A Data Journalism Primer - Guest Lecture",
+    "description": "Instructor",
+          "descriptionlong": "Guest lecture on data journalism to students of the Data Science MA.",
+        "clients": [
+        {
+        name: "Jheronimus Academy of Data Science (JADS)", 
+        link: "https://www.jads.nl/"}],
+    "year": "2017",
+    "link":"",
+    "location": "'s-Hertogenbosch, The Netherlands",
+    "image": {
+      "url": "images/features/jads.png",
+      "width": "100%",
+      "height": "100%"
+    }},
+            
+ {
+    "title": "Data Journalism Workshop",
+    "description": "Workshop Lead",
+          "descriptionlong": "A step-by-step workshop during the event Shift, Shape Mobilize by Sourcefabric. The workshop covered APIs, Gsheets advanced formulas, and Open Refine, to quantify the gender gap among directors awarded at movie festivals.",
+        "clients": [
+        {
+        name: "Sourcefabric", 
+        link: "https://www.sourcefabric.org/"}],
+    "year": "2016",
+    "link":"https://blog.sourcefabric.org/en/news/blog/3487/Shift-Shape-Mobilize-goes-to-Odessa!.htm",
+    "location": "Odessa, Ukraine",
+    "image": {
+      "url": "images/features/odessa.png",
+      "width": "100%",
+      "height": "100%"
+    },
+            
+  },
+
+ {
+    "title": "Hack your career: how to use data to monitor job markets",
+    "description": "Workshop Lead",
+          "descriptionlong": "A step-by-step workshop during the event Shift, Shape Mobilize by Sourcefabric. The workshop covered APIs, Gsheets advanced formulas, and Open Refine, to quantify the gender gap among directors awarded at movie festivals.",
+        "clients": [
+        {
+        name: "Growth Tribe Academy", 
+        link: "https://www.growthtribe.io/"},
+        {
+        name: "Silk", 
+        link: "https://www.silk.co/"}],
+    "year": "2016",
+    "link":"https://medium.com/silk-stories/hack-your-carreer-how-to-use-data-to-monitor-job-markets-c1efd9e83f26",
+    "location": "Amsterdam, The Netherlands",
+    "image": {
+      "url": "images/features/growthtribe.png",
+      "width": "100%",
+      "height": "100%"
+    },
+            
+  },
+
+    {
+    "title": "How to use build and organize your dataset",
+    "description": "Workshop Lead",
+          "descriptionlong": "A webinar on preparing spreadsheets for your projects..",
+        "clients": [
+        {
+        name: "InfoTimes", 
+        link: "https://infotimes.org/"},
+           {
+        name: "Silk", 
+        link: "https://www.silk.co/"}],
+    "year": "2016",
+    "link":"https://medium.com/info-times/how-to-use-silk-to-publish-data-driven-stories-efficiently-b3c5d5ae48b0",
+    "location": "Online",
+    "image": {
+      "url": "images/features/infotimes.png",
+      "width": "100%",
+      "height": "100%"
+    },
+            
+  },
+    
+    {
+    "title": "Data4Change 2015 Beirut Design Sprint",
+    "description": "Mentor & Support",
+          "descriptionlong": "A 5-days design sprint for Civil Society Organizations from Syria, Lebanon, Egypt, and the Gulf region, to prototype a data storytelling product to communicate each CSO's data. As a floating mentor, I provided support to the various groups. ",
+        "clients": [
+        {
+        name: "Data4Change", 
+        link: "https://www.data4chan.ge"},
+           {
+        name: "Silk", 
+        link: "https://www.silk.co/"}],
+    "year": "2015",
+    "link":"https://www.data4chan.ge/events/beirut-2015?itemId=isxciks6ybuipv8engjtkpn7x5dfcb",
+    "location": "Beirut, Lebanon ",
+    "image": {
+      "url": "images/features/beirut.png",
+      "width": "100%",
+      "height": "100%"
+    },
+            
+  },
+    
+{
+    "title": "Silk's Summer Webinar: Cleaning and enhancing datasets with the Silk data team",
+    "description": "Instructor",
+          "descriptionlong": "The webinar focuses on cleaning and enhancing data. In the webinar, I share tips, tricks, and tools I use to make data look pretty.",
+        "clients": [
+           {
+        name: "Silk", 
+        link: "https://www.silk.co/"}],
+    "year": "2015",
+    "link":"https://www.youtube.com/watch?v=kwU-qMasCL0",
+    "location": "Online",
+    "image": {
+      "url": "images/features/cleaning.png",
+      "width": "100%",
+      "height": "100%"
+    },
+            
+  },
+
+
+    
+    ]

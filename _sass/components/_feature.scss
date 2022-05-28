@@ -1,0 +1,128 @@
+.headline-feature h1, 
+.headline-feature p {
+ display: inline-block;
+}
+
+.headline-feature h1,  {
+ text-transform : uppercase;
+ font-family: "Avenir", sans-serif;
+ font-size: 0.9em
+}
+
+.headline-feature p{
+  text-align:right;
+  float:right;
+    font-size: 0.9em
+
+}
+.headline-feature a{
+  color:$primary;
+
+}
+
+.about-feature {
+    max-width: 100%;
+    padding-bottom: 20px;
+}
+
+.about-feature p {
+    font-weight: lighter;
+         font-size: 2em;
+    font-family: "Playfair Display", serif;
+    line-height: 1.4em;
+    padding-bottom: 20px;
+}
+
+
+.feature {
+  height: 100%;
+}
+.feature-image {
+    flex: 0 0 auto;
+    width: 100%;
+    display: flex;
+  }
+    
+img {
+    height: auto;
+      float: left;
+  }
+
+.feature-info 
+    {margin-top: 10px;
+        margin-bottom: 50px;
+    font-size: 1.3em;
+    @include media-breakpoint-up(md) {
+    font-size: 1em;
+    margin-bottom: 20px;
+  }
+    }
+
+.feature-details
+    {margin-top: 10px;
+    font-size: 0.8em;
+        margin-bottom: 50px;
+}
+.feature-details div
+    {margin-bottom: 0.2em;
+    }
+
+.feature-title{
+    height: auto;
+    margin-top: 15px;
+}
+
+.feature-title h2{
+      font-size: 1.1em;
+  }
+
+.feature-content {
+    margin-bottom: 10px;
+    margin-top: auto;
+  }
+
+.feature-link i {
+    color: $primary
+}
+    
+.full {
+    width: 75vw;
+    margin-top:20px;
+    margin-bottom: 50px;
+    border-top:  3px solid #2F3C4F1A;
+    }
+    
+.year {
+    float: left;
+    font-size: 5em;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    font-weight:  900;
+    @include media-breakpoint-up(md) {
+    float: right;
+    margin-bottom: 10px;
+  }
+}
+
+.year p {color: #2F3C4F1A;}
+
+.year-cv {font-size: 1.5em; float: none; font-weight:  100;}
+.event-list {
+    padding-top: 2em;
+}
+.event-list h2 {
+
+    font-family: "Avenir", sans-serif
+    }
+
+.event-list ul {
+    margin-left: 30px;
+}
+
+.event-list li{
+    margin-bottom: 10px;
+}
+
+.cv h2 {font-size: 1.2em}
+.cv p {font-size: 0.8em; line-height: 1.2em;}
+.cv i {padding-right: 10px}

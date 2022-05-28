@@ -1,0 +1,12 @@
+.social {
+  display: block;
+    
+  a {
+    display: inline-block;
+      color: $white;
+    &:hover {
+      color: 0.2;
+    }
+  }
+    i {color: $primary}
+}
