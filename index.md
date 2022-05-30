@@ -12,3 +12,5 @@ show_call_box: false
 ## <span style="letter-spacing:0.4px"><span class="highlight">Creator</span> of data narratives • Data literacy education <span class="highlight">learning designer</span> and <span class="highlight">trainer</span> •  Data <span class="highlight">activist</span>
 
 I am a freelance consultant specialized in data communication and visualization — and in teaching these topics.
+<p style="font-size:1em;padding-bottom:40px;">Data + Content <i class="fa-solid fa-at"></i> <a href="https://sheldon.studio/">Sheldon.Studio</a><br>
+    Data + Education <i class="fa-solid fa-at"></i> <a href="https://dataninja.it/">Dataninja</a> // <i class="fa-solid fa-at"></i> <a href="https://unibo.it/">University of Bologna</a></p>
