@@ -521,6 +521,26 @@
     },
             
   },
+    
+    
+{
+    "title": "Spatial data visualization",
+    "description": "Instructor",
+          "descriptionlong": "A one-day seminar on the theory and practice of visualizing spatial data, for PhD students in Geography of the University of Rome.",
+        "clients": [
+           {
+        name: "Sapienza - Università di Roma", 
+        link: "https://web.uniroma1.it/memotef/node/6524"}],
+    "year": "2022",
+    "link":"https://web.uniroma1.it/memotef/node/6524",
+    "location": "Rome, Italy",
+    "image": {
+      "url": "images/features/uniroma.png",
+      "width": "100%",
+      "height": "100%"
+    },
+            
+  },
 
 
     
